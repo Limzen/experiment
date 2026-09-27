@@ -287,3 +287,4 @@ Milestone PR #291 (test(core): normalize response format) merged at 2026-09-27 1
 Milestone PR #292 (refactor(worker): clean up unused imports) merged at 2026-09-27 12:43:54
 Milestone PR #293 (feat(handler): remove deprecated method calls) merged at 2026-09-27 12:44:09
 Milestone PR #295 (feat(utils): fix incorrect status code on failure) merged at 2026-09-27 12:44:23
+Milestone PR #292 (docs(api): refactor callback to async/await) merged at 2026-09-27 12:44:23
