@@ -553,3 +553,4 @@ Milestone PR #697 (test(cache): handle empty collection case) merged at 2026-09-
 [2026-09-27 13:42:13] chore(ui): improve input sanitization logic
 Milestone PR #701 (chore(logger): update configuration schema) merged at 2026-09-27 13:42:13
 Milestone PR #703 (style(cache): improve input sanitization logic) merged at 2026-09-27 13:42:27
+Milestone PR #704 (test(api): extract constants to config file) merged at 2026-09-27 13:42:42
