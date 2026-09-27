@@ -673,3 +673,4 @@ Milestone PR #857 (fix(core): streamline data transformation step) merged at 202
 Milestone PR #859 (style(worker): resolve null reference in edge case) merged at 2026-09-27 14:04:10
 [2026-09-27 14:04:19] chore(config): simplify conditional branching
 [2026-09-27 14:04:33] style(cache): fix race condition in async handler
+Milestone PR #862 (docs(config): add early return for invalid state) merged at 2026-09-27 14:04:39
