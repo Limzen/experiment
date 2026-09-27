@@ -646,3 +646,4 @@ Milestone PR #818 (fix(config): extract reusable helper function) merged at 2026
 [2026-09-27 13:58:53] refactor(ui): add early return for invalid state
 Milestone PR #820 (test(router): fix race condition in async handler) merged at 2026-09-27 13:58:54
 [2026-09-27 13:59:08] docs(model): reduce memory allocation on startup
+[2026-09-27 13:59:23] fix(handler): consolidate duplicated validation logic
