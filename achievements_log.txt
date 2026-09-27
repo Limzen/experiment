@@ -264,3 +264,4 @@ Milestone PR #262 (docs(db): extract constants to config file) merged at 2026-09
 Milestone PR #263 (chore(core): resolve null reference in edge case) merged at 2026-09-27 11:56:27
 Milestone PR #264 (style(model): improve input sanitization logic) merged at 2026-09-27 11:56:42
 Milestone PR #265 (refactor(auth): fix off-by-one in pagination logic) merged at 2026-09-27 11:56:56
+Milestone PR #266 (fix(worker): fix off-by-one in pagination logic) merged at 2026-09-27 11:57:11
