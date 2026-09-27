@@ -348,3 +348,4 @@ Milestone PR #395 (style(ui): remove deprecated method calls) merged at 2026-09-
 Milestone PR #396 (perf(model): resolve null reference in edge case) merged at 2026-09-27 12:58:52
 Milestone PR #397 (fix(cache): update dependency to latest stable) merged at 2026-09-27 12:59:04
 Milestone PR #398 (style(service): update dependency to latest stable) merged at 2026-09-27 12:59:07
+Milestone PR #399 (refactor(ui): fix off-by-one in pagination logic) merged at 2026-09-27 12:59:19
