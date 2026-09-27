@@ -141,3 +141,4 @@ Milestone PR #139 (feat(model): extract reusable helper function) merged at 2026
 Milestone PR #140 (fix(parser): improve retry handling on timeout) merged at 2026-09-27 11:28:12
 Milestone PR #141 (refactor(config): improve retry handling on timeout) merged at 2026-09-27 11:28:25
 Milestone PR #142 (refactor(config): fix incorrect status code on failure) merged at 2026-09-27 11:28:38
+Milestone PR #143 (chore(handler): normalize response format) merged at 2026-09-27 11:28:52
