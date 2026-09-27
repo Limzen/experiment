@@ -384,3 +384,4 @@ Milestone PR #462 (style(utils): streamline data transformation step) merged at 
 Milestone PR #463 (feat(ui): add JSDoc for public functions) merged at 2026-09-27 13:09:08
 Milestone PR #467 (chore(router): add JSDoc for public functions) merged at 2026-09-27 13:09:46
 Milestone PR #470 (docs(core): handle empty collection case) merged at 2026-09-27 13:10:47
+Milestone PR #478 (feat(router): improve retry handling on timeout) merged at 2026-09-27 13:11:33
