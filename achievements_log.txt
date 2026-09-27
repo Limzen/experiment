@@ -491,3 +491,4 @@ Milestone PR #622 (fix(model): reduce memory allocation on startup) merged at 20
 Milestone PR #624 (chore(router): add JSDoc for public functions) merged at 2026-09-27 13:30:52
 Milestone PR #619 (perf(api): resolve null reference in edge case) merged at 2026-09-27 13:31:06
 Milestone PR #626 (docs(worker): update dependency to latest stable) merged at 2026-09-27 13:31:07
+Milestone PR #629 (refactor(logger): extract constants to config file) merged at 2026-09-27 13:31:22
