@@ -59,3 +59,4 @@ Milestone PR #57 (docs(parser): add input length validation) merged at 2026-09-2
 Milestone PR #58 (test(utils): update error messages to be more descriptive) merged at 2026-09-27 11:09:21
 Milestone PR #59 (chore(model): streamline data transformation step) merged at 2026-09-27 11:09:36
 Milestone PR #60 (test(service): reduce memory allocation on startup) merged at 2026-09-27 11:09:50
+Milestone PR #61 (fix(config): reduce memory allocation on startup) merged at 2026-09-27 11:10:05
