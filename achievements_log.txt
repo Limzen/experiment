@@ -468,3 +468,4 @@ Milestone PR #594 (docs(service): extract reusable helper function) merged at 20
 Milestone PR #593 (fix(ui): improve test coverage for boundary values) merged at 2026-09-27 13:27:06
 Milestone PR #596 (refactor(api): update configuration schema) merged at 2026-09-27 13:27:08
 Milestone PR #597 (fix(model): remove deprecated method calls) merged at 2026-09-27 13:27:20
+Milestone PR #598 (style(api): improve retry handling on timeout) merged at 2026-09-27 13:27:22
