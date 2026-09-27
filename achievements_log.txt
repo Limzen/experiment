@@ -258,3 +258,4 @@ Milestone PR #256 (style(api): fix incorrect status code on failure) merged at 2
 Milestone PR #257 (fix(worker): update error messages to be more descriptive) merged at 2026-09-27 11:55:01
 Milestone PR #258 (test(service): refactor callback to async/await) merged at 2026-09-27 11:55:15
 Milestone PR #259 (refactor(config): improve retry handling on timeout) merged at 2026-09-27 11:55:29
+Milestone PR #260 (fix(utils): streamline data transformation step) merged at 2026-09-27 11:55:43
