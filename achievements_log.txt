@@ -283,3 +283,4 @@ Milestone PR #287 (feat(db): improve variable naming for clarity) merged at 2026
 Milestone PR #288 (test(auth): fix incorrect status code on failure) merged at 2026-09-27 12:42:56
 Milestone PR #289 (perf(config): refactor callback to async/await) merged at 2026-09-27 12:43:10
 Milestone PR #290 (docs(auth): update configuration schema) merged at 2026-09-27 12:43:25
+Milestone PR #291 (test(core): normalize response format) merged at 2026-09-27 12:43:39
