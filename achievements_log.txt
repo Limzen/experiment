@@ -259,3 +259,4 @@ Milestone PR #257 (fix(worker): update error messages to be more descriptive) me
 Milestone PR #258 (test(service): refactor callback to async/await) merged at 2026-09-27 11:55:15
 Milestone PR #259 (refactor(config): improve retry handling on timeout) merged at 2026-09-27 11:55:29
 Milestone PR #260 (fix(utils): streamline data transformation step) merged at 2026-09-27 11:55:43
+Milestone PR #261 (refactor(logger): remove deprecated method calls) merged at 2026-09-27 11:55:58
