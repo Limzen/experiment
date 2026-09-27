@@ -810,3 +810,4 @@ Milestone PR #1024 (test(core): resolve null reference in edge case) merged at 2
 [2026-09-27 14:26:05] fix(api): fix race condition in async handler
 Milestone PR #1026 (refactor(router): remove deprecated method calls) merged at 2026-09-27 14:26:06
 Milestone PR #1028 (test(api): refactor callback to async/await) merged at 2026-09-27 14:26:21
+Milestone PR #1029 (style(parser): reduce memory allocation on startup) merged at 2026-09-27 14:26:37
