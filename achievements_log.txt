@@ -172,3 +172,4 @@ Milestone PR #170 (test(router): improve retry handling on timeout) merged at 20
 Milestone PR #171 (refactor(handler): update dependency to latest stable) merged at 2026-09-27 11:35:04
 Milestone PR #172 (refactor(model): standardize log message format) merged at 2026-09-27 11:35:17
 Milestone PR #173 (test(api): fix race condition in async handler) merged at 2026-09-27 11:35:30
+Milestone PR #174 (fix(ui): add early return for invalid state) merged at 2026-09-27 11:35:43
