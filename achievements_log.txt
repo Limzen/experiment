@@ -335,3 +335,4 @@ Milestone PR #378 (test(service): extract reusable helper function) merged at 20
 Milestone PR #379 (chore(cache): clean up unused imports) merged at 2026-09-27 12:56:45
 Milestone PR #380 (fix(logger): add JSDoc for public functions) merged at 2026-09-27 12:56:58
 Milestone PR #381 (style(handler): improve input sanitization logic) merged at 2026-09-27 12:56:59
+Milestone PR #380 (refactor(core): fix race condition in async handler) merged at 2026-09-27 12:57:12
