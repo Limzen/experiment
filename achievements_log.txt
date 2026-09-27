@@ -826,3 +826,4 @@ Milestone PR #1044 (feat(service): fix off-by-one in pagination logic) merged at
 Milestone PR #1045 (perf(cache): optimize query with indexed fields) merged at 2026-09-27 14:28:51
 Milestone PR #1047 (feat(worker): improve test coverage for boundary values) merged at 2026-09-27 14:29:03
 [2026-09-27 14:29:13] chore(auth): add input length validation
+Milestone PR #1049 (refactor(worker): extract constants to config file) merged at 2026-09-27 14:29:17
