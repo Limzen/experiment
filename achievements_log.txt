@@ -435,3 +435,4 @@ Milestone PR #545 (perf(logger): standardize log message format) merged at 2026-
 Milestone PR #546 (test(service): improve test coverage for boundary values) merged at 2026-09-27 13:21:00
 Milestone PR #550 (fix(config): update configuration schema) merged at 2026-09-27 13:21:14
 Milestone PR #553 (style(handler): simplify conditional branching) merged at 2026-09-27 13:21:36
+Milestone PR #554 (docs(worker): fix off-by-one in pagination logic) merged at 2026-09-27 13:21:50
