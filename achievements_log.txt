@@ -117,3 +117,4 @@ Milestone PR #115 (perf(ui): resolve null reference in edge case) merged at 2026
 Milestone PR #116 (chore(handler): clean up unused imports) merged at 2026-09-27 11:22:46
 Milestone PR #117 (docs(utils): improve test coverage for boundary values) merged at 2026-09-27 11:23:00
 Milestone PR #118 (style(handler): clean up unused imports) merged at 2026-09-27 11:23:14
+Milestone PR #119 (docs(handler): remove deprecated method calls) merged at 2026-09-27 11:23:27
