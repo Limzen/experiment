@@ -574,3 +574,4 @@ Milestone PR #726 (style(core): optimize query with indexed fields) merged at 20
 Milestone PR #728 (docs(db): improve retry handling on timeout) merged at 2026-09-27 13:45:51
 [2026-09-27 13:46:04] fix(cache): add input length validation
 Milestone PR #730 (test(utils): add input length validation) merged at 2026-09-27 13:46:06
+Milestone PR #732 (chore(core): fix race condition in async handler) merged at 2026-09-27 13:46:21
