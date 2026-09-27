@@ -270,3 +270,4 @@ Milestone PR #268 (refactor(config): add input length validation) merged at 2026
 Milestone PR #269 (style(ui): refactor to reduce cyclomatic complexity) merged at 2026-09-27 11:57:53
 Milestone PR #270 (fix(worker): update dependency to latest stable) merged at 2026-09-27 11:58:07
 Milestone PR #271 (feat(service): improve test coverage for boundary values) merged at 2026-09-27 11:58:21
+Milestone PR #272 (docs(api): refactor callback to async/await) merged at 2026-09-27 11:58:35
