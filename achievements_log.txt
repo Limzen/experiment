@@ -618,3 +618,4 @@ Milestone PR #778 (docs(worker): fix off-by-one in pagination logic) merged at 2
 Milestone PR #782 (perf(auth): standardize log message format) merged at 2026-09-27 13:53:41
 Milestone PR #783 (docs(cache): optimize query with indexed fields) merged at 2026-09-27 13:53:56
 Milestone PR #785 (style(core): update error messages to be more descriptive) merged at 2026-09-27 13:54:10
+[2026-09-27 13:54:21] perf(config): improve input sanitization logic
