@@ -657,3 +657,4 @@ Milestone PR #830 (chore(router): extract constants to config file) merged at 20
 [2026-09-27 14:01:05] fix(ui): standardize log message format
 [2026-09-27 14:01:21] chore(utils): optimize query with indexed fields
 [2026-09-27 14:01:36] test(core): fix race condition in async handler
+[2026-09-27 14:01:52] fix(cache): refactor callback to async/await
