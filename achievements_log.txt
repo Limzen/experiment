@@ -281,3 +281,4 @@ Milestone PR #282 (refactor(core): fix race condition in async handler) merged a
 Milestone PR #286 (test(cache): fix incorrect status code on failure) merged at 2026-09-27 12:42:27
 Milestone PR #287 (feat(db): improve variable naming for clarity) merged at 2026-09-27 12:42:41
 Milestone PR #288 (test(auth): fix incorrect status code on failure) merged at 2026-09-27 12:42:56
+Milestone PR #289 (perf(config): refactor callback to async/await) merged at 2026-09-27 12:43:10
