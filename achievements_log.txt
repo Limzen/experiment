@@ -47,3 +47,4 @@ Milestone PR #45 (docs(parser): standardize log message format) merged at 2026-0
 Milestone PR #46 (refactor(router): fix race condition in async handler) merged at 2026-09-27 11:06:35
 Milestone PR #47 (docs(db): extract reusable helper function) merged at 2026-09-27 11:06:49
 Milestone PR #48 (style(model): update configuration schema) merged at 2026-09-27 11:07:03
+Milestone PR #49 (style(auth): remove deprecated method calls) merged at 2026-09-27 11:07:17
