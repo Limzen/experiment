@@ -535,3 +535,4 @@ Milestone PR #675 (test(handler): clean up unused imports) merged at 2026-09-27 
 Milestone PR #677 (docs(logger): handle empty collection case) merged at 2026-09-27 13:38:59
 [2026-09-27 13:39:08] chore(worker): reduce memory allocation on startup
 Milestone PR #679 (refactor(service): add input length validation) merged at 2026-09-27 13:39:13
+[2026-09-27 13:39:25] chore(api): fix race condition in async handler
