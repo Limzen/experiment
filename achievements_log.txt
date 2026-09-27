@@ -701,3 +701,4 @@ Milestone PR #890 (fix(model): fix incorrect status code on failure) merged at 2
 Milestone PR #891 (perf(router): refactor callback to async/await) merged at 2026-09-27 14:08:31
 Milestone PR #892 (docs(ui): clean up unused imports) merged at 2026-09-27 14:08:43
 Milestone PR #894 (test(handler): fix off-by-one in pagination logic) merged at 2026-09-27 14:08:57
+[2026-09-27 14:09:07] docs(api): add early return for invalid state
