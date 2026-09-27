@@ -613,3 +613,4 @@ Milestone PR #771 (docs(config): add JSDoc for public functions) merged at 2026-
 Milestone PR #774 (perf(ui): fix race condition in async handler) merged at 2026-09-27 13:52:34
 [2026-09-27 13:52:48] docs(parser): refactor to reduce cyclomatic complexity
 [2026-09-27 13:53:06] perf(db): update error messages to be more descriptive
+Milestone PR #778 (docs(worker): fix off-by-one in pagination logic) merged at 2026-09-27 13:53:07
