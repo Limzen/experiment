@@ -516,3 +516,4 @@ Milestone PR #651 (feat(api): handle empty collection case) merged at 2026-09-27
 Milestone PR #652 (perf(parser): remove deprecated method calls) merged at 2026-09-27 13:35:37
 Milestone PR #654 (style(logger): add JSDoc for public functions) merged at 2026-09-27 13:35:51
 [2026-09-27 13:36:00] chore(utils): streamline data transformation step
+Milestone PR #656 (fix(core): improve variable naming for clarity) merged at 2026-09-27 13:36:06
