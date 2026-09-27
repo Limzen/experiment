@@ -621,3 +621,4 @@ Milestone PR #785 (style(core): update error messages to be more descriptive) me
 [2026-09-27 13:54:21] perf(config): improve input sanitization logic
 Milestone PR #787 (chore(worker): refactor to reduce cyclomatic complexity) merged at 2026-09-27 13:54:24
 [2026-09-27 13:54:37] perf(config): improve input sanitization logic
+Milestone PR #789 (perf(utils): extract constants to config file) merged at 2026-09-27 13:54:39
