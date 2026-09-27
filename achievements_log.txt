@@ -527,3 +527,4 @@ Milestone PR #665 (perf(core): remove deprecated method calls) merged at 2026-09
 Milestone PR #667 (fix(service): improve variable naming for clarity) merged at 2026-09-27 13:37:34
 Milestone PR #669 (chore(ui): update dependency to latest stable) merged at 2026-09-27 13:37:48
 [2026-09-27 13:37:59] perf(auth): improve variable naming for clarity
+Milestone PR #670 (docs(router): resolve null reference in edge case) merged at 2026-09-27 13:38:02
