@@ -655,3 +655,4 @@ Milestone PR #830 (chore(router): extract constants to config file) merged at 20
 [2026-09-27 14:00:34] docs(parser): reduce memory allocation on startup
 [2026-09-27 14:00:49] refactor(api): add input length validation
 [2026-09-27 14:01:05] fix(ui): standardize log message format
+[2026-09-27 14:01:21] chore(utils): optimize query with indexed fields
