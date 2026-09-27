@@ -847,3 +847,4 @@ Milestone PR #1071 (fix(db): improve variable naming for clarity) merged at 2026
 [2026-09-27 14:32:16] test(router): improve retry handling on timeout
 Milestone PR #1074 (feat(parser): clean up unused imports) merged at 2026-09-27 14:32:28
 Milestone PR #1075 (test(worker): handle empty collection case) merged at 2026-09-27 14:32:43
+Milestone PR #1077 (test(handler): reduce memory allocation on startup) merged at 2026-09-27 14:32:56
