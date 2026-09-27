@@ -764,3 +764,4 @@ Milestone PR #967 (perf(handler): clean up unused imports) merged at 2026-09-27 
 Milestone PR #969 (refactor(db): standardize log message format) merged at 2026-09-27 14:18:45
 [2026-09-27 14:18:57] style(auth): add early return for invalid state
 [2026-09-27 14:19:13] feat(utils): extract constants to config file
+[2026-09-27 14:19:27] style(model): add graceful degradation fallback
