@@ -319,3 +319,5 @@ Milestone PR #352 (refactor(auth): update error messages to be more descriptive)
 Milestone PR #354 (test(api): refactor callback to async/await) merged at 2026-09-27 12:53:42
 Milestone PR #356 (perf(ui): simplify conditional branching) merged at 2026-09-27 12:53:56
 Milestone PR #358 (docs(model): extract reusable helper function) merged at 2026-09-27 12:54:10
+Milestone PR #353 (feat(logger): fix incorrect status code on failure) merged at 2026-09-27 12:54:24
+Milestone PR #360 (docs(utils): improve test coverage for boundary values) merged at 2026-09-27 12:54:24
