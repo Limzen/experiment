@@ -528,3 +528,4 @@ Milestone PR #667 (fix(service): improve variable naming for clarity) merged at 
 Milestone PR #669 (chore(ui): update dependency to latest stable) merged at 2026-09-27 13:37:48
 [2026-09-27 13:37:59] perf(auth): improve variable naming for clarity
 Milestone PR #670 (docs(router): resolve null reference in edge case) merged at 2026-09-27 13:38:02
+[2026-09-27 13:38:15] style(utils): extract constants to config file
