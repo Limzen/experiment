@@ -427,3 +427,4 @@ Milestone PR #531 (chore(model): improve variable naming for clarity) merged at 
 Milestone PR #532 (docs(db): refactor callback to async/await) merged at 2026-09-27 13:18:55
 Milestone PR #531 (chore(ui): add graceful degradation fallback) merged at 2026-09-27 13:19:14
 Milestone PR #536 (test(config): fix off-by-one in pagination logic) merged at 2026-09-27 13:19:40
+Milestone PR #539 (refactor(ui): refactor to reduce cyclomatic complexity) merged at 2026-09-27 13:19:51
