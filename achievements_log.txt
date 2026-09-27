@@ -146,3 +146,4 @@ Milestone PR #144 (style(model): fix off-by-one in pagination logic) merged at 2
 Milestone PR #145 (test(config): standardize log message format) merged at 2026-09-27 11:29:18
 Milestone PR #146 (fix(auth): extract constants to config file) merged at 2026-09-27 11:29:31
 Milestone PR #147 (fix(cache): remove deprecated method calls) merged at 2026-09-27 11:29:44
+Milestone PR #148 (fix(config): add input length validation) merged at 2026-09-27 11:29:57
