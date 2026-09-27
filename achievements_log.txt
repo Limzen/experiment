@@ -754,3 +754,4 @@ Milestone PR #954 (docs(auth): reduce memory allocation on startup) merged at 20
 Milestone PR #956 (fix(auth): extract reusable helper function) merged at 2026-09-27 14:17:01
 Milestone PR #958 (chore(model): improve variable naming for clarity) merged at 2026-09-27 14:17:13
 Milestone PR #959 (feat(service): extract reusable helper function) merged at 2026-09-27 14:17:27
+[2026-09-27 14:17:49] feat(router): add early return for invalid state
