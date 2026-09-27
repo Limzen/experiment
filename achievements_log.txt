@@ -594,3 +594,4 @@ Milestone PR #748 (chore(db): clean up unused imports) merged at 2026-09-27 13:4
 [2026-09-27 13:48:56] fix(db): add graceful degradation fallback
 Milestone PR #750 (docs(config): fix incorrect status code on failure) merged at 2026-09-27 13:49:02
 [2026-09-27 13:49:14] chore(core): update error messages to be more descriptive
+[2026-09-27 13:49:32] refactor(logger): optimize query with indexed fields
