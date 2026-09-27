@@ -568,3 +568,4 @@ Milestone PR #719 (docs(worker): improve input sanitization logic) merged at 202
 [2026-09-27 13:44:53] feat(core): add graceful degradation fallback
 Milestone PR #721 (docs(auth): normalize response format) merged at 2026-09-27 13:44:54
 Milestone PR #723 (perf(core): refactor callback to async/await) merged at 2026-09-27 13:45:09
+Milestone PR #724 (chore(auth): handle empty collection case) merged at 2026-09-27 13:45:23
