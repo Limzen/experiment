@@ -611,3 +611,4 @@ Milestone PR #770 (style(core): improve input sanitization logic) merged at 2026
 Milestone PR #771 (docs(config): add JSDoc for public functions) merged at 2026-09-27 13:52:07
 [2026-09-27 13:52:30] refactor(logger): refactor to reduce cyclomatic complexity
 Milestone PR #774 (perf(ui): fix race condition in async handler) merged at 2026-09-27 13:52:34
+[2026-09-27 13:52:48] docs(parser): refactor to reduce cyclomatic complexity
