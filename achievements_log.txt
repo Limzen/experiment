@@ -860,3 +860,4 @@ Milestone PR #1088 (fix(service): add JSDoc for public functions) merged at 2026
 Milestone PR #1090 (feat(config): refactor callback to async/await) merged at 2026-09-27 14:34:30
 Milestone PR #1091 (style(service): add graceful degradation fallback) merged at 2026-09-27 14:34:44
 [2026-09-27 14:35:06] style(cache): add input length validation
+Milestone PR #1094 (docs(router): clean up unused imports) merged at 2026-09-27 14:35:10
