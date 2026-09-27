@@ -1,1 +1,2 @@
 ﻿
+Milestone PR #1 (chore(model): update configuration schema) merged at 2026-09-27 10:56:01
