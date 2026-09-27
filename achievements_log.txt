@@ -76,3 +76,4 @@ Milestone PR #74 (fix(handler): extract reusable helper function) merged at 2026
 Milestone PR #75 (fix(router): add JSDoc for public functions) merged at 2026-09-27 11:13:16
 Milestone PR #76 (perf(config): reduce memory allocation on startup) merged at 2026-09-27 11:13:29
 Milestone PR #77 (feat(utils): update configuration schema) merged at 2026-09-27 11:13:44
+Milestone PR #78 (docs(core): fix incorrect status code on failure) merged at 2026-09-27 11:13:58
