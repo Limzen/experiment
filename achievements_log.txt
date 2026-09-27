@@ -160,3 +160,4 @@ Milestone PR #158 (perf(auth): normalize response format) merged at 2026-09-27 1
 Milestone PR #159 (perf(handler): clean up unused imports) merged at 2026-09-27 11:32:23
 Milestone PR #160 (style(core): fix incorrect status code on failure) merged at 2026-09-27 11:32:37
 Milestone PR #161 (feat(cache): add missing error boundary) merged at 2026-09-27 11:32:50
+Milestone PR #162 (docs(handler): add graceful degradation fallback) merged at 2026-09-27 11:33:03
