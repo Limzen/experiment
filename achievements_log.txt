@@ -361,3 +361,4 @@ Milestone PR #412 (test(auth): add JSDoc for public functions) merged at 2026-09
 Milestone PR #413 (test(db): consolidate duplicated validation logic) merged at 2026-09-27 13:01:12
 Milestone PR #416 (docs(ui): normalize response format) merged at 2026-09-27 13:01:19
 Milestone PR #416 (chore(cache): add input length validation) merged at 2026-09-27 13:01:37
+Milestone PR #419 (docs(handler): improve retry handling on timeout) merged at 2026-09-27 13:01:53
