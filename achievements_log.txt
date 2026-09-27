@@ -705,3 +705,4 @@ Milestone PR #894 (test(handler): fix off-by-one in pagination logic) merged at 
 Milestone PR #896 (fix(service): clean up unused imports) merged at 2026-09-27 14:09:10
 Milestone PR #898 (test(auth): fix incorrect status code on failure) merged at 2026-09-27 14:09:23
 Milestone PR #899 (refactor(router): update dependency to latest stable) merged at 2026-09-27 14:09:36
+Milestone PR #901 (perf(auth): fix off-by-one in pagination logic) merged at 2026-09-27 14:09:50
