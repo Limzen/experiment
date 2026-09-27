@@ -649,3 +649,4 @@ Milestone PR #820 (test(router): fix race condition in async handler) merged at 
 [2026-09-27 13:59:23] fix(handler): consolidate duplicated validation logic
 Milestone PR #824 (chore(model): fix off-by-one in pagination logic) merged at 2026-09-27 13:59:23
 Milestone PR #826 (fix(router): update error messages to be more descriptive) merged at 2026-09-27 13:59:39
+Milestone PR #827 (fix(handler): reduce memory allocation on startup) merged at 2026-09-27 13:59:54
