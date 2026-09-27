@@ -326,3 +326,4 @@ Milestone PR #365 (fix(worker): update dependency to latest stable) merged at 20
 Milestone PR #365 (docs(config): handle empty collection case) merged at 2026-09-27 12:55:12
 Milestone PR #368 (chore(config): refactor to reduce cyclomatic complexity) merged at 2026-09-27 12:55:21
 Milestone PR #368 (perf(parser): update configuration schema) merged at 2026-09-27 12:55:39
+Milestone PR #371 (docs(config): consolidate duplicated validation logic) merged at 2026-09-27 12:55:47
