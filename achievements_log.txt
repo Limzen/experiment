@@ -564,3 +564,4 @@ Milestone PR #714 (fix(api): update error messages to be more descriptive) merge
 Milestone PR #715 (perf(worker): consolidate duplicated validation logic) merged at 2026-09-27 13:44:12
 Milestone PR #717 (style(utils): add JSDoc for public functions) merged at 2026-09-27 13:44:25
 [2026-09-27 13:44:37] docs(config): clean up unused imports
+Milestone PR #719 (docs(worker): improve input sanitization logic) merged at 2026-09-27 13:44:40
