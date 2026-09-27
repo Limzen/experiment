@@ -652,3 +652,4 @@ Milestone PR #826 (fix(router): update error messages to be more descriptive) me
 Milestone PR #827 (fix(handler): reduce memory allocation on startup) merged at 2026-09-27 13:59:54
 [2026-09-27 14:00:17] refactor(cache): standardize log message format
 Milestone PR #830 (chore(router): extract constants to config file) merged at 2026-09-27 14:00:20
+[2026-09-27 14:00:34] docs(parser): reduce memory allocation on startup
