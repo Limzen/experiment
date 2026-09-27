@@ -785,3 +785,4 @@ Milestone PR #992 (refactor(model): improve input sanitization logic) merged at 
 [2026-09-27 14:21:56] chore(utils): add graceful degradation fallback
 [2026-09-27 14:22:12] test(service): add input length validation
 Milestone PR #996 (chore(parser): update configuration schema) merged at 2026-09-27 14:22:14
+Milestone PR #998 (chore(handler): standardize log message format) merged at 2026-09-27 14:22:27
