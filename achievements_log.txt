@@ -50,3 +50,4 @@ Milestone PR #48 (style(model): update configuration schema) merged at 2026-09-2
 Milestone PR #49 (style(auth): remove deprecated method calls) merged at 2026-09-27 11:07:17
 Milestone PR #50 (docs(service): remove deprecated method calls) merged at 2026-09-27 11:07:32
 Milestone PR #51 (test(worker): handle empty collection case) merged at 2026-09-27 11:07:46
+Milestone PR #52 (test(worker): extract constants to config file) merged at 2026-09-27 11:08:00
