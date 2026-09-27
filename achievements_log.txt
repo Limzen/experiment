@@ -766,4 +766,9 @@ Milestone PR #969 (refactor(db): standardize log message format) merged at 2026-
 [2026-09-27 14:19:13] feat(utils): extract constants to config file
 [2026-09-27 14:19:27] style(model): add graceful degradation fallback
 Milestone PR #975 (docs(core): add JSDoc for public functions) merged at 2026-09-27 14:19:28
+<<<<<<< .merge_file_qa528X
 Milestone PR #977 (refactor(handler): fix off-by-one in pagination logic) merged at 2026-09-27 14:19:42
+=======
+[2026-09-27 14:19:44] test(ui): fix incorrect status code on failure
+>>>>>>> .merge_file_Y2L0nw
+Milestone PR #978 (docs(router): extract constants to config file) merged at 2026-09-27 14:19:59
