@@ -394,3 +394,4 @@ Milestone PR #486 (perf(auth): improve variable naming for clarity) merged at 20
 Milestone PR #487 (chore(worker): update dependency to latest stable) merged at 2026-09-27 13:12:43
 Milestone PR #488 (fix(db): improve test coverage for boundary values) merged at 2026-09-27 13:12:47
 Milestone PR #489 (feat(db): update configuration schema) merged at 2026-09-27 13:13:09
+Milestone PR #492 (style(db): add JSDoc for public functions) merged at 2026-09-27 13:13:16
