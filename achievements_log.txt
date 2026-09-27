@@ -377,3 +377,4 @@ Milestone PR #452 (feat(handler): streamline data transformation step) merged at
 Milestone PR #450 (fix(ui): handle empty collection case) merged at 2026-09-27 13:07:46
 Milestone PR #453 (style(api): improve test coverage for boundary values) merged at 2026-09-27 13:07:47
 Milestone PR #455 (docs(auth): fix race condition in async handler) merged at 2026-09-27 13:08:00
+Milestone PR #457 (docs(config): improve input sanitization logic) merged at 2026-09-27 13:08:14
