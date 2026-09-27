@@ -772,3 +772,4 @@ Milestone PR #977 (refactor(handler): fix off-by-one in pagination logic) merged
 [2026-09-27 14:19:44] test(ui): fix incorrect status code on failure
 >>>>>>> .merge_file_Y2L0nw
 Milestone PR #978 (docs(router): extract constants to config file) merged at 2026-09-27 14:19:59
+Milestone PR #980 (perf(config): remove deprecated method calls) merged at 2026-09-27 14:20:13
