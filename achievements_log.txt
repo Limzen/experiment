@@ -296,3 +296,4 @@ Milestone PR #301 (fix(parser): optimize query with indexed fields) merged at 20
 Milestone PR #305 (docs(logger): reduce memory allocation on startup) merged at 2026-09-27 12:45:25
 Milestone PR #305 (feat(db): fix off-by-one in pagination logic) merged at 2026-09-27 12:45:43
 Milestone PR #308 (perf(worker): clean up unused imports) merged at 2026-09-27 12:45:51
+Milestone PR #308 (chore(model): extract reusable helper function) merged at 2026-09-27 12:46:09
