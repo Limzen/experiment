@@ -495,3 +495,4 @@ Milestone PR #629 (refactor(logger): extract constants to config file) merged at
 Milestone PR #630 (refactor(handler): improve input sanitization logic) merged at 2026-09-27 13:31:37
 Milestone PR #631 (feat(model): add input length validation) merged at 2026-09-27 13:31:52
 Milestone PR #632 (fix(auth): extract constants to config file) merged at 2026-09-27 13:32:06
+Milestone PR #633 (test(core): update configuration schema) merged at 2026-09-27 13:32:21
