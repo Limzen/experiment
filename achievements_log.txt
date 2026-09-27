@@ -591,3 +591,4 @@ Milestone PR #741 (test(auth): clean up unused imports) merged at 2026-09-27 13:
 Milestone PR #745 (refactor(worker): add graceful degradation fallback) merged at 2026-09-27 13:48:15
 Milestone PR #747 (feat(auth): improve test coverage for boundary values) merged at 2026-09-27 13:48:30
 Milestone PR #748 (chore(db): clean up unused imports) merged at 2026-09-27 13:48:46
+[2026-09-27 13:48:56] fix(db): add graceful degradation fallback
