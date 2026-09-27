@@ -28,3 +28,4 @@ Milestone PR #26 (refactor(handler): add missing error boundary) merged at 2026-
 Milestone PR #27 (perf(ui): add graceful degradation fallback) merged at 2026-09-27 11:02:13
 Milestone PR #28 (refactor(parser): update configuration schema) merged at 2026-09-27 11:02:28
 Milestone PR #29 (perf(service): update dependency to latest stable) merged at 2026-09-27 11:02:43
+Milestone PR #30 (fix(auth): streamline data transformation step) merged at 2026-09-27 11:02:57
