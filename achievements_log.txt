@@ -654,3 +654,4 @@ Milestone PR #827 (fix(handler): reduce memory allocation on startup) merged at 
 Milestone PR #830 (chore(router): extract constants to config file) merged at 2026-09-27 14:00:20
 [2026-09-27 14:00:34] docs(parser): reduce memory allocation on startup
 [2026-09-27 14:00:49] refactor(api): add input length validation
+[2026-09-27 14:01:05] fix(ui): standardize log message format
