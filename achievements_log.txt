@@ -712,3 +712,4 @@ Milestone PR #903 (feat(router): fix race condition in async handler) merged at 
 Milestone PR #905 (perf(parser): improve retry handling on timeout) merged at 2026-09-27 14:10:19
 [2026-09-27 14:10:32] feat(model): update dependency to latest stable
 Milestone PR #907 (style(worker): extract reusable helper function) merged at 2026-09-27 14:10:32
+Milestone PR #909 (chore(ui): improve input sanitization logic) merged at 2026-09-27 14:10:45
