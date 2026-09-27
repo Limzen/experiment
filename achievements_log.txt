@@ -329,3 +329,4 @@ Milestone PR #368 (perf(parser): update configuration schema) merged at 2026-09-
 Milestone PR #371 (docs(config): consolidate duplicated validation logic) merged at 2026-09-27 12:55:47
 Milestone PR #372 (refactor(handler): optimize query with indexed fields) merged at 2026-09-27 12:56:03
 Milestone PR #374 (chore(ui): add JSDoc for public functions) merged at 2026-09-27 12:56:17
+Milestone PR #371 (refactor(handler): streamline data transformation step) merged at 2026-09-27 12:56:31
