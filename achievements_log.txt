@@ -457,3 +457,4 @@ Milestone PR #583 (fix(logger): update error messages to be more descriptive) me
 Milestone PR #584 (perf(router): streamline data transformation step) merged at 2026-09-27 13:25:43
 Milestone PR #585 (style(parser): add input length validation) merged at 2026-09-27 13:25:55
 Milestone PR #586 (perf(config): add input length validation) merged at 2026-09-27 13:25:57
+Milestone PR #587 (perf(db): resolve null reference in edge case) merged at 2026-09-27 13:26:10
