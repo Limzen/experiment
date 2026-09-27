@@ -741,3 +741,4 @@ Milestone PR #939 (refactor(service): fix race condition in async handler) merge
 Milestone PR #941 (perf(api): add early return for invalid state) merged at 2026-09-27 14:14:56
 Milestone PR #942 (fix(auth): add graceful degradation fallback) merged at 2026-09-27 14:15:10
 Milestone PR #944 (refactor(worker): refactor callback to async/await) merged at 2026-09-27 14:15:24
+[2026-09-27 14:15:32] refactor(service): fix incorrect status code on failure
