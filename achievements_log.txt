@@ -837,3 +837,4 @@ Milestone PR #1058 (docs(db): handle empty collection case) merged at 2026-09-27
 Milestone PR #1060 (chore(logger): improve input sanitization logic) merged at 2026-09-27 14:30:40
 [2026-09-27 14:30:52] docs(cache): consolidate duplicated validation logic
 Milestone PR #1062 (feat(auth): add input length validation) merged at 2026-09-27 14:30:55
+[2026-09-27 14:31:08] feat(auth): update configuration schema
