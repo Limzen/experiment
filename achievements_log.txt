@@ -776,3 +776,4 @@ Milestone PR #980 (perf(config): remove deprecated method calls) merged at 2026-
 Milestone PR #982 (feat(handler): fix race condition in async handler) merged at 2026-09-27 14:20:27
 [2026-09-27 14:20:35] docs(logger): improve test coverage for boundary values
 Milestone PR #984 (refactor(core): improve input sanitization logic) merged at 2026-09-27 14:20:40
+[2026-09-27 14:20:50] refactor(cache): improve input sanitization logic
