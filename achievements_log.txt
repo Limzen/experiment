@@ -462,3 +462,4 @@ Milestone PR #588 (perf(handler): fix race condition in async handler) merged at
 Milestone PR #589 (perf(model): improve variable naming for clarity) merged at 2026-09-27 13:26:24
 Milestone PR #590 (fix(worker): fix off-by-one in pagination logic) merged at 2026-09-27 13:26:25
 Milestone PR #591 (feat(worker): improve test coverage for boundary values) merged at 2026-09-27 13:26:38
+Milestone PR #592 (style(logger): refactor callback to async/await) merged at 2026-09-27 13:26:39
