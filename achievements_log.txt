@@ -164,3 +164,4 @@ Milestone PR #162 (docs(handler): add graceful degradation fallback) merged at 2
 Milestone PR #163 (fix(handler): extract reusable helper function) merged at 2026-09-27 11:33:17
 Milestone PR #164 (chore(service): handle empty collection case) merged at 2026-09-27 11:33:30
 Milestone PR #165 (chore(core): add missing error boundary) merged at 2026-09-27 11:33:43
+Milestone PR #166 (refactor(router): extract reusable helper function) merged at 2026-09-27 11:33:56
