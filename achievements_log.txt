@@ -750,3 +750,4 @@ Milestone PR #950 (perf(api): update error messages to be more descriptive) merg
 [2026-09-27 14:16:22] docs(cache): remove deprecated method calls
 Milestone PR #953 (refactor(api): update error messages to be more descriptive) merged at 2026-09-27 14:16:34
 Milestone PR #954 (docs(auth): reduce memory allocation on startup) merged at 2026-09-27 14:16:47
+[2026-09-27 14:16:57] chore(ui): fix incorrect status code on failure
