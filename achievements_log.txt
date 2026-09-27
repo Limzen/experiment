@@ -736,3 +736,4 @@ Milestone PR #934 (chore(router): standardize log message format) merged at 2026
 Milestone PR #935 (chore(logger): improve variable naming for clarity) merged at 2026-09-27 14:14:17
 [2026-09-27 14:14:25] fix(utils): update dependency to latest stable
 Milestone PR #937 (chore(handler): handle empty collection case) merged at 2026-09-27 14:14:30
+[2026-09-27 14:14:41] test(router): add early return for invalid state
