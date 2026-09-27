@@ -366,3 +366,4 @@ Milestone PR #421 (fix(router): add graceful degradation fallback) merged at 202
 Milestone PR #421 (style(auth): improve test coverage for boundary values) merged at 2026-09-27 13:02:21
 Milestone PR #424 (fix(cache): add JSDoc for public functions) merged at 2026-09-27 13:02:29
 Milestone PR #424 (docs(api): improve input sanitization logic) merged at 2026-09-27 13:02:53
+Milestone PR #428 (perf(model): fix incorrect status code on failure) merged at 2026-09-27 13:03:31
