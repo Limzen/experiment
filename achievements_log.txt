@@ -303,3 +303,5 @@ Milestone PR #316 (fix(utils): add early return for invalid state) merged at 202
 Milestone PR #319 (chore(config): update configuration schema) merged at 2026-09-27 12:47:54
 Milestone PR #321 (style(ui): resolve null reference in edge case) merged at 2026-09-27 12:48:29
 Milestone PR #322 (chore(handler): update dependency to latest stable) merged at 2026-09-27 12:48:29
+Milestone PR #323 (test(core): improve test coverage for boundary values) merged at 2026-09-27 12:48:44
+Milestone PR #324 (feat(parser): standardize log message format) merged at 2026-09-27 12:48:44
