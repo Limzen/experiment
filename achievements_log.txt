@@ -130,3 +130,4 @@ Milestone PR #128 (docs(utils): improve test coverage for boundary values) merge
 Milestone PR #129 (refactor(handler): add graceful degradation fallback) merged at 2026-09-27 11:25:42
 Milestone PR #130 (docs(model): improve variable naming for clarity) merged at 2026-09-27 11:25:55
 Milestone PR #131 (fix(model): update error messages to be more descriptive) merged at 2026-09-27 11:26:08
+Milestone PR #132 (test(utils): extract constants to config file) merged at 2026-09-27 11:26:21
