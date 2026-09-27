@@ -240,3 +240,4 @@ Milestone PR #238 (refactor(config): update error messages to be more descriptiv
 Milestone PR #239 (perf(model): resolve null reference in edge case) merged at 2026-09-27 11:50:41
 Milestone PR #240 (docs(config): fix off-by-one in pagination logic) merged at 2026-09-27 11:50:55
 Milestone PR #241 (chore(parser): consolidate duplicated validation logic) merged at 2026-09-27 11:51:10
+Milestone PR #242 (fix(handler): update configuration schema) merged at 2026-09-27 11:51:25
