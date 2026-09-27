@@ -22,3 +22,4 @@ Milestone PR #20 (feat(logger): normalize response format) merged at 2026-09-27 
 Milestone PR #21 (chore(core): optimize query with indexed fields) merged at 2026-09-27 11:00:52
 Milestone PR #22 (docs(worker): fix incorrect status code on failure) merged at 2026-09-27 11:01:07
 Milestone PR #23 (style(model): add early return for invalid state) merged at 2026-09-27 11:01:20
+Milestone PR #24 (chore(model): extract constants to config file) merged at 2026-09-27 11:01:33
