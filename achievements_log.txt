@@ -780,3 +780,4 @@ Milestone PR #984 (refactor(core): improve input sanitization logic) merged at 2
 Milestone PR #986 (docs(parser): consolidate duplicated validation logic) merged at 2026-09-27 14:20:52
 Milestone PR #988 (docs(db): add input length validation) merged at 2026-09-27 14:21:06
 Milestone PR #989 (style(ui): add early return for invalid state) merged at 2026-09-27 14:21:19
+[2026-09-27 14:21:40] feat(api): streamline data transformation step
