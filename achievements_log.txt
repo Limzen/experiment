@@ -323,3 +323,4 @@ Milestone PR #353 (feat(logger): fix incorrect status code on failure) merged at
 Milestone PR #360 (docs(utils): improve test coverage for boundary values) merged at 2026-09-27 12:54:24
 Milestone PR #353 (style(router): fix incorrect status code on failure) merged at 2026-09-27 12:54:46
 Milestone PR #365 (fix(worker): update dependency to latest stable) merged at 2026-09-27 12:54:53
+Milestone PR #365 (docs(config): handle empty collection case) merged at 2026-09-27 12:55:12
