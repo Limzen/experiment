@@ -306,3 +306,4 @@ Milestone PR #322 (chore(handler): update dependency to latest stable) merged at
 Milestone PR #323 (test(core): improve test coverage for boundary values) merged at 2026-09-27 12:48:44
 Milestone PR #324 (feat(parser): standardize log message format) merged at 2026-09-27 12:48:44
 Milestone PR #323 (feat(api): refactor to reduce cyclomatic complexity) merged at 2026-09-27 12:49:05
+Milestone PR #328 (feat(core): add JSDoc for public functions) merged at 2026-09-27 12:49:15
