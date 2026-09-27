@@ -254,3 +254,4 @@ Milestone PR #252 (feat(worker): update dependency to latest stable) merged at 2
 Milestone PR #253 (docs(logger): clean up unused imports) merged at 2026-09-27 11:54:05
 Milestone PR #254 (test(ui): add missing error boundary) merged at 2026-09-27 11:54:19
 Milestone PR #255 (chore(db): add input length validation) merged at 2026-09-27 11:54:33
+Milestone PR #256 (style(api): fix incorrect status code on failure) merged at 2026-09-27 11:54:47
