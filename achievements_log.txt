@@ -411,3 +411,4 @@ Milestone PR #514 (style(logger): fix incorrect status code on failure) merged a
 Milestone PR #515 (style(worker): improve variable naming for clarity) merged at 2026-09-27 13:16:28
 Milestone PR #516 (perf(parser): reduce memory allocation on startup) merged at 2026-09-27 13:16:41
 Milestone PR #517 (perf(handler): standardize log message format) merged at 2026-09-27 13:16:42
+Milestone PR #518 (feat(service): optimize query with indexed fields) merged at 2026-09-27 13:16:56
