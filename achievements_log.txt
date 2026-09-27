@@ -261,3 +261,4 @@ Milestone PR #259 (refactor(config): improve retry handling on timeout) merged a
 Milestone PR #260 (fix(utils): streamline data transformation step) merged at 2026-09-27 11:55:43
 Milestone PR #261 (refactor(logger): remove deprecated method calls) merged at 2026-09-27 11:55:58
 Milestone PR #262 (docs(db): extract constants to config file) merged at 2026-09-27 11:56:12
+Milestone PR #263 (chore(core): resolve null reference in edge case) merged at 2026-09-27 11:56:27
