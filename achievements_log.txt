@@ -686,3 +686,4 @@ Milestone PR #872 (chore(api): extract reusable helper function) merged at 2026-
 Milestone PR #874 (docs(worker): normalize response format) merged at 2026-09-27 14:06:14
 [2026-09-27 14:06:27] refactor(auth): improve test coverage for boundary values
 [2026-09-27 14:06:43] chore(api): handle empty collection case
+Milestone PR #878 (style(logger): consolidate duplicated validation logic) merged at 2026-09-27 14:06:44
