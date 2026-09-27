@@ -489,3 +489,4 @@ Milestone PR #619 (test(cache): improve test coverage for boundary values) merge
 Milestone PR #620 (style(utils): add input length validation) merged at 2026-09-27 13:30:16
 Milestone PR #622 (fix(model): reduce memory allocation on startup) merged at 2026-09-27 13:30:35
 Milestone PR #624 (chore(router): add JSDoc for public functions) merged at 2026-09-27 13:30:52
+Milestone PR #619 (perf(api): resolve null reference in edge case) merged at 2026-09-27 13:31:06
