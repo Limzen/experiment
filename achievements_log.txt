@@ -473,3 +473,4 @@ Milestone PR #599 (perf(model): refactor callback to async/await) merged at 2026
 Milestone PR #600 (docs(handler): add input length validation) merged at 2026-09-27 13:27:36
 Milestone PR #601 (chore(router): reduce memory allocation on startup) merged at 2026-09-27 13:27:49
 Milestone PR #602 (chore(db): refactor callback to async/await) merged at 2026-09-27 13:27:50
+Milestone PR #601 (chore(api): reduce memory allocation on startup) merged at 2026-09-27 13:28:04
