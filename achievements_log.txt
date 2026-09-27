@@ -382,3 +382,4 @@ Milestone PR #458 (refactor(core): clean up unused imports) merged at 2026-09-27
 Milestone PR #459 (fix(cache): consolidate duplicated validation logic) merged at 2026-09-27 13:08:41
 Milestone PR #462 (style(utils): streamline data transformation step) merged at 2026-09-27 13:08:48
 Milestone PR #463 (feat(ui): add JSDoc for public functions) merged at 2026-09-27 13:09:08
+Milestone PR #467 (chore(router): add JSDoc for public functions) merged at 2026-09-27 13:09:46
