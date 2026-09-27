@@ -416,3 +416,4 @@ Milestone PR #519 (style(cache): remove deprecated method calls) merged at 2026-
 Milestone PR #520 (chore(handler): standardize log message format) merged at 2026-09-27 13:17:11
 Milestone PR #522 (fix(router): add early return for invalid state) merged at 2026-09-27 13:17:24
 Milestone PR #523 (test(router): consolidate duplicated validation logic) merged at 2026-09-27 13:17:27
+Milestone PR #524 (test(router): fix race condition in async handler) merged at 2026-09-27 13:17:39
