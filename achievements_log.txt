@@ -421,3 +421,4 @@ Milestone PR #525 (feat(config): improve variable naming for clarity) merged at 
 Milestone PR #527 (test(router): extract constants to config file) merged at 2026-09-27 13:17:54
 Milestone PR #526 (test(config): reduce memory allocation on startup) merged at 2026-09-27 13:17:54
 Milestone PR #528 (perf(service): handle empty collection case) merged at 2026-09-27 13:18:06
+Milestone PR #529 (style(worker): extract reusable helper function) merged at 2026-09-27 13:18:21
