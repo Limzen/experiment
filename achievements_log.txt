@@ -49,3 +49,4 @@ Milestone PR #47 (docs(db): extract reusable helper function) merged at 2026-09-
 Milestone PR #48 (style(model): update configuration schema) merged at 2026-09-27 11:07:03
 Milestone PR #49 (style(auth): remove deprecated method calls) merged at 2026-09-27 11:07:17
 Milestone PR #50 (docs(service): remove deprecated method calls) merged at 2026-09-27 11:07:32
+Milestone PR #51 (test(worker): handle empty collection case) merged at 2026-09-27 11:07:46
