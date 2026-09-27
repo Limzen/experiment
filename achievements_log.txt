@@ -533,3 +533,4 @@ Milestone PR #672 (chore(handler): fix race condition in async handler) merged a
 Milestone PR #674 (perf(router): fix race condition in async handler) merged at 2026-09-27 13:38:31
 Milestone PR #675 (test(handler): clean up unused imports) merged at 2026-09-27 13:38:44
 Milestone PR #677 (docs(logger): handle empty collection case) merged at 2026-09-27 13:38:59
+[2026-09-27 13:39:08] chore(worker): reduce memory allocation on startup
