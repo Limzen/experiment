@@ -45,3 +45,4 @@ Milestone PR #43 (test(model): consolidate duplicated validation logic) merged a
 Milestone PR #44 (refactor(worker): add graceful degradation fallback) merged at 2026-09-27 11:06:06
 Milestone PR #45 (docs(parser): standardize log message format) merged at 2026-09-27 11:06:21
 Milestone PR #46 (refactor(router): fix race condition in async handler) merged at 2026-09-27 11:06:35
+Milestone PR #47 (docs(db): extract reusable helper function) merged at 2026-09-27 11:06:49
