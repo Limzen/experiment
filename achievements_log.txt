@@ -544,3 +544,4 @@ Milestone PR #685 (docs(parser): normalize response format) merged at 2026-09-27
 [2026-09-27 13:40:30] perf(cache): add early return for invalid state
 [2026-09-27 13:40:47] fix(router): fix incorrect status code on failure
 Milestone PR #692 (style(utils): improve retry handling on timeout) merged at 2026-09-27 13:41:00
+Milestone PR #693 (perf(utils): consolidate duplicated validation logic) merged at 2026-09-27 13:41:15
