@@ -729,3 +729,4 @@ Milestone PR #925 (style(service): add input length validation) merged at 2026-0
 Milestone PR #926 (feat(router): reduce memory allocation on startup) merged at 2026-09-27 14:12:58
 [2026-09-27 14:13:19] fix(cache): clean up unused imports
 Milestone PR #929 (refactor(model): add graceful degradation fallback) merged at 2026-09-27 14:13:22
+[2026-09-27 14:13:35] perf(cache): resolve null reference in edge case
