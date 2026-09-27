@@ -519,3 +519,4 @@ Milestone PR #654 (style(logger): add JSDoc for public functions) merged at 2026
 Milestone PR #656 (fix(core): improve variable naming for clarity) merged at 2026-09-27 13:36:06
 [2026-09-27 13:36:17] perf(router): consolidate duplicated validation logic
 Milestone PR #658 (test(api): add early return for invalid state) merged at 2026-09-27 13:36:21
+[2026-09-27 13:36:34] fix(handler): fix race condition in async handler
