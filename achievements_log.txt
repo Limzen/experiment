@@ -639,3 +639,4 @@ Milestone PR #807 (refactor(parser): add JSDoc for public functions) merged at 2
 Milestone PR #809 (docs(core): update dependency to latest stable) merged at 2026-09-27 13:57:33
 Milestone PR #811 (refactor(logger): add graceful degradation fallback) merged at 2026-09-27 13:57:46
 Milestone PR #812 (docs(core): refactor to reduce cyclomatic complexity) merged at 2026-09-27 13:57:59
+Milestone PR #814 (style(parser): improve input sanitization logic) merged at 2026-09-27 13:58:13
