@@ -476,3 +476,4 @@ Milestone PR #602 (chore(db): refactor callback to async/await) merged at 2026-0
 Milestone PR #601 (chore(api): reduce memory allocation on startup) merged at 2026-09-27 13:28:04
 Milestone PR #604 (perf(utils): clean up unused imports) merged at 2026-09-27 13:28:06
 Milestone PR #605 (refactor(config): update dependency to latest stable) merged at 2026-09-27 13:28:19
+Milestone PR #606 (test(worker): standardize log message format) merged at 2026-09-27 13:28:21
