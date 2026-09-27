@@ -72,3 +72,4 @@ Milestone PR #70 (chore(service): refactor callback to async/await) merged at 20
 Milestone PR #71 (test(db): streamline data transformation step) merged at 2026-09-27 11:12:22
 Milestone PR #72 (docs(utils): update error messages to be more descriptive) merged at 2026-09-27 11:12:36
 Milestone PR #73 (refactor(worker): reduce memory allocation on startup) merged at 2026-09-27 11:12:49
+Milestone PR #74 (fix(handler): extract reusable helper function) merged at 2026-09-27 11:13:03
