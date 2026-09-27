@@ -718,3 +718,4 @@ Milestone PR #910 (perf(core): add input length validation) merged at 2026-09-27
 Milestone PR #912 (chore(model): extract constants to config file) merged at 2026-09-27 14:11:11
 Milestone PR #914 (chore(router): improve test coverage for boundary values) merged at 2026-09-27 14:11:23
 Milestone PR #916 (chore(config): fix incorrect status code on failure) merged at 2026-09-27 14:11:38
+Milestone PR #917 (docs(core): improve test coverage for boundary values) merged at 2026-09-27 14:11:52
