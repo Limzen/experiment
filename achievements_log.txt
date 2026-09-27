@@ -355,3 +355,4 @@ Milestone PR #402 (perf(auth): streamline data transformation step) merged at 20
 Milestone PR #403 (test(parser): fix incorrect status code on failure) merged at 2026-09-27 12:59:48
 Milestone PR #405 (test(logger): simplify conditional branching) merged at 2026-09-27 13:00:02
 Milestone PR #407 (test(logger): improve variable naming for clarity) merged at 2026-09-27 13:00:18
+Milestone PR #408 (feat(utils): fix incorrect status code on failure) merged at 2026-09-27 13:00:21
