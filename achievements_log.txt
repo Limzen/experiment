@@ -834,3 +834,4 @@ Milestone PR #1054 (fix(core): extract reusable helper function) merged at 2026-
 Milestone PR #1056 (chore(config): add graceful degradation fallback) merged at 2026-09-27 14:30:12
 Milestone PR #1058 (docs(db): handle empty collection case) merged at 2026-09-27 14:30:26
 [2026-09-27 14:30:37] refactor(config): handle empty collection case
+Milestone PR #1060 (chore(logger): improve input sanitization logic) merged at 2026-09-27 14:30:40
