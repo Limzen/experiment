@@ -504,3 +504,4 @@ Milestone PR #637 (refactor(worker): add JSDoc for public functions) merged at 2
 Milestone PR #639 (feat(cache): remove deprecated method calls) merged at 2026-09-27 13:33:33
 [2026-09-27 13:33:42] docs(core): standardize log message format
 Milestone PR #640 (refactor(auth): improve input sanitization logic) merged at 2026-09-27 13:33:46
+[2026-09-27 13:33:58] chore(core): refactor to reduce cyclomatic complexity
