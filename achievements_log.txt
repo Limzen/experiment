@@ -668,3 +668,4 @@ Milestone PR #851 (style(handler): standardize log message format) merged at 202
 [2026-09-27 14:03:15] test(auth): fix incorrect status code on failure
 [2026-09-27 14:03:32] docs(parser): resolve null reference in edge case
 Milestone PR #856 (perf(cache): refactor callback to async/await) merged at 2026-09-27 14:03:43
+Milestone PR #857 (fix(core): streamline data transformation step) merged at 2026-09-27 14:03:57
