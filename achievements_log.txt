@@ -450,3 +450,4 @@ Milestone PR #574 (style(core): update dependency to latest stable) merged at 20
 Milestone PR #577 (fix(worker): add early return for invalid state) merged at 2026-09-27 13:24:58
 Milestone PR #578 (style(parser): standardize log message format) merged at 2026-09-27 13:25:01
 Milestone PR #579 (chore(config): resolve null reference in edge case) merged at 2026-09-27 13:25:13
+Milestone PR #580 (feat(auth): streamline data transformation step) merged at 2026-09-27 13:25:15
