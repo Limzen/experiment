@@ -101,3 +101,4 @@ Milestone PR #99 (refactor(parser): standardize log message format) merged at 20
 Milestone PR #100 (docs(worker): clean up unused imports) merged at 2026-09-27 11:19:04
 Milestone PR #101 (docs(router): improve input sanitization logic) merged at 2026-09-27 11:19:17
 Milestone PR #102 (fix(core): add input length validation) merged at 2026-09-27 11:19:32
+Milestone PR #103 (chore(service): refactor callback to async/await) merged at 2026-09-27 11:19:46
