@@ -387,3 +387,4 @@ Milestone PR #470 (docs(core): handle empty collection case) merged at 2026-09-2
 Milestone PR #478 (feat(router): improve retry handling on timeout) merged at 2026-09-27 13:11:33
 Milestone PR #479 (feat(service): add input length validation) merged at 2026-09-27 13:11:47
 Milestone PR #475 (docs(config): remove deprecated method calls) merged at 2026-09-27 13:12:02
+Milestone PR #483 (style(router): add JSDoc for public functions) merged at 2026-09-27 13:12:15
