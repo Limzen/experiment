@@ -465,3 +465,4 @@ Milestone PR #591 (feat(worker): improve test coverage for boundary values) merg
 Milestone PR #592 (style(logger): refactor callback to async/await) merged at 2026-09-27 13:26:39
 Milestone PR #593 (docs(cache): simplify conditional branching) merged at 2026-09-27 13:26:52
 Milestone PR #594 (docs(service): extract reusable helper function) merged at 2026-09-27 13:26:53
+Milestone PR #593 (fix(ui): improve test coverage for boundary values) merged at 2026-09-27 13:27:06
