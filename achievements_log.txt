@@ -108,3 +108,4 @@ Milestone PR #106 (test(parser): extract constants to config file) merged at 202
 Milestone PR #107 (feat(model): clean up unused imports) merged at 2026-09-27 11:20:42
 Milestone PR #108 (perf(db): add missing error boundary) merged at 2026-09-27 11:20:55
 Milestone PR #109 (test(config): clean up unused imports) merged at 2026-09-27 11:21:10
+Milestone PR #110 (refactor(worker): simplify conditional branching) merged at 2026-09-27 11:21:25
