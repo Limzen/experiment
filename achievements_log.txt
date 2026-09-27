@@ -523,3 +523,4 @@ Milestone PR #658 (test(api): add early return for invalid state) merged at 2026
 Milestone PR #660 (style(parser): resolve null reference in edge case) merged at 2026-09-27 13:36:35
 Milestone PR #662 (fix(ui): add input length validation) merged at 2026-09-27 13:36:50
 Milestone PR #663 (refactor(config): simplify conditional branching) merged at 2026-09-27 13:37:03
+Milestone PR #665 (perf(core): remove deprecated method calls) merged at 2026-09-27 13:37:19
