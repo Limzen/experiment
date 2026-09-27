@@ -603,3 +603,4 @@ Milestone PR #758 (perf(logger): handle empty collection case) merged at 2026-09
 Milestone PR #760 (fix(config): improve input sanitization logic) merged at 2026-09-27 13:50:33
 [2026-09-27 13:50:45] style(db): fix incorrect status code on failure
 Milestone PR #762 (docs(config): add input length validation) merged at 2026-09-27 13:50:49
+[2026-09-27 13:51:04] fix(auth): update configuration schema
