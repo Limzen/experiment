@@ -36,3 +36,4 @@ Milestone PR #34 (fix(handler): add early return for invalid state) merged at 20
 Milestone PR #35 (docs(parser): reduce memory allocation on startup) merged at 2026-09-27 11:04:04
 Milestone PR #36 (style(utils): add input length validation) merged at 2026-09-27 11:04:17
 Milestone PR #37 (fix(logger): add JSDoc for public functions) merged at 2026-09-27 11:04:31
+Milestone PR #38 (perf(parser): optimize query with indexed fields) merged at 2026-09-27 11:04:45
