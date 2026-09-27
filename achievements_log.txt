@@ -256,3 +256,4 @@ Milestone PR #254 (test(ui): add missing error boundary) merged at 2026-09-27 11
 Milestone PR #255 (chore(db): add input length validation) merged at 2026-09-27 11:54:33
 Milestone PR #256 (style(api): fix incorrect status code on failure) merged at 2026-09-27 11:54:47
 Milestone PR #257 (fix(worker): update error messages to be more descriptive) merged at 2026-09-27 11:55:01
+Milestone PR #258 (test(service): refactor callback to async/await) merged at 2026-09-27 11:55:15
