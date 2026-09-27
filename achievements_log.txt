@@ -17,3 +17,4 @@ Milestone PR #15 (feat(utils): streamline data transformation step) merged at 20
 Milestone PR #16 (refactor(model): refactor to reduce cyclomatic complexity) merged at 2026-09-27 10:59:45
 Milestone PR #17 (fix(db): add JSDoc for public functions) merged at 2026-09-27 10:59:58
 Milestone PR #18 (feat(core): update dependency to latest stable) merged at 2026-09-27 11:00:10
+Milestone PR #19 (chore(ui): refactor callback to async/await) merged at 2026-09-27 11:00:25
