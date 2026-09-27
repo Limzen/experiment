@@ -369,3 +369,4 @@ Milestone PR #424 (docs(api): improve input sanitization logic) merged at 2026-0
 Milestone PR #428 (perf(model): fix incorrect status code on failure) merged at 2026-09-27 13:03:31
 Milestone PR #431 (chore(ui): clean up unused imports) merged at 2026-09-27 13:03:59
 Milestone PR #434 (refactor(parser): normalize response format) merged at 2026-09-27 13:04:49
+Milestone PR #438 (feat(worker): improve input sanitization logic) merged at 2026-09-27 13:05:38
