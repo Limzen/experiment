@@ -851,3 +851,4 @@ Milestone PR #1077 (test(handler): reduce memory allocation on startup) merged a
 [2026-09-27 14:33:06] refactor(ui): update configuration schema
 Milestone PR #1079 (refactor(api): fix race condition in async handler) merged at 2026-09-27 14:33:11
 [2026-09-27 14:33:23] refactor(api): reduce memory allocation on startup
+Milestone PR #1081 (refactor(config): improve retry handling on timeout) merged at 2026-09-27 14:33:25
