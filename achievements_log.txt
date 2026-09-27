@@ -659,3 +659,4 @@ Milestone PR #830 (chore(router): extract constants to config file) merged at 20
 [2026-09-27 14:01:36] test(core): fix race condition in async handler
 [2026-09-27 14:01:52] fix(cache): refactor callback to async/await
 [2026-09-27 14:02:08] fix(handler): improve retry handling on timeout
+Milestone PR #844 (perf(worker): optimize query with indexed fields) merged at 2026-09-27 14:02:08
