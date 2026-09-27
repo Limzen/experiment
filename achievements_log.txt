@@ -209,3 +209,4 @@ Milestone PR #207 (fix(parser): improve retry handling on timeout) merged at 202
 Milestone PR #208 (fix(core): add early return for invalid state) merged at 2026-09-27 11:43:14
 Milestone PR #209 (style(api): fix off-by-one in pagination logic) merged at 2026-09-27 11:43:28
 Milestone PR #210 (refactor(worker): simplify conditional branching) merged at 2026-09-27 11:43:43
+Milestone PR #211 (refactor(api): add early return for invalid state) merged at 2026-09-27 11:43:58
