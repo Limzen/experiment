@@ -396,3 +396,4 @@ Milestone PR #488 (fix(db): improve test coverage for boundary values) merged at
 Milestone PR #489 (feat(db): update configuration schema) merged at 2026-09-27 13:13:09
 Milestone PR #492 (style(db): add JSDoc for public functions) merged at 2026-09-27 13:13:16
 Milestone PR #493 (fix(parser): fix off-by-one in pagination logic) merged at 2026-09-27 13:13:37
+Milestone PR #497 (fix(worker): improve input sanitization logic) merged at 2026-09-27 13:13:44
