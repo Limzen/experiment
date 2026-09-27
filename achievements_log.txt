@@ -177,3 +177,4 @@ Milestone PR #175 (fix(router): add JSDoc for public functions) merged at 2026-0
 Milestone PR #176 (perf(utils): add input length validation) merged at 2026-09-27 11:36:11
 Milestone PR #177 (test(parser): improve input sanitization logic) merged at 2026-09-27 11:36:23
 Milestone PR #178 (perf(worker): extract constants to config file) merged at 2026-09-27 11:36:37
+Milestone PR #179 (style(parser): consolidate duplicated validation logic) merged at 2026-09-27 11:36:51
