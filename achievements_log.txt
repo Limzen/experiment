@@ -565,3 +565,4 @@ Milestone PR #715 (perf(worker): consolidate duplicated validation logic) merged
 Milestone PR #717 (style(utils): add JSDoc for public functions) merged at 2026-09-27 13:44:25
 [2026-09-27 13:44:37] docs(config): clean up unused imports
 Milestone PR #719 (docs(worker): improve input sanitization logic) merged at 2026-09-27 13:44:40
+[2026-09-27 13:44:53] feat(core): add graceful degradation fallback
