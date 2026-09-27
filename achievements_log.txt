@@ -498,3 +498,4 @@ Milestone PR #632 (fix(auth): extract constants to config file) merged at 2026-0
 Milestone PR #633 (test(core): update configuration schema) merged at 2026-09-27 13:32:21
 Milestone PR #634 (fix(utils): optimize query with indexed fields) merged at 2026-09-27 13:32:35
 Milestone PR #635 (chore(cache): fix incorrect status code on failure) merged at 2026-09-27 13:32:50
+Milestone PR #636 (feat(handler): update configuration schema) merged at 2026-09-27 13:33:05
