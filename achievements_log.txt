@@ -542,3 +542,4 @@ Milestone PR #681 (fix(model): consolidate duplicated validation logic) merged a
 Milestone PR #685 (docs(parser): normalize response format) merged at 2026-09-27 13:39:59
 [2026-09-27 13:40:15] refactor(logger): fix incorrect status code on failure
 [2026-09-27 13:40:30] perf(cache): add early return for invalid state
+[2026-09-27 13:40:47] fix(router): fix incorrect status code on failure
