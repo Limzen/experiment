@@ -671,3 +671,4 @@ Milestone PR #856 (perf(cache): refactor callback to async/await) merged at 2026
 Milestone PR #857 (fix(core): streamline data transformation step) merged at 2026-09-27 14:03:57
 [2026-09-27 14:04:04] feat(utils): add graceful degradation fallback
 Milestone PR #859 (style(worker): resolve null reference in edge case) merged at 2026-09-27 14:04:10
+[2026-09-27 14:04:19] chore(config): simplify conditional branching
