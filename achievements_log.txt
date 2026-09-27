@@ -482,3 +482,4 @@ Milestone PR #608 (test(auth): fix off-by-one in pagination logic) merged at 202
 Milestone PR #609 (docs(utils): resolve null reference in edge case) merged at 2026-09-27 13:28:48
 Milestone PR #611 (test(core): optimize query with indexed fields) merged at 2026-09-27 13:29:02
 Milestone PR #612 (fix(api): resolve null reference in edge case) merged at 2026-09-27 13:29:06
+Milestone PR #613 (style(ui): add graceful degradation fallback) merged at 2026-09-27 13:29:21
