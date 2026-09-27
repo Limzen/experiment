@@ -585,3 +585,4 @@ Milestone PR #737 (perf(parser): extract reusable helper function) merged at 202
 [2026-09-27 13:47:20] chore(logger): add graceful degradation fallback
 Milestone PR #739 (perf(config): improve input sanitization logic) merged at 2026-09-27 13:47:23
 [2026-09-27 13:47:38] chore(utils): refactor to reduce cyclomatic complexity
+Milestone PR #741 (test(auth): clean up unused imports) merged at 2026-09-27 13:47:41
