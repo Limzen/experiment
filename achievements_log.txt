@@ -597,3 +597,4 @@ Milestone PR #750 (docs(config): fix incorrect status code on failure) merged at
 [2026-09-27 13:49:32] refactor(logger): optimize query with indexed fields
 Milestone PR #756 (docs(logger): extract reusable helper function) merged at 2026-09-27 13:49:50
 [2026-09-27 13:49:50] test(logger): refactor to reduce cyclomatic complexity
+Milestone PR #757 (chore(router): resolve null reference in edge case) merged at 2026-09-27 13:50:03
