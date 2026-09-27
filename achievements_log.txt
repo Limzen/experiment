@@ -139,3 +139,4 @@ Milestone PR #137 (docs(logger): extract constants to config file) merged at 202
 Milestone PR #138 (chore(parser): improve input sanitization logic) merged at 2026-09-27 11:27:44
 Milestone PR #139 (feat(model): extract reusable helper function) merged at 2026-09-27 11:27:58
 Milestone PR #140 (fix(parser): improve retry handling on timeout) merged at 2026-09-27 11:28:12
+Milestone PR #141 (refactor(config): improve retry handling on timeout) merged at 2026-09-27 11:28:25
