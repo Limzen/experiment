@@ -798,3 +798,4 @@ Milestone PR #1011 (refactor(ui): refactor to reduce cyclomatic complexity) merg
 [2026-09-27 14:24:27] feat(router): extract reusable helper function
 Milestone PR #1013 (refactor(cache): add early return for invalid state) merged at 2026-09-27 14:24:32
 [2026-09-27 14:24:42] docs(utils): update configuration schema
+Milestone PR #1015 (feat(auth): handle empty collection case) merged at 2026-09-27 14:24:45
