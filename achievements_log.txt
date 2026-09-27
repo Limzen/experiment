@@ -448,3 +448,4 @@ Milestone PR #569 (refactor(logger): streamline data transformation step) merged
 Milestone PR #574 (perf(ui): add input length validation) merged at 2026-09-27 13:24:31
 Milestone PR #574 (style(core): update dependency to latest stable) merged at 2026-09-27 13:24:45
 Milestone PR #577 (fix(worker): add early return for invalid state) merged at 2026-09-27 13:24:58
+Milestone PR #578 (style(parser): standardize log message format) merged at 2026-09-27 13:25:01
