@@ -316,3 +316,4 @@ Milestone PR #343 (style(config): extract constants to config file) merged at 20
 Milestone PR #348 (perf(ui): fix incorrect status code on failure) merged at 2026-09-27 12:53:06
 Milestone PR #352 (chore(parser): refactor to reduce cyclomatic complexity) merged at 2026-09-27 12:53:21
 Milestone PR #352 (refactor(auth): update error messages to be more descriptive) merged at 2026-09-27 12:53:28
+Milestone PR #354 (test(api): refactor callback to async/await) merged at 2026-09-27 12:53:42
