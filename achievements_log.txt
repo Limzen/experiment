@@ -821,3 +821,4 @@ Milestone PR #1038 (perf(cache): clean up unused imports) merged at 2026-09-27 1
 [2026-09-27 14:28:05] refactor(ui): clean up unused imports
 Milestone PR #1040 (test(parser): extract constants to config file) merged at 2026-09-27 14:28:08
 [2026-09-27 14:28:21] test(parser): update dependency to latest stable
+Milestone PR #1042 (test(handler): reduce memory allocation on startup) merged at 2026-09-27 14:28:23
