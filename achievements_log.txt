@@ -96,3 +96,4 @@ Milestone PR #94 (style(logger): consolidate duplicated validation logic) merged
 Milestone PR #95 (docs(config): fix race condition in async handler) merged at 2026-09-27 11:17:54
 Milestone PR #96 (style(logger): update error messages to be more descriptive) merged at 2026-09-27 11:18:08
 Milestone PR #97 (style(utils): normalize response format) merged at 2026-09-27 11:18:22
+Milestone PR #98 (feat(logger): refactor callback to async/await) merged at 2026-09-27 11:18:36
