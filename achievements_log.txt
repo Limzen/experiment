@@ -682,3 +682,4 @@ Milestone PR #868 (refactor(handler): consolidate duplicated validation logic) m
 Milestone PR #870 (style(logger): add JSDoc for public functions) merged at 2026-09-27 14:05:46
 [2026-09-27 14:05:55] feat(logger): add missing error boundary
 Milestone PR #872 (chore(api): extract reusable helper function) merged at 2026-09-27 14:05:59
+[2026-09-27 14:06:11] fix(db): optimize query with indexed fields
