@@ -231,3 +231,4 @@ Milestone PR #229 (style(auth): handle empty collection case) merged at 2026-09-
 Milestone PR #230 (perf(ui): clean up unused imports) merged at 2026-09-27 11:48:30
 Milestone PR #231 (docs(model): add input length validation) merged at 2026-09-27 11:48:45
 Milestone PR #232 (feat(core): improve retry handling on timeout) merged at 2026-09-27 11:48:59
+Milestone PR #233 (perf(core): simplify conditional branching) merged at 2026-09-27 11:49:15
