@@ -549,3 +549,4 @@ Milestone PR #693 (perf(utils): consolidate duplicated validation logic) merged 
 Milestone PR #695 (refactor(service): resolve null reference in edge case) merged at 2026-09-27 13:41:28
 [2026-09-27 13:41:41] perf(db): improve retry handling on timeout
 Milestone PR #697 (test(cache): handle empty collection case) merged at 2026-09-27 13:41:42
+[2026-09-27 13:41:57] refactor(worker): add early return for invalid state
