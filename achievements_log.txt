@@ -299,3 +299,4 @@ Milestone PR #308 (perf(worker): clean up unused imports) merged at 2026-09-27 1
 Milestone PR #308 (chore(model): extract reusable helper function) merged at 2026-09-27 12:46:09
 Milestone PR #311 (feat(cache): add early return for invalid state) merged at 2026-09-27 12:46:35
 Milestone PR #314 (chore(parser): improve input sanitization logic) merged at 2026-09-27 12:47:01
+Milestone PR #316 (fix(utils): add early return for invalid state) merged at 2026-09-27 12:47:28
