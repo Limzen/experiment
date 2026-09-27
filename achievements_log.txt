@@ -842,3 +842,4 @@ Milestone PR #1064 (feat(auth): normalize response format) merged at 2026-09-27 
 Milestone PR #1066 (refactor(cache): simplify conditional branching) merged at 2026-09-27 14:31:23
 Milestone PR #1067 (fix(config): fix off-by-one in pagination logic) merged at 2026-09-27 14:31:38
 Milestone PR #1069 (style(auth): normalize response format) merged at 2026-09-27 14:31:52
+[2026-09-27 14:31:59] perf(parser): improve test coverage for boundary values
