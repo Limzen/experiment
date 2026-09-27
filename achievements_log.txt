@@ -584,3 +584,4 @@ Milestone PR #735 (perf(router): standardize log message format) merged at 2026-
 Milestone PR #737 (perf(parser): extract reusable helper function) merged at 2026-09-27 13:47:08
 [2026-09-27 13:47:20] chore(logger): add graceful degradation fallback
 Milestone PR #739 (perf(config): improve input sanitization logic) merged at 2026-09-27 13:47:23
+[2026-09-27 13:47:38] chore(utils): refactor to reduce cyclomatic complexity
