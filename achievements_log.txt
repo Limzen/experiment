@@ -332,3 +332,4 @@ Milestone PR #374 (chore(ui): add JSDoc for public functions) merged at 2026-09-
 Milestone PR #371 (refactor(handler): streamline data transformation step) merged at 2026-09-27 12:56:31
 Milestone PR #376 (test(cache): handle empty collection case) merged at 2026-09-27 12:56:32
 Milestone PR #378 (test(service): extract reusable helper function) merged at 2026-09-27 12:56:44
+Milestone PR #379 (chore(cache): clean up unused imports) merged at 2026-09-27 12:56:45
