@@ -81,3 +81,4 @@ Milestone PR #79 (style(core): resolve null reference in edge case) merged at 20
 Milestone PR #80 (test(cache): add graceful degradation fallback) merged at 2026-09-27 11:14:25
 Milestone PR #81 (docs(ui): simplify conditional branching) merged at 2026-09-27 11:14:38
 Milestone PR #82 (test(core): handle empty collection case) merged at 2026-09-27 11:14:52
+Milestone PR #83 (perf(ui): fix incorrect status code on failure) merged at 2026-09-27 11:15:05
