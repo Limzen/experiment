@@ -816,3 +816,4 @@ Milestone PR #1031 (perf(config): standardize log message format) merged at 2026
 Milestone PR #1033 (perf(api): normalize response format) merged at 2026-09-27 14:27:05
 [2026-09-27 14:27:16] feat(service): consolidate duplicated validation logic
 Milestone PR #1035 (test(logger): fix off-by-one in pagination logic) merged at 2026-09-27 14:27:19
+[2026-09-27 14:27:32] chore(handler): improve retry handling on timeout
