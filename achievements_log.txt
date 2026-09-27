@@ -856,3 +856,4 @@ Milestone PR #1083 (feat(api): fix race condition in async handler) merged at 20
 Milestone PR #1084 (style(logger): normalize response format) merged at 2026-09-27 14:33:51
 Milestone PR #1086 (refactor(cache): extract constants to config file) merged at 2026-09-27 14:34:04
 [2026-09-27 14:34:14] fix(cache): update error messages to be more descriptive
+Milestone PR #1088 (fix(service): add JSDoc for public functions) merged at 2026-09-27 14:34:18
