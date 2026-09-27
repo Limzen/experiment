@@ -538,3 +538,4 @@ Milestone PR #679 (refactor(service): add input length validation) merged at 202
 [2026-09-27 13:39:25] chore(api): fix race condition in async handler
 Milestone PR #681 (fix(model): consolidate duplicated validation logic) merged at 2026-09-27 13:39:29
 [2026-09-27 13:39:42] chore(config): improve input sanitization logic
+[2026-09-27 13:39:59] style(router): refactor callback to async/await
