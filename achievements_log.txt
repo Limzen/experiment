@@ -339,3 +339,4 @@ Milestone PR #380 (refactor(core): fix race condition in async handler) merged a
 Milestone PR #384 (feat(worker): remove deprecated method calls) merged at 2026-09-27 12:57:24
 Milestone PR #385 (test(ui): refactor to reduce cyclomatic complexity) merged at 2026-09-27 12:57:37
 Milestone PR #384 (feat(parser): normalize response format) merged at 2026-09-27 12:57:52
+Milestone PR #389 (style(router): add input length validation) merged at 2026-09-27 12:58:06
