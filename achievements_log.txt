@@ -143,3 +143,4 @@ Milestone PR #141 (refactor(config): improve retry handling on timeout) merged a
 Milestone PR #142 (refactor(config): fix incorrect status code on failure) merged at 2026-09-27 11:28:38
 Milestone PR #143 (chore(handler): normalize response format) merged at 2026-09-27 11:28:52
 Milestone PR #144 (style(model): fix off-by-one in pagination logic) merged at 2026-09-27 11:29:05
+Milestone PR #145 (test(config): standardize log message format) merged at 2026-09-27 11:29:18
