@@ -483,3 +483,4 @@ Milestone PR #609 (docs(utils): resolve null reference in edge case) merged at 2
 Milestone PR #611 (test(core): optimize query with indexed fields) merged at 2026-09-27 13:29:02
 Milestone PR #612 (fix(api): resolve null reference in edge case) merged at 2026-09-27 13:29:06
 Milestone PR #613 (style(ui): add graceful degradation fallback) merged at 2026-09-27 13:29:21
+Milestone PR #614 (style(utils): remove deprecated method calls) merged at 2026-09-27 13:29:26
