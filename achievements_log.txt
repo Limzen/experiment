@@ -159,3 +159,4 @@ Milestone PR #157 (test(service): fix off-by-one in pagination logic) merged at 
 Milestone PR #158 (perf(auth): normalize response format) merged at 2026-09-27 11:32:10
 Milestone PR #159 (perf(handler): clean up unused imports) merged at 2026-09-27 11:32:23
 Milestone PR #160 (style(core): fix incorrect status code on failure) merged at 2026-09-27 11:32:37
+Milestone PR #161 (feat(cache): add missing error boundary) merged at 2026-09-27 11:32:50
