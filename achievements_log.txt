@@ -478,3 +478,4 @@ Milestone PR #604 (perf(utils): clean up unused imports) merged at 2026-09-27 13
 Milestone PR #605 (refactor(config): update dependency to latest stable) merged at 2026-09-27 13:28:19
 Milestone PR #606 (test(worker): standardize log message format) merged at 2026-09-27 13:28:21
 Milestone PR #607 (chore(handler): remove deprecated method calls) merged at 2026-09-27 13:28:34
+Milestone PR #608 (test(auth): fix off-by-one in pagination logic) merged at 2026-09-27 13:28:34
