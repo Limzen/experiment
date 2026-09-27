@@ -715,3 +715,4 @@ Milestone PR #907 (style(worker): extract reusable helper function) merged at 20
 Milestone PR #909 (chore(ui): improve input sanitization logic) merged at 2026-09-27 14:10:45
 Milestone PR #910 (perf(core): add input length validation) merged at 2026-09-27 14:10:58
 [2026-09-27 14:11:07] refactor(service): normalize response format
+Milestone PR #912 (chore(model): extract constants to config file) merged at 2026-09-27 14:11:11
