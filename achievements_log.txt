@@ -731,3 +731,4 @@ Milestone PR #926 (feat(router): reduce memory allocation on startup) merged at 
 Milestone PR #929 (refactor(model): add graceful degradation fallback) merged at 2026-09-27 14:13:22
 [2026-09-27 14:13:35] perf(cache): resolve null reference in edge case
 Milestone PR #931 (feat(model): update dependency to latest stable) merged at 2026-09-27 14:13:36
+[2026-09-27 14:13:51] perf(auth): extract reusable helper function
