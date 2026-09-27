@@ -251,3 +251,4 @@ Milestone PR #249 (test(worker): improve retry handling on timeout) merged at 20
 Milestone PR #250 (fix(core): extract constants to config file) merged at 2026-09-27 11:53:20
 Milestone PR #251 (test(worker): optimize query with indexed fields) merged at 2026-09-27 11:53:35
 Milestone PR #252 (feat(worker): update dependency to latest stable) merged at 2026-09-27 11:53:50
+Milestone PR #253 (docs(logger): clean up unused imports) merged at 2026-09-27 11:54:05
