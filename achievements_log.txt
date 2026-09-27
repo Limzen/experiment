@@ -92,3 +92,4 @@ Milestone PR #90 (feat(core): resolve null reference in edge case) merged at 202
 Milestone PR #91 (style(logger): add input length validation) merged at 2026-09-27 11:16:57
 Milestone PR #92 (fix(parser): simplify conditional branching) merged at 2026-09-27 11:17:12
 Milestone PR #93 (fix(logger): clean up unused imports) merged at 2026-09-27 11:17:26
+Milestone PR #94 (style(logger): consolidate duplicated validation logic) merged at 2026-09-27 11:17:40
