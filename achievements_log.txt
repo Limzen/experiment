@@ -155,3 +155,4 @@ Milestone PR #153 (style(parser): resolve null reference in edge case) merged at
 Milestone PR #154 (feat(ui): update configuration schema) merged at 2026-09-27 11:31:17
 Milestone PR #155 (perf(model): consolidate duplicated validation logic) merged at 2026-09-27 11:31:31
 Milestone PR #156 (refactor(logger): fix race condition in async handler) merged at 2026-09-27 11:31:43
+Milestone PR #157 (test(service): fix off-by-one in pagination logic) merged at 2026-09-27 11:31:57
