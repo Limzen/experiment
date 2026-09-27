@@ -206,3 +206,4 @@ Milestone PR #204 (feat(config): optimize query with indexed fields) merged at 2
 Milestone PR #205 (fix(ui): add early return for invalid state) merged at 2026-09-27 11:42:34
 Milestone PR #206 (test(api): update dependency to latest stable) merged at 2026-09-27 11:42:47
 Milestone PR #207 (fix(parser): improve retry handling on timeout) merged at 2026-09-27 11:43:00
+Milestone PR #208 (fix(core): add early return for invalid state) merged at 2026-09-27 11:43:14
