@@ -665,3 +665,4 @@ Milestone PR #847 (perf(ui): update configuration schema) merged at 2026-09-27 1
 Milestone PR #849 (feat(config): remove deprecated method calls) merged at 2026-09-27 14:02:51
 [2026-09-27 14:02:59] refactor(cache): resolve null reference in edge case
 Milestone PR #851 (style(handler): standardize log message format) merged at 2026-09-27 14:03:03
+[2026-09-27 14:03:15] test(auth): fix incorrect status code on failure
