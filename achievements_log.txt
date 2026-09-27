@@ -814,3 +814,4 @@ Milestone PR #1029 (style(parser): reduce memory allocation on startup) merged a
 Milestone PR #1031 (perf(config): standardize log message format) merged at 2026-09-27 14:26:51
 [2026-09-27 14:27:00] docs(parser): simplify conditional branching
 Milestone PR #1033 (perf(api): normalize response format) merged at 2026-09-27 14:27:05
+[2026-09-27 14:27:16] feat(service): consolidate duplicated validation logic
