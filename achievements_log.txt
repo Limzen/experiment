@@ -790,3 +790,4 @@ Milestone PR #999 (chore(worker): fix race condition in async handler) merged at
 Milestone PR #1001 (style(handler): improve test coverage for boundary values) merged at 2026-09-27 14:22:56
 [2026-09-27 14:23:05] feat(parser): clean up unused imports
 Milestone PR #1003 (chore(handler): add graceful degradation fallback) merged at 2026-09-27 14:23:09
+[2026-09-27 14:23:21] refactor(worker): update error messages to be more descriptive
