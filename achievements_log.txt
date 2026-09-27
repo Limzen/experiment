@@ -213,3 +213,4 @@ Milestone PR #211 (refactor(api): add early return for invalid state) merged at 
 Milestone PR #212 (docs(worker): resolve null reference in edge case) merged at 2026-09-27 11:44:12
 Milestone PR #213 (feat(worker): improve test coverage for boundary values) merged at 2026-09-27 11:44:28
 Milestone PR #214 (chore(service): refactor to reduce cyclomatic complexity) merged at 2026-09-27 11:44:43
+Milestone PR #215 (style(handler): consolidate duplicated validation logic) merged at 2026-09-27 11:44:57
