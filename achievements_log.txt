@@ -341,3 +341,4 @@ Milestone PR #385 (test(ui): refactor to reduce cyclomatic complexity) merged at
 Milestone PR #384 (feat(parser): normalize response format) merged at 2026-09-27 12:57:52
 Milestone PR #389 (style(router): add input length validation) merged at 2026-09-27 12:58:06
 Milestone PR #390 (feat(router): reduce memory allocation on startup) merged at 2026-09-27 12:58:09
+Milestone PR #391 (perf(config): consolidate duplicated validation logic) merged at 2026-09-27 12:58:20
