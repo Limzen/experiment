@@ -599,3 +599,4 @@ Milestone PR #756 (docs(logger): extract reusable helper function) merged at 202
 [2026-09-27 13:49:50] test(logger): refactor to reduce cyclomatic complexity
 Milestone PR #757 (chore(router): resolve null reference in edge case) merged at 2026-09-27 13:50:03
 Milestone PR #758 (perf(logger): handle empty collection case) merged at 2026-09-27 13:50:18
+[2026-09-27 13:50:28] refactor(cache): standardize log message format
