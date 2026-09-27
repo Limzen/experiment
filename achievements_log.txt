@@ -248,3 +248,4 @@ Milestone PR #246 (fix(handler): fix off-by-one in pagination logic) merged at 2
 Milestone PR #247 (style(router): improve retry handling on timeout) merged at 2026-09-27 11:52:36
 Milestone PR #248 (feat(service): fix incorrect status code on failure) merged at 2026-09-27 11:52:50
 Milestone PR #249 (test(worker): improve retry handling on timeout) merged at 2026-09-27 11:53:05
+Milestone PR #250 (fix(core): extract constants to config file) merged at 2026-09-27 11:53:20
