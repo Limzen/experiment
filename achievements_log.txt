@@ -643,3 +643,4 @@ Milestone PR #814 (style(parser): improve input sanitization logic) merged at 20
 Milestone PR #816 (chore(service): consolidate duplicated validation logic) merged at 2026-09-27 13:58:27
 [2026-09-27 13:58:37] feat(handler): refactor to reduce cyclomatic complexity
 Milestone PR #818 (fix(config): extract reusable helper function) merged at 2026-09-27 13:58:40
+[2026-09-27 13:58:53] refactor(ui): add early return for invalid state
