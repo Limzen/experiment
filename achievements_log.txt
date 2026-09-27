@@ -112,3 +112,4 @@ Milestone PR #110 (refactor(worker): simplify conditional branching) merged at 2
 Milestone PR #111 (fix(router): remove deprecated method calls) merged at 2026-09-27 11:21:38
 Milestone PR #112 (test(config): resolve null reference in edge case) merged at 2026-09-27 11:21:51
 Milestone PR #113 (perf(router): simplify conditional branching) merged at 2026-09-27 11:22:04
+Milestone PR #114 (chore(db): extract reusable helper function) merged at 2026-09-27 11:22:18
