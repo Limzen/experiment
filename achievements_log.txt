@@ -305,3 +305,4 @@ Milestone PR #321 (style(ui): resolve null reference in edge case) merged at 202
 Milestone PR #322 (chore(handler): update dependency to latest stable) merged at 2026-09-27 12:48:29
 Milestone PR #323 (test(core): improve test coverage for boundary values) merged at 2026-09-27 12:48:44
 Milestone PR #324 (feat(parser): standardize log message format) merged at 2026-09-27 12:48:44
+Milestone PR #323 (feat(api): refactor to reduce cyclomatic complexity) merged at 2026-09-27 12:49:05
