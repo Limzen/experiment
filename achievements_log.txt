@@ -555,3 +555,4 @@ Milestone PR #701 (chore(logger): update configuration schema) merged at 2026-09
 Milestone PR #703 (style(cache): improve input sanitization logic) merged at 2026-09-27 13:42:27
 Milestone PR #704 (test(api): extract constants to config file) merged at 2026-09-27 13:42:42
 Milestone PR #706 (chore(api): handle empty collection case) merged at 2026-09-27 13:42:57
+[2026-09-27 13:43:08] refactor(model): resolve null reference in edge case
