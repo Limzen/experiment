@@ -273,3 +273,4 @@ Milestone PR #271 (feat(service): improve test coverage for boundary values) mer
 Milestone PR #272 (docs(api): refactor callback to async/await) merged at 2026-09-27 11:58:35
 Milestone PR #273 (style(logger): normalize response format) merged at 2026-09-27 11:58:49
 Milestone PR #274 (perf(cache): extract constants to config file) merged at 2026-09-27 12:40:47
+Milestone PR #275 (refactor(model): update error messages to be more descriptive) merged at 2026-09-27 12:41:03
