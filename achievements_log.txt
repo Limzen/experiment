@@ -236,3 +236,4 @@ Milestone PR #234 (fix(core): handle empty collection case) merged at 2026-09-27
 Milestone PR #235 (feat(auth): streamline data transformation step) merged at 2026-09-27 11:49:43
 Milestone PR #236 (fix(worker): consolidate duplicated validation logic) merged at 2026-09-27 11:49:57
 Milestone PR #237 (docs(logger): update dependency to latest stable) merged at 2026-09-27 11:50:12
+Milestone PR #238 (refactor(config): update error messages to be more descriptive) merged at 2026-09-27 11:50:25
