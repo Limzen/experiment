@@ -748,3 +748,4 @@ Milestone PR #948 (test(cache): improve test coverage for boundary values) merge
 [2026-09-27 14:16:03] style(handler): add input length validation
 Milestone PR #950 (perf(api): update error messages to be more descriptive) merged at 2026-09-27 14:16:05
 [2026-09-27 14:16:22] docs(cache): remove deprecated method calls
+Milestone PR #953 (refactor(api): update error messages to be more descriptive) merged at 2026-09-27 14:16:34
