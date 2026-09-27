@@ -690,3 +690,5 @@ Milestone PR #878 (style(logger): consolidate duplicated validation logic) merge
 Milestone PR #880 (perf(cache): handle empty collection case) merged at 2026-09-27 14:06:57
 Milestone PR #881 (docs(ui): refactor callback to async/await) merged at 2026-09-27 14:07:11
 Milestone PR #883 (style(db): extract constants to config file) merged at 2026-09-27 14:07:25
+[2026-09-27 14:07:33] fix(router): add early return for invalid state
+Milestone PR #885 (chore(worker): optimize query with indexed fields) merged at 2026-09-27 14:07:38
