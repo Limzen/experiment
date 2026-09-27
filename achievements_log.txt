@@ -64,3 +64,4 @@ Milestone PR #62 (perf(config): clean up unused imports) merged at 2026-09-27 11
 Milestone PR #63 (test(parser): improve variable naming for clarity) merged at 2026-09-27 11:10:32
 Milestone PR #64 (style(ui): improve variable naming for clarity) merged at 2026-09-27 11:10:46
 Milestone PR #65 (test(worker): add early return for invalid state) merged at 2026-09-27 11:10:59
+Milestone PR #66 (refactor(ui): update error messages to be more descriptive) merged at 2026-09-27 11:11:12
