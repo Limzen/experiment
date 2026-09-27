@@ -400,3 +400,4 @@ Milestone PR #497 (fix(worker): improve input sanitization logic) merged at 2026
 Milestone PR #497 (refactor(db): add missing error boundary) merged at 2026-09-27 13:14:03
 Milestone PR #500 (fix(core): improve test coverage for boundary values) merged at 2026-09-27 13:14:29
 Milestone PR #503 (perf(db): optimize query with indexed fields) merged at 2026-09-27 13:14:55
+Milestone PR #507 (fix(service): consolidate duplicated validation logic) merged at 2026-09-27 13:15:28
