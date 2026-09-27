@@ -125,3 +125,4 @@ Milestone PR #123 (perf(model): improve input sanitization logic) merged at 2026
 Milestone PR #124 (fix(api): consolidate duplicated validation logic) merged at 2026-09-27 11:24:34
 Milestone PR #125 (refactor(auth): update configuration schema) merged at 2026-09-27 11:24:47
 Milestone PR #126 (chore(core): extract constants to config file) merged at 2026-09-27 11:25:01
+Milestone PR #127 (feat(config): update error messages to be more descriptive) merged at 2026-09-27 11:25:14
