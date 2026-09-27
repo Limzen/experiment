@@ -67,3 +67,4 @@ Milestone PR #65 (test(worker): add early return for invalid state) merged at 20
 Milestone PR #66 (refactor(ui): update error messages to be more descriptive) merged at 2026-09-27 11:11:12
 Milestone PR #67 (docs(parser): consolidate duplicated validation logic) merged at 2026-09-27 11:11:26
 Milestone PR #68 (fix(cache): update dependency to latest stable) merged at 2026-09-27 11:11:40
+Milestone PR #69 (perf(parser): add missing error boundary) merged at 2026-09-27 11:11:55
