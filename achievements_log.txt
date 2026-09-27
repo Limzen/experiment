@@ -203,3 +203,4 @@ Milestone PR #201 (chore(router): update error messages to be more descriptive) 
 Milestone PR #202 (fix(api): refactor to reduce cyclomatic complexity) merged at 2026-09-27 11:41:54
 Milestone PR #203 (style(core): consolidate duplicated validation logic) merged at 2026-09-27 11:42:08
 Milestone PR #204 (feat(config): optimize query with indexed fields) merged at 2026-09-27 11:42:21
+Milestone PR #205 (fix(ui): add early return for invalid state) merged at 2026-09-27 11:42:34
