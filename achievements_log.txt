@@ -153,3 +153,4 @@ Milestone PR #151 (fix(worker): clean up unused imports) merged at 2026-09-27 11
 Milestone PR #152 (fix(model): fix incorrect status code on failure) merged at 2026-09-27 11:30:51
 Milestone PR #153 (style(parser): resolve null reference in edge case) merged at 2026-09-27 11:31:04
 Milestone PR #154 (feat(ui): update configuration schema) merged at 2026-09-27 11:31:17
+Milestone PR #155 (perf(model): consolidate duplicated validation logic) merged at 2026-09-27 11:31:31
