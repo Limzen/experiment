@@ -857,3 +857,4 @@ Milestone PR #1084 (style(logger): normalize response format) merged at 2026-09-
 Milestone PR #1086 (refactor(cache): extract constants to config file) merged at 2026-09-27 14:34:04
 [2026-09-27 14:34:14] fix(cache): update error messages to be more descriptive
 Milestone PR #1088 (fix(service): add JSDoc for public functions) merged at 2026-09-27 14:34:18
+Milestone PR #1090 (feat(config): refactor callback to async/await) merged at 2026-09-27 14:34:30
