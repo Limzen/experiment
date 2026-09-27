@@ -42,3 +42,4 @@ Milestone PR #40 (test(cache): remove deprecated method calls) merged at 2026-09
 Milestone PR #41 (perf(config): standardize log message format) merged at 2026-09-27 11:05:26
 Milestone PR #42 (perf(cache): consolidate duplicated validation logic) merged at 2026-09-27 11:05:39
 Milestone PR #43 (test(model): consolidate duplicated validation logic) merged at 2026-09-27 11:05:52
+Milestone PR #44 (refactor(worker): add graceful degradation fallback) merged at 2026-09-27 11:06:06
