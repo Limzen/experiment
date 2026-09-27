@@ -425,3 +425,4 @@ Milestone PR #529 (style(worker): extract reusable helper function) merged at 20
 Milestone PR #531 (chore(worker): streamline data transformation step) merged at 2026-09-27 13:18:35
 Milestone PR #531 (chore(model): improve variable naming for clarity) merged at 2026-09-27 13:18:54
 Milestone PR #532 (docs(db): refactor callback to async/await) merged at 2026-09-27 13:18:55
+Milestone PR #531 (chore(ui): add graceful degradation fallback) merged at 2026-09-27 13:19:14
