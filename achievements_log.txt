@@ -268,3 +268,4 @@ Milestone PR #266 (fix(worker): fix off-by-one in pagination logic) merged at 20
 Milestone PR #267 (test(api): reduce memory allocation on startup) merged at 2026-09-27 11:57:25
 Milestone PR #268 (refactor(config): add input length validation) merged at 2026-09-27 11:57:39
 Milestone PR #269 (style(ui): refactor to reduce cyclomatic complexity) merged at 2026-09-27 11:57:53
+Milestone PR #270 (fix(worker): update dependency to latest stable) merged at 2026-09-27 11:58:07
