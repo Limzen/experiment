@@ -606,3 +606,4 @@ Milestone PR #762 (docs(config): add input length validation) merged at 2026-09-
 [2026-09-27 13:51:04] fix(auth): update configuration schema
 [2026-09-27 13:51:22] style(handler): update dependency to latest stable
 [2026-09-27 13:51:39] docs(worker): improve test coverage for boundary values
+Milestone PR #768 (chore(api): optimize query with indexed fields) merged at 2026-09-27 13:51:39
