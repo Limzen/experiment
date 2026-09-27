@@ -150,3 +150,4 @@ Milestone PR #148 (fix(config): add input length validation) merged at 2026-09-2
 Milestone PR #149 (feat(service): add graceful degradation fallback) merged at 2026-09-27 11:30:10
 Milestone PR #150 (chore(config): resolve null reference in edge case) merged at 2026-09-27 11:30:24
 Milestone PR #151 (fix(worker): clean up unused imports) merged at 2026-09-27 11:30:37
+Milestone PR #152 (fix(model): fix incorrect status code on failure) merged at 2026-09-27 11:30:51
