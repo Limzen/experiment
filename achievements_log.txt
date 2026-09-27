@@ -808,3 +808,4 @@ Milestone PR #1022 (docs(worker): fix incorrect status code on failure) merged a
 [2026-09-27 14:25:49] test(config): refactor to reduce cyclomatic complexity
 Milestone PR #1024 (test(core): resolve null reference in edge case) merged at 2026-09-27 14:25:53
 [2026-09-27 14:26:05] fix(api): fix race condition in async handler
+Milestone PR #1026 (refactor(router): remove deprecated method calls) merged at 2026-09-27 14:26:06
