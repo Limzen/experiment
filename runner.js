@@ -12,7 +12,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const TOKEN = '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';
+const TOKEN = process.env.GITHUB_TOKEN;
 const OWNER = 'Limzen';
 const REPO = 'experiment';
 const TARGET_PRS = 1024;
