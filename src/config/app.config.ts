@@ -163,3 +163,6 @@ export const UPDATE_374 = { timestamp: "2026-10-01T17:58:09.531Z", active: true 
 
 // [PR #391] fix(storage): correct status code on validation failure
 export const UPDATE_391 = { timestamp: "2026-10-01T18:01:09.421Z", active: true };
+
+// [PR #395] fix(storage): fix race condition in async handler lifecycle
+export const UPDATE_395 = { timestamp: "2026-10-01T18:01:52.499Z", active: true };
