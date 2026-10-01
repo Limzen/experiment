@@ -181,3 +181,6 @@ export const UPDATE_408 = { timestamp: "2026-10-01T18:04:11.924Z", active: true 
 
 // [PR #419] fix(parser): resolve null reference in edge case payload
 export const UPDATE_419 = { timestamp: "2026-10-01T18:06:09.903Z", active: true };
+
+// [PR #442] feat(config): optimize query with indexed fields
+export const UPDATE_442 = { timestamp: "2026-10-01T18:10:05.733Z", active: true };
