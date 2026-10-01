@@ -76,3 +76,6 @@ export const UPDATE_208 = { timestamp: "2026-10-01T17:29:47.014Z", active: true 
 
 // [PR #209] feat(metrics): implement graceful degradation fallback
 export const UPDATE_209 = { timestamp: "2026-10-01T17:29:56.422Z", active: true };
+
+// [PR #241] feat(core): optimize query with indexed fields
+export const UPDATE_241 = { timestamp: "2026-10-01T17:35:21.064Z", active: true };
