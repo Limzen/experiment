@@ -19,3 +19,6 @@ export const UPDATE_24 = { timestamp: "2026-10-01T16:44:49.099Z", active: true }
 
 // [PR #25] feat(middleware): support custom header propagation in proxy
 export const UPDATE_25 = { timestamp: "2026-10-01T16:44:59.034Z", active: true };
+
+// [PR #26] refactor(service): decouple transport layer from business logic
+export const UPDATE_26 = { timestamp: "2026-10-01T16:45:09.333Z", active: true };
