@@ -283,3 +283,6 @@ export const UPDATE_853 = { timestamp: "2026-10-01T19:20:45.567Z", active: true 
 
 // [PR #855] feat(core): implement cache eviction with LRU strategy
 export const UPDATE_855 = { timestamp: "2026-10-01T19:21:07.391Z", active: true };
+
+// [PR #860] refactor(middleware): simplify conditional branching logic
+export const UPDATE_860 = { timestamp: "2026-10-01T19:21:58.084Z", active: true };
