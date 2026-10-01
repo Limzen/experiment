@@ -313,3 +313,6 @@ export const UPDATE_964 = { timestamp: "2026-10-01T19:40:06.309Z", active: true 
 
 // [PR #967] refactor(router): simplify conditional branching logic
 export const UPDATE_967 = { timestamp: "2026-10-01T19:40:36.398Z", active: true };
+
+// [PR #974] fix(crypto): fix race condition in async handler lifecycle
+export const UPDATE_974 = { timestamp: "2026-10-01T19:41:48.089Z", active: true };
