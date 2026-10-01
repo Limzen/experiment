@@ -334,3 +334,6 @@ export const UPDATE_1005 = { timestamp: "2026-10-01T19:47:12.220Z", active: true
 
 // [PR #1015] docs(parser): add JSDoc annotations for public helper methods
 export const UPDATE_1015 = { timestamp: "2026-10-01T19:48:57.562Z", active: true };
+
+// [PR #1018] feat(service): implement graceful degradation fallback
+export const UPDATE_1018 = { timestamp: "2026-10-01T19:49:28.169Z", active: true };
