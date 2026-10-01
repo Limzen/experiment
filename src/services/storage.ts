@@ -214,3 +214,6 @@ export const UPDATE_612 = { timestamp: "2026-10-01T18:38:56.589Z", active: true 
 
 // [PR #621] feat(core): normalize error response schema across endpoints
 export const UPDATE_621 = { timestamp: "2026-10-01T18:40:31.421Z", active: true };
+
+// [PR #664] docs(router): clarify return types and exception semantics
+export const UPDATE_664 = { timestamp: "2026-10-01T18:47:56.098Z", active: true };
