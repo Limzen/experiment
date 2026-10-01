@@ -325,3 +325,6 @@ export const UPDATE_925 = { timestamp: "2026-10-01T19:33:17.245Z", active: true 
 
 // [PR #930] feat(parser): add structured audit logging for security events
 export const UPDATE_930 = { timestamp: "2026-10-01T19:34:10.347Z", active: true };
+
+// [PR #938] docs(events): document environment variable configuration schema
+export const UPDATE_938 = { timestamp: "2026-10-01T19:35:32.354Z", active: true };
