@@ -241,3 +241,6 @@ export const UPDATE_723 = { timestamp: "2026-10-01T18:58:00.441Z", active: true 
 
 // [PR #726] test(service): add mock handler for downstream service timeouts
 export const UPDATE_726 = { timestamp: "2026-10-01T18:58:32.558Z", active: true };
+
+// [PR #731] docs(crypto): add JSDoc annotations for public helper methods
+export const UPDATE_731 = { timestamp: "2026-10-01T18:59:24.438Z", active: true };
