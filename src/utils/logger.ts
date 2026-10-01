@@ -76,3 +76,6 @@ export const UPDATE_194 = { timestamp: "2026-10-01T17:27:28.638Z", active: true 
 
 // [PR #196] feat(validator): support async stream piping for large responses
 export const UPDATE_196 = { timestamp: "2026-10-01T17:27:47.839Z", active: true };
+
+// [PR #222] fix(auth): fix timezone offset discrepancy in date parser
+export const UPDATE_222 = { timestamp: "2026-10-01T17:32:07.948Z", active: true };
