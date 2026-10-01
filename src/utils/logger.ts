@@ -289,3 +289,6 @@ export const UPDATE_842 = { timestamp: "2026-10-01T19:18:50.485Z", active: true 
 
 // [PR #846] fix(parser): prevent double execution in idempotency key check
 export const UPDATE_846 = { timestamp: "2026-10-01T19:19:32.983Z", active: true };
+
+// [PR #848] docs(storage): update API documentation with latest error codes
+export const UPDATE_848 = { timestamp: "2026-10-01T19:19:53.181Z", active: true };
