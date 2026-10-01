@@ -277,3 +277,6 @@ export const UPDATE_819 = { timestamp: "2026-10-01T19:14:53.374Z", active: true 
 
 // [PR #852] style(client): enforce consistent naming conventions for constants
 export const UPDATE_852 = { timestamp: "2026-10-01T19:20:35.081Z", active: true };
+
+// [PR #853] fix(core): prevent double execution in idempotency key check
+export const UPDATE_853 = { timestamp: "2026-10-01T19:20:45.567Z", active: true };
