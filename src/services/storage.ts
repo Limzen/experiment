@@ -22,3 +22,6 @@ export const UPDATE_25 = { timestamp: "2026-10-01T16:44:59.034Z", active: true }
 
 // [PR #26] refactor(service): decouple transport layer from business logic
 export const UPDATE_26 = { timestamp: "2026-10-01T16:45:09.333Z", active: true };
+
+// [PR #42] feat(worker): normalize error response schema across endpoints
+export const UPDATE_42 = { timestamp: "2026-10-01T16:47:53.583Z", active: true };
