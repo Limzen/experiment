@@ -154,3 +154,6 @@ export const UPDATE_424 = { timestamp: "2026-10-01T18:07:03.783Z", active: true 
 
 // [PR #457] refactor(core): decouple transport layer from business logic
 export const UPDATE_457 = { timestamp: "2026-10-01T18:12:35.777Z", active: true };
+
+// [PR #458] feat(crypto): support custom header propagation in proxy
+export const UPDATE_458 = { timestamp: "2026-10-01T18:12:45.951Z", active: true };
