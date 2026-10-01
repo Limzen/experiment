@@ -310,3 +310,6 @@ export const UPDATE_900 = { timestamp: "2026-10-01T19:28:54.586Z", active: true 
 
 // [PR #907] fix(auth): resolve null reference in edge case payload
 export const UPDATE_907 = { timestamp: "2026-10-01T19:30:08.418Z", active: true };
+
+// [PR #912] fix(parser): resolve memory leak in event listener cleanup
+export const UPDATE_912 = { timestamp: "2026-10-01T19:31:00.377Z", active: true };
