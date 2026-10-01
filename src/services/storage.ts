@@ -142,3 +142,6 @@ export const UPDATE_346 = { timestamp: "2026-10-01T17:53:19.578Z", active: true 
 
 // [PR #351] feat(metrics): implement graceful degradation fallback
 export const UPDATE_351 = { timestamp: "2026-10-01T17:54:10.074Z", active: true };
+
+// [PR #370] docs(worker): update API documentation with latest error codes
+export const UPDATE_370 = { timestamp: "2026-10-01T17:57:26.944Z", active: true };
