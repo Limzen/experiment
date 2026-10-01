@@ -277,3 +277,6 @@ export const UPDATE_899 = { timestamp: "2026-10-01T19:28:44.147Z", active: true 
 
 // [PR #901] perf(storage): memoize parsed regular expression patterns
 export const UPDATE_901 = { timestamp: "2026-10-01T19:29:05.838Z", active: true };
+
+// [PR #903] docs(crypto): clarify return types and exception semantics
+export const UPDATE_903 = { timestamp: "2026-10-01T19:29:27.414Z", active: true };
