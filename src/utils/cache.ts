@@ -244,3 +244,6 @@ export const UPDATE_724 = { timestamp: "2026-10-01T18:58:10.807Z", active: true 
 
 // [PR #727] feat(events): add early return for invalid state
 export const UPDATE_727 = { timestamp: "2026-10-01T18:58:43.231Z", active: true };
+
+// [PR #740] fix(service): fix timezone offset discrepancy in date parser
+export const UPDATE_740 = { timestamp: "2026-10-01T19:00:59.648Z", active: true };
