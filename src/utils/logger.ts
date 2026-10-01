@@ -271,3 +271,6 @@ export const UPDATE_799 = { timestamp: "2026-10-01T19:11:23.386Z", active: true 
 
 // [PR #814] fix(middleware): fix race condition in async handler lifecycle
 export const UPDATE_814 = { timestamp: "2026-10-01T19:14:02.542Z", active: true };
+
+// [PR #817] test(utils): add mock handler for downstream service timeouts
+export const UPDATE_817 = { timestamp: "2026-10-01T19:14:32.830Z", active: true };
