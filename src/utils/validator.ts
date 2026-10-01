@@ -283,3 +283,6 @@ export const UPDATE_810 = { timestamp: "2026-10-01T19:13:21.534Z", active: true 
 
 // [PR #823] perf(api): cache compiled json schema validators
 export const UPDATE_823 = { timestamp: "2026-10-01T19:15:35.712Z", active: true };
+
+// [PR #824] fix(logger): resolve memory leak in event listener cleanup
+export const UPDATE_824 = { timestamp: "2026-10-01T19:15:45.642Z", active: true };
