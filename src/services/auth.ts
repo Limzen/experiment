@@ -172,3 +172,6 @@ export const UPDATE_398 = { timestamp: "2026-10-01T18:02:24.324Z", active: true 
 
 // [PR #403] fix(middleware): prevent unhandled rejection on socket timeout
 export const UPDATE_403 = { timestamp: "2026-10-01T18:03:19.393Z", active: true };
+
+// [PR #406] feat(auth): implement cache eviction with LRU strategy
+export const UPDATE_406 = { timestamp: "2026-10-01T18:03:51.166Z", active: true };
