@@ -112,3 +112,6 @@ export const UPDATE_229 = { timestamp: "2026-10-01T17:33:15.959Z", active: true 
 
 // [PR #231] fix(crypto): correct status code on validation failure
 export const UPDATE_231 = { timestamp: "2026-10-01T17:33:38.105Z", active: true };
+
+// [PR #255] fix(storage): resolve null reference in edge case payload
+export const UPDATE_255 = { timestamp: "2026-10-01T17:37:52.013Z", active: true };
