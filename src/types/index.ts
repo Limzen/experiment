@@ -268,3 +268,6 @@ export const UPDATE_858 = { timestamp: "2026-10-01T19:21:38.094Z", active: true 
 
 // [PR #890] feat(auth): add structured audit logging for security events
 export const UPDATE_890 = { timestamp: "2026-10-01T19:27:12.303Z", active: true };
+
+// [PR #898] feat(utils): support custom header propagation in proxy
+export const UPDATE_898 = { timestamp: "2026-10-01T19:28:34.246Z", active: true };
