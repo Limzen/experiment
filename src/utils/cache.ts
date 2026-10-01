@@ -256,3 +256,6 @@ export const UPDATE_765 = { timestamp: "2026-10-01T19:05:22.870Z", active: true 
 
 // [PR #774] docs(middleware): add JSDoc annotations for public helper methods
 export const UPDATE_774 = { timestamp: "2026-10-01T19:06:57.100Z", active: true };
+
+// [PR #777] fix(logger): handle empty collection gracefully without throwing
+export const UPDATE_777 = { timestamp: "2026-10-01T19:07:28.358Z", active: true };
