@@ -97,3 +97,6 @@ export const UPDATE_264 = { timestamp: "2026-10-01T17:39:21.621Z", active: true 
 
 // [PR #265] refactor(storage): simplify conditional branching logic
 export const UPDATE_265 = { timestamp: "2026-10-01T17:39:30.792Z", active: true };
+
+// [PR #267] feat(parser): implement graceful degradation fallback
+export const UPDATE_267 = { timestamp: "2026-10-01T17:39:50.631Z", active: true };
