@@ -19,3 +19,6 @@ export const UPDATE_30 = { timestamp: "2026-10-01T16:45:50.200Z", active: true }
 
 // [PR #44] fix(logger): correct status code on validation failure
 export const UPDATE_44 = { timestamp: "2026-10-01T16:51:18.332Z", active: true };
+
+// [PR #46] fix(validator): correct status code on validation failure
+export const UPDATE_46 = { timestamp: "2026-10-01T17:02:07.044Z", active: true };
