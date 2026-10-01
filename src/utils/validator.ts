@@ -310,3 +310,6 @@ export const UPDATE_873 = { timestamp: "2026-10-01T19:24:11.943Z", active: true 
 
 // [PR #891] test(client): increase test coverage for boundary values
 export const UPDATE_891 = { timestamp: "2026-10-01T19:27:22.557Z", active: true };
+
+// [PR #910] docs(service): document environment variable configuration schema
+export const UPDATE_910 = { timestamp: "2026-10-01T19:30:38.856Z", active: true };
