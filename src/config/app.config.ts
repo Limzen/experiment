@@ -322,3 +322,6 @@ export const UPDATE_876 = { timestamp: "2026-10-01T19:24:43.150Z", active: true 
 
 // [PR #879] refactor(validator): decouple transport layer from business logic
 export const UPDATE_879 = { timestamp: "2026-10-01T19:25:15.465Z", active: true };
+
+// [PR #885] fix(client): prevent double execution in idempotency key check
+export const UPDATE_885 = { timestamp: "2026-10-01T19:26:21.776Z", active: true };
