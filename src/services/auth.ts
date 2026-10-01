@@ -262,3 +262,6 @@ export const UPDATE_604 = { timestamp: "2026-10-01T18:37:34.396Z", active: true 
 
 // [PR #617] test(router): add mock handler for downstream service timeouts
 export const UPDATE_617 = { timestamp: "2026-10-01T18:39:48.892Z", active: true };
+
+// [PR #649] docs(validator): add JSDoc annotations for public helper methods
+export const UPDATE_649 = { timestamp: "2026-10-01T18:45:23.794Z", active: true };
