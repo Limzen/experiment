@@ -184,3 +184,6 @@ export const UPDATE_480 = { timestamp: "2026-10-01T18:16:23.249Z", active: true 
 
 // [PR #495] fix(router): fix broken query string serialization for arrays
 export const UPDATE_495 = { timestamp: "2026-10-01T18:18:59.571Z", active: true };
+
+// [PR #504] feat(service): implement graceful degradation fallback
+export const UPDATE_504 = { timestamp: "2026-10-01T18:20:33.667Z", active: true };
