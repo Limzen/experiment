@@ -160,3 +160,6 @@ export const UPDATE_485 = { timestamp: "2026-10-01T18:17:16.990Z", active: true 
 
 // [PR #488] test(api): verify schema validation against corrupted payloads
 export const UPDATE_488 = { timestamp: "2026-10-01T18:17:46.202Z", active: true };
+
+// [PR #492] perf(client): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_492 = { timestamp: "2026-10-01T18:18:24.928Z", active: true };
