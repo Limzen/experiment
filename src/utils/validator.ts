@@ -346,3 +346,6 @@ export const UPDATE_969 = { timestamp: "2026-10-01T19:40:56.827Z", active: true 
 
 // [PR #970] perf(service): cache compiled json schema validators
 export const UPDATE_970 = { timestamp: "2026-10-01T19:41:07.214Z", active: true };
+
+// [PR #993] refactor(parser): extract reusable helper function into utils
+export const UPDATE_993 = { timestamp: "2026-10-01T19:45:03.592Z", active: true };
