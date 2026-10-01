@@ -202,3 +202,6 @@ export const UPDATE_570 = { timestamp: "2026-10-01T18:31:51.000Z", active: true 
 
 // [PR #584] feat(utils): implement graceful degradation fallback
 export const UPDATE_584 = { timestamp: "2026-10-01T18:34:11.336Z", active: true };
+
+// [PR #587] fix(parser): resolve null reference in edge case payload
+export const UPDATE_587 = { timestamp: "2026-10-01T18:34:40.641Z", active: true };
