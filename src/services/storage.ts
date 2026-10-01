@@ -271,3 +271,6 @@ export const UPDATE_816 = { timestamp: "2026-10-01T19:14:22.285Z", active: true 
 
 // [PR #826] feat(router): add type-safe request payload validator
 export const UPDATE_826 = { timestamp: "2026-10-01T19:16:06.394Z", active: true };
+
+// [PR #828] feat(worker): support custom header propagation in proxy
+export const UPDATE_828 = { timestamp: "2026-10-01T19:16:26.549Z", active: true };
