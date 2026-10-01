@@ -325,3 +325,6 @@ export const UPDATE_1019 = { timestamp: "2026-10-01T19:49:38.378Z", active: true
 
 // [PR #1020] feat(cache): implement cache eviction with LRU strategy
 export const UPDATE_1020 = { timestamp: "2026-10-01T19:49:48.679Z", active: true };
+
+// [PR #1021] feat(auth): support custom header propagation in proxy
+export const UPDATE_1021 = { timestamp: "2026-10-01T19:49:59.061Z", active: true };
