@@ -247,3 +247,6 @@ export const UPDATE_802 = { timestamp: "2026-10-01T19:11:56.266Z", active: true 
 
 // [PR #813] feat(auth): support custom header propagation in proxy
 export const UPDATE_813 = { timestamp: "2026-10-01T19:13:52.557Z", active: true };
+
+// [PR #815] fix(cache): fix off-by-one error in pagination slice
+export const UPDATE_815 = { timestamp: "2026-10-01T19:14:12.448Z", active: true };
