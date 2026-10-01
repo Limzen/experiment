@@ -169,3 +169,6 @@ export const UPDATE_610 = { timestamp: "2026-10-01T18:38:37.007Z", active: true 
 
 // [PR #614] feat(storage): add input sanitization for user queries
 export const UPDATE_614 = { timestamp: "2026-10-01T18:39:18.779Z", active: true };
+
+// [PR #620] docs(cache): add JSDoc annotations for public helper methods
+export const UPDATE_620 = { timestamp: "2026-10-01T18:40:19.582Z", active: true };
