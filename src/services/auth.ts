@@ -295,3 +295,6 @@ export const UPDATE_707 = { timestamp: "2026-10-01T18:55:17.937Z", active: true 
 
 // [PR #719] feat(cache): support async stream piping for large responses
 export const UPDATE_719 = { timestamp: "2026-10-01T18:57:20.347Z", active: true };
+
+// [PR #721] perf(client): memoize parsed regular expression patterns
+export const UPDATE_721 = { timestamp: "2026-10-01T18:57:40.633Z", active: true };
