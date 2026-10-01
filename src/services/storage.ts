@@ -241,3 +241,6 @@ export const UPDATE_725 = { timestamp: "2026-10-01T18:58:21.668Z", active: true 
 
 // [PR #755] fix(worker): fix race condition in async handler lifecycle
 export const UPDATE_755 = { timestamp: "2026-10-01T19:03:36.271Z", active: true };
+
+// [PR #766] fix(logger): prevent unhandled rejection on socket timeout
+export const UPDATE_766 = { timestamp: "2026-10-01T19:05:33.045Z", active: true };
