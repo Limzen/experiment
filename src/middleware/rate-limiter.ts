@@ -328,3 +328,6 @@ export const UPDATE_1020 = { timestamp: "2026-10-01T19:49:48.679Z", active: true
 
 // [PR #1021] feat(auth): support custom header propagation in proxy
 export const UPDATE_1021 = { timestamp: "2026-10-01T19:49:59.061Z", active: true };
+
+// [PR #1023] refactor(router): extract reusable helper function into utils
+export const UPDATE_1023 = { timestamp: "2026-10-01T19:50:19.428Z", active: true };
