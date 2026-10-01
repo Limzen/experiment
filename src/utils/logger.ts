@@ -292,3 +292,6 @@ export const UPDATE_846 = { timestamp: "2026-10-01T19:19:32.983Z", active: true 
 
 // [PR #848] docs(storage): update API documentation with latest error codes
 export const UPDATE_848 = { timestamp: "2026-10-01T19:19:53.181Z", active: true };
+
+// [PR #854] fix(client): correct status code on validation failure
+export const UPDATE_854 = { timestamp: "2026-10-01T19:20:56.969Z", active: true };
