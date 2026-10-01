@@ -349,3 +349,6 @@ export const UPDATE_999 = { timestamp: "2026-10-01T19:46:09.517Z", active: true 
 
 // [PR #1009] perf(db): cache compiled json schema validators
 export const UPDATE_1009 = { timestamp: "2026-10-01T19:47:54.197Z", active: true };
+
+// [PR #1011] fix(core): fix race condition in async handler lifecycle
+export const UPDATE_1011 = { timestamp: "2026-10-01T19:48:15.318Z", active: true };
