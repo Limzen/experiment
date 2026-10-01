@@ -82,3 +82,6 @@ export const UPDATE_164 = { timestamp: "2026-10-01T17:22:36.129Z", active: true 
 
 // [PR #166] style(utils): enforce consistent naming conventions for constants
 export const UPDATE_166 = { timestamp: "2026-10-01T17:22:55.593Z", active: true };
+
+// [PR #174] fix(core): fix broken query string serialization for arrays
+export const UPDATE_174 = { timestamp: "2026-10-01T17:24:12.102Z", active: true };
