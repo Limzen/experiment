@@ -142,3 +142,6 @@ export const UPDATE_387 = { timestamp: "2026-10-01T18:00:27.122Z", active: true 
 
 // [PR #402] docs(parser): add JSDoc annotations for public helper methods
 export const UPDATE_402 = { timestamp: "2026-10-01T18:03:08.599Z", active: true };
+
+// [PR #414] feat(api): support async stream piping for large responses
+export const UPDATE_414 = { timestamp: "2026-10-01T18:05:16.132Z", active: true };
