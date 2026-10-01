@@ -106,3 +106,6 @@ export const UPDATE_220 = { timestamp: "2026-10-01T17:31:47.506Z", active: true 
 
 // [PR #221] feat(api): optimize query with indexed fields
 export const UPDATE_221 = { timestamp: "2026-10-01T17:31:58.258Z", active: true };
+
+// [PR #229] perf(config): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_229 = { timestamp: "2026-10-01T17:33:15.959Z", active: true };
