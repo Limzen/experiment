@@ -46,3 +46,6 @@ export const UPDATE_115 = { timestamp: "2026-10-01T17:14:30.252Z", active: true 
 
 // [PR #116] feat(service): add early return for invalid state
 export const UPDATE_116 = { timestamp: "2026-10-01T17:14:40.483Z", active: true };
+
+// [PR #122] refactor(parser): decouple transport layer from business logic
+export const UPDATE_122 = { timestamp: "2026-10-01T17:15:39.117Z", active: true };
