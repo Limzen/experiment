@@ -64,3 +64,6 @@ export const UPDATE_227 = { timestamp: "2026-10-01T17:32:57.418Z", active: true 
 
 // [PR #234] feat(validator): normalize error response schema across endpoints
 export const UPDATE_234 = { timestamp: "2026-10-01T17:34:07.584Z", active: true };
+
+// [PR #238] fix(client): correct status code on validation failure
+export const UPDATE_238 = { timestamp: "2026-10-01T17:34:45.074Z", active: true };
