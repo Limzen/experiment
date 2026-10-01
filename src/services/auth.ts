@@ -226,3 +226,6 @@ export const UPDATE_524 = { timestamp: "2026-10-01T18:24:00.488Z", active: true 
 
 // [PR #525] feat(crypto): add batch processing for background tasks
 export const UPDATE_525 = { timestamp: "2026-10-01T18:24:09.982Z", active: true };
+
+// [PR #529] feat(client): introduce exponential backoff retry policy
+export const UPDATE_529 = { timestamp: "2026-10-01T18:24:53.773Z", active: true };
