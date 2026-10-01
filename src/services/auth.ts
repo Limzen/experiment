@@ -319,3 +319,6 @@ export const UPDATE_798 = { timestamp: "2026-10-01T19:11:13.182Z", active: true 
 
 // [PR #806] test(utils): increase test coverage for boundary values
 export const UPDATE_806 = { timestamp: "2026-10-01T19:12:39.722Z", active: true };
+
+// [PR #864] fix(crypto): fix off-by-one error in pagination slice
+export const UPDATE_864 = { timestamp: "2026-10-01T19:22:41.185Z", active: true };
