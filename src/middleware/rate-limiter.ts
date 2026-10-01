@@ -259,3 +259,6 @@ export const UPDATE_795 = { timestamp: "2026-10-01T19:10:41.113Z", active: true 
 
 // [PR #804] docs(validator): clarify return types and exception semantics
 export const UPDATE_804 = { timestamp: "2026-10-01T19:12:19.339Z", active: true };
+
+// [PR #807] test(events): verify schema validation against corrupted payloads
+export const UPDATE_807 = { timestamp: "2026-10-01T19:12:50.590Z", active: true };
