@@ -298,3 +298,6 @@ export const UPDATE_934 = { timestamp: "2026-10-01T19:34:51.381Z", active: true 
 
 // [PR #941] fix(api): fix timezone offset discrepancy in date parser
 export const UPDATE_941 = { timestamp: "2026-10-01T19:36:03.792Z", active: true };
+
+// [PR #945] feat(parser): introduce exponential backoff retry policy
+export const UPDATE_945 = { timestamp: "2026-10-01T19:36:46.008Z", active: true };
