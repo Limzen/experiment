@@ -319,3 +319,6 @@ export const UPDATE_914 = { timestamp: "2026-10-01T19:31:20.696Z", active: true 
 
 // [PR #917] fix(client): fix timezone offset discrepancy in date parser
 export const UPDATE_917 = { timestamp: "2026-10-01T19:31:51.493Z", active: true };
+
+// [PR #925] docs(validator): clarify return types and exception semantics
+export const UPDATE_925 = { timestamp: "2026-10-01T19:33:17.245Z", active: true };
