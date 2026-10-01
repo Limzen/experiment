@@ -151,3 +151,6 @@ export const UPDATE_437 = { timestamp: "2026-10-01T18:09:14.967Z", active: true 
 
 // [PR #446] test(crypto): increase test coverage for boundary values
 export const UPDATE_446 = { timestamp: "2026-10-01T18:10:46.181Z", active: true };
+
+// [PR #470] fix(router): prevent unhandled rejection on socket timeout
+export const UPDATE_470 = { timestamp: "2026-10-01T18:14:44.228Z", active: true };
