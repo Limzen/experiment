@@ -313,3 +313,6 @@ export const UPDATE_812 = { timestamp: "2026-10-01T19:13:42.090Z", active: true 
 
 // [PR #832] feat(parser): optimize query with indexed fields
 export const UPDATE_832 = { timestamp: "2026-10-01T19:17:09.026Z", active: true };
+
+// [PR #835] fix(cache): prevent unhandled rejection on socket timeout
+export const UPDATE_835 = { timestamp: "2026-10-01T19:17:39.875Z", active: true };
