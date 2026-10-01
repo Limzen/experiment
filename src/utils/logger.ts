@@ -310,3 +310,6 @@ export const UPDATE_871 = { timestamp: "2026-10-01T19:23:52.427Z", active: true 
 
 // [PR #875] style(core): enforce consistent naming conventions for constants
 export const UPDATE_875 = { timestamp: "2026-10-01T19:24:33.184Z", active: true };
+
+// [PR #880] feat(cache): normalize error response schema across endpoints
+export const UPDATE_880 = { timestamp: "2026-10-01T19:25:26.129Z", active: true };
