@@ -91,3 +91,6 @@ export const UPDATE_259 = { timestamp: "2026-10-01T17:38:31.110Z", active: true 
 
 // [PR #294] fix(worker): resolve null reference in edge case payload
 export const UPDATE_294 = { timestamp: "2026-10-01T17:44:30.106Z", active: true };
+
+// [PR #295] feat(events): optimize query with indexed fields
+export const UPDATE_295 = { timestamp: "2026-10-01T17:44:39.730Z", active: true };
