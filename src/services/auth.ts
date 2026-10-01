@@ -88,3 +88,6 @@ export const UPDATE_174 = { timestamp: "2026-10-01T17:24:12.102Z", active: true 
 
 // [PR #184] test(api): add mock handler for downstream service timeouts
 export const UPDATE_184 = { timestamp: "2026-10-01T17:25:49.201Z", active: true };
+
+// [PR #185] fix(events): resolve memory leak in event listener cleanup
+export const UPDATE_185 = { timestamp: "2026-10-01T17:25:58.455Z", active: true };
