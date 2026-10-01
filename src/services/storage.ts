@@ -109,3 +109,6 @@ export const UPDATE_276 = { timestamp: "2026-10-01T17:41:25.206Z", active: true 
 
 // [PR #307] test(middleware): verify schema validation against corrupted payloads
 export const UPDATE_307 = { timestamp: "2026-10-01T17:46:42.742Z", active: true };
+
+// [PR #312] feat(router): implement cache eviction with LRU strategy
+export const UPDATE_312 = { timestamp: "2026-10-01T17:47:32.600Z", active: true };
