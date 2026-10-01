@@ -70,3 +70,6 @@ export const UPDATE_238 = { timestamp: "2026-10-01T17:34:45.074Z", active: true 
 
 // [PR #243] docs(utils): document environment variable configuration schema
 export const UPDATE_243 = { timestamp: "2026-10-01T17:35:40.329Z", active: true };
+
+// [PR #250] fix(cache): fix race condition in async handler lifecycle
+export const UPDATE_250 = { timestamp: "2026-10-01T17:36:49.993Z", active: true };
