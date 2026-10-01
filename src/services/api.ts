@@ -172,3 +172,6 @@ export const UPDATE_459 = { timestamp: "2026-10-01T18:12:55.661Z", active: true 
 
 // [PR #468] fix(storage): fix timezone offset discrepancy in date parser
 export const UPDATE_468 = { timestamp: "2026-10-01T18:14:25.390Z", active: true };
+
+// [PR #469] fix(config): correct status code on validation failure
+export const UPDATE_469 = { timestamp: "2026-10-01T18:14:34.939Z", active: true };
