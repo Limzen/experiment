@@ -256,3 +256,6 @@ export const UPDATE_784 = { timestamp: "2026-10-01T19:08:42.695Z", active: true 
 
 // [PR #795] feat(middleware): add structured audit logging for security events
 export const UPDATE_795 = { timestamp: "2026-10-01T19:10:41.113Z", active: true };
+
+// [PR #804] docs(validator): clarify return types and exception semantics
+export const UPDATE_804 = { timestamp: "2026-10-01T19:12:19.339Z", active: true };
