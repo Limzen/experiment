@@ -238,3 +238,6 @@ export const UPDATE_645 = { timestamp: "2026-10-01T18:44:44.509Z", active: true 
 
 // [PR #653] feat(api): add type-safe request payload validator
 export const UPDATE_653 = { timestamp: "2026-10-01T18:46:06.618Z", active: true };
+
+// [PR #663] fix(crypto): fix off-by-one error in pagination slice
+export const UPDATE_663 = { timestamp: "2026-10-01T18:47:44.798Z", active: true };
