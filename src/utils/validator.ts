@@ -133,3 +133,6 @@ export const UPDATE_392 = { timestamp: "2026-10-01T18:01:19.994Z", active: true 
 
 // [PR #404] refactor(validator): consolidate duplicated validation routines
 export const UPDATE_404 = { timestamp: "2026-10-01T18:03:30.070Z", active: true };
+
+// [PR #421] docs(metrics): clarify return types and exception semantics
+export const UPDATE_421 = { timestamp: "2026-10-01T18:06:33.208Z", active: true };
