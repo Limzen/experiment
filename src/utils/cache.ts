@@ -31,3 +31,6 @@ export const UPDATE_57 = { timestamp: "2026-10-01T17:04:32.667Z", active: true }
 
 // [PR #58] feat(client): support custom header propagation in proxy
 export const UPDATE_58 = { timestamp: "2026-10-01T17:04:42.186Z", active: true };
+
+// [PR #63] feat(config): support async stream piping for large responses
+export const UPDATE_63 = { timestamp: "2026-10-01T17:05:35.804Z", active: true };
