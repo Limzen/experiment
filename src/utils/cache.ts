@@ -133,3 +133,6 @@ export const UPDATE_358 = { timestamp: "2026-10-01T17:55:23.521Z", active: true 
 
 // [PR #360] test(worker): verify schema validation against corrupted payloads
 export const UPDATE_360 = { timestamp: "2026-10-01T17:55:42.790Z", active: true };
+
+// [PR #362] feat(config): support async stream piping for large responses
+export const UPDATE_362 = { timestamp: "2026-10-01T17:56:02.898Z", active: true };
