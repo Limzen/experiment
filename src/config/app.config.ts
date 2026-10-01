@@ -97,3 +97,6 @@ export const UPDATE_253 = { timestamp: "2026-10-01T17:37:32.845Z", active: true 
 
 // [PR #257] docs(db): document environment variable configuration schema
 export const UPDATE_257 = { timestamp: "2026-10-01T17:38:11.119Z", active: true };
+
+// [PR #260] fix(config): fix timezone offset discrepancy in date parser
+export const UPDATE_260 = { timestamp: "2026-10-01T17:38:40.647Z", active: true };
