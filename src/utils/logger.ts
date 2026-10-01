@@ -166,3 +166,6 @@ export const UPDATE_492 = { timestamp: "2026-10-01T18:18:24.928Z", active: true 
 
 // [PR #496] feat(router): add batch processing for background tasks
 export const UPDATE_496 = { timestamp: "2026-10-01T18:19:13.808Z", active: true };
+
+// [PR #500] fix(cache): fix timezone offset discrepancy in date parser
+export const UPDATE_500 = { timestamp: "2026-10-01T18:19:53.858Z", active: true };
