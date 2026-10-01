@@ -328,3 +328,6 @@ export const UPDATE_885 = { timestamp: "2026-10-01T19:26:21.776Z", active: true 
 
 // [PR #889] feat(worker): add structured audit logging for security events
 export const UPDATE_889 = { timestamp: "2026-10-01T19:27:01.170Z", active: true };
+
+// [PR #905] docs(worker): clarify return types and exception semantics
+export const UPDATE_905 = { timestamp: "2026-10-01T19:29:47.558Z", active: true };
