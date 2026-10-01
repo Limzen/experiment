@@ -82,3 +82,6 @@ export const UPDATE_181 = { timestamp: "2026-10-01T17:25:20.955Z", active: true 
 
 // [PR #190] feat(logger): add early return for invalid state
 export const UPDATE_190 = { timestamp: "2026-10-01T17:26:49.158Z", active: true };
+
+// [PR #216] docs(metrics): clarify return types and exception semantics
+export const UPDATE_216 = { timestamp: "2026-10-01T17:31:06.092Z", active: true };
