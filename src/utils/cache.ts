@@ -55,3 +55,6 @@ export const UPDATE_104 = { timestamp: "2026-10-01T17:12:34.705Z", active: true 
 
 // [PR #105] feat(db): support async stream piping for large responses
 export const UPDATE_105 = { timestamp: "2026-10-01T17:12:52.118Z", active: true };
+
+// [PR #121] style(storage): enforce consistent naming conventions for constants
+export const UPDATE_121 = { timestamp: "2026-10-01T17:15:29.578Z", active: true };
