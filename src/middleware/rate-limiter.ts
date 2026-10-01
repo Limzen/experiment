@@ -109,3 +109,6 @@ export const UPDATE_361 = { timestamp: "2026-10-01T17:55:52.967Z", active: true 
 
 // [PR #363] feat(worker): add input sanitization for user queries
 export const UPDATE_363 = { timestamp: "2026-10-01T17:56:14.500Z", active: true };
+
+// [PR #365] fix(db): handle empty collection gracefully without throwing
+export const UPDATE_365 = { timestamp: "2026-10-01T17:56:34.606Z", active: true };
