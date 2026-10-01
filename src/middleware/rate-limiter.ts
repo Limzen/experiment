@@ -112,3 +112,6 @@ export const UPDATE_363 = { timestamp: "2026-10-01T17:56:14.500Z", active: true 
 
 // [PR #365] fix(db): handle empty collection gracefully without throwing
 export const UPDATE_365 = { timestamp: "2026-10-01T17:56:34.606Z", active: true };
+
+// [PR #378] perf(storage): memoize parsed regular expression patterns
+export const UPDATE_378 = { timestamp: "2026-10-01T17:58:50.729Z", active: true };
