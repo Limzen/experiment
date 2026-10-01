@@ -202,3 +202,6 @@ export const UPDATE_507 = { timestamp: "2026-10-01T18:21:05.690Z", active: true 
 
 // [PR #558] fix(storage): handle empty collection gracefully without throwing
 export const UPDATE_558 = { timestamp: "2026-10-01T18:29:52.862Z", active: true };
+
+// [PR #572] refactor(client): extract reusable helper function into utils
+export const UPDATE_572 = { timestamp: "2026-10-01T18:32:11.449Z", active: true };
