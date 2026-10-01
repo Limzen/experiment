@@ -73,3 +73,6 @@ export const UPDATE_131 = { timestamp: "2026-10-01T17:17:08.476Z", active: true 
 
 // [PR #156] refactor(validator): extract reusable helper function into utils
 export const UPDATE_156 = { timestamp: "2026-10-01T17:21:19.378Z", active: true };
+
+// [PR #157] test(middleware): add mock handler for downstream service timeouts
+export const UPDATE_157 = { timestamp: "2026-10-01T17:21:28.680Z", active: true };
