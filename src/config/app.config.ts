@@ -370,3 +370,6 @@ export const UPDATE_987 = { timestamp: "2026-10-01T19:44:02.109Z", active: true 
 
 // [PR #1004] perf(router): optimize string concatenation in high-frequency loop
 export const UPDATE_1004 = { timestamp: "2026-10-01T19:47:01.882Z", active: true };
+
+// [PR #1006] docs(service): document environment variable configuration schema
+export const UPDATE_1006 = { timestamp: "2026-10-01T19:47:22.634Z", active: true };
