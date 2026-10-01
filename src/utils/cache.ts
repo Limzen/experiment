@@ -259,3 +259,6 @@ export const UPDATE_774 = { timestamp: "2026-10-01T19:06:57.100Z", active: true 
 
 // [PR #777] fix(logger): handle empty collection gracefully without throwing
 export const UPDATE_777 = { timestamp: "2026-10-01T19:07:28.358Z", active: true };
+
+// [PR #778] fix(auth): fix race condition in async handler lifecycle
+export const UPDATE_778 = { timestamp: "2026-10-01T19:07:39.227Z", active: true };
