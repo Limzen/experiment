@@ -229,3 +229,6 @@ export const UPDATE_763 = { timestamp: "2026-10-01T19:05:01.071Z", active: true 
 
 // [PR #767] docs(db): add JSDoc annotations for public helper methods
 export const UPDATE_767 = { timestamp: "2026-10-01T19:05:44.780Z", active: true };
+
+// [PR #770] perf(client): memoize parsed regular expression patterns
+export const UPDATE_770 = { timestamp: "2026-10-01T19:06:16.436Z", active: true };
