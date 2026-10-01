@@ -346,3 +346,6 @@ export const UPDATE_902 = { timestamp: "2026-10-01T19:29:17.395Z", active: true 
 
 // [PR #952] feat(db): normalize error response schema across endpoints
 export const UPDATE_952 = { timestamp: "2026-10-01T19:37:59.335Z", active: true };
+
+// [PR #973] refactor(router): convert callback flow to async/await syntax
+export const UPDATE_973 = { timestamp: "2026-10-01T19:41:37.656Z", active: true };
