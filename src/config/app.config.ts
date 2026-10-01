@@ -88,3 +88,6 @@ export const UPDATE_217 = { timestamp: "2026-10-01T17:31:15.723Z", active: true 
 
 // [PR #219] feat(core): add type-safe request payload validator
 export const UPDATE_219 = { timestamp: "2026-10-01T17:31:36.923Z", active: true };
+
+// [PR #242] test(parser): verify schema validation against corrupted payloads
+export const UPDATE_242 = { timestamp: "2026-10-01T17:35:30.657Z", active: true };
