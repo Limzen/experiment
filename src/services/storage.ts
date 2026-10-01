@@ -79,3 +79,6 @@ export const UPDATE_225 = { timestamp: "2026-10-01T17:32:36.961Z", active: true 
 
 // [PR #230] refactor(crypto): extract reusable helper function into utils
 export const UPDATE_230 = { timestamp: "2026-10-01T17:33:27.346Z", active: true };
+
+// [PR #245] feat(storage): optimize query with indexed fields
+export const UPDATE_245 = { timestamp: "2026-10-01T17:36:01.030Z", active: true };
