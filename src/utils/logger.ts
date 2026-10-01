@@ -178,3 +178,6 @@ export const UPDATE_509 = { timestamp: "2026-10-01T18:21:27.942Z", active: true 
 
 // [PR #510] refactor(metrics): convert callback flow to async/await syntax
 export const UPDATE_510 = { timestamp: "2026-10-01T18:21:38.109Z", active: true };
+
+// [PR #512] docs(logger): clarify return types and exception semantics
+export const UPDATE_512 = { timestamp: "2026-10-01T18:21:57.776Z", active: true };
