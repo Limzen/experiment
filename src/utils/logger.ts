@@ -223,3 +223,6 @@ export const UPDATE_643 = { timestamp: "2026-10-01T18:44:24.316Z", active: true 
 
 // [PR #652] test(client): increase test coverage for boundary values
 export const UPDATE_652 = { timestamp: "2026-10-01T18:45:56.363Z", active: true };
+
+// [PR #667] fix(service): fix off-by-one error in pagination slice
+export const UPDATE_667 = { timestamp: "2026-10-01T18:48:28.915Z", active: true };
