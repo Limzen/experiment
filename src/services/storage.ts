@@ -133,3 +133,6 @@ export const UPDATE_338 = { timestamp: "2026-10-01T17:51:58.952Z", active: true 
 
 // [PR #339] feat(validator): add early return for invalid state
 export const UPDATE_339 = { timestamp: "2026-10-01T17:52:09.028Z", active: true };
+
+// [PR #340] docs(middleware): document environment variable configuration schema
+export const UPDATE_340 = { timestamp: "2026-10-01T17:52:18.876Z", active: true };
