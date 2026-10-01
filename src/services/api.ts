@@ -283,3 +283,6 @@ export const UPDATE_827 = { timestamp: "2026-10-01T19:16:16.227Z", active: true 
 
 // [PR #829] refactor(validator): decouple transport layer from business logic
 export const UPDATE_829 = { timestamp: "2026-10-01T19:16:37.127Z", active: true };
+
+// [PR #837] feat(parser): add input sanitization for user queries
+export const UPDATE_837 = { timestamp: "2026-10-01T19:18:00.503Z", active: true };
