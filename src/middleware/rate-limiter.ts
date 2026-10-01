@@ -103,3 +103,6 @@ export const UPDATE_349 = { timestamp: "2026-10-01T17:53:50.829Z", active: true 
 
 // [PR #359] feat(events): implement graceful degradation fallback
 export const UPDATE_359 = { timestamp: "2026-10-01T17:55:32.878Z", active: true };
+
+// [PR #361] fix(utils): fix timezone offset discrepancy in date parser
+export const UPDATE_361 = { timestamp: "2026-10-01T17:55:52.967Z", active: true };
