@@ -37,3 +37,6 @@ export const UPDATE_66 = { timestamp: "2026-10-01T17:06:05.302Z", active: true }
 
 // [PR #81] perf(router): memoize parsed regular expression patterns
 export const UPDATE_81 = { timestamp: "2026-10-01T17:08:35.032Z", active: true };
+
+// [PR #93] docs(validator): clarify return types and exception semantics
+export const UPDATE_93 = { timestamp: "2026-10-01T17:10:48.453Z", active: true };
