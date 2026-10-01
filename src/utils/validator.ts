@@ -67,3 +67,6 @@ export const UPDATE_119 = { timestamp: "2026-10-01T17:15:10.022Z", active: true 
 
 // [PR #130] perf(middleware): cache compiled json schema validators
 export const UPDATE_130 = { timestamp: "2026-10-01T17:16:58.469Z", active: true };
+
+// [PR #131] docs(service): add JSDoc annotations for public helper methods
+export const UPDATE_131 = { timestamp: "2026-10-01T17:17:08.476Z", active: true };
