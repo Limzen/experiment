@@ -322,3 +322,6 @@ export const UPDATE_917 = { timestamp: "2026-10-01T19:31:51.493Z", active: true 
 
 // [PR #925] docs(validator): clarify return types and exception semantics
 export const UPDATE_925 = { timestamp: "2026-10-01T19:33:17.245Z", active: true };
+
+// [PR #930] feat(parser): add structured audit logging for security events
+export const UPDATE_930 = { timestamp: "2026-10-01T19:34:10.347Z", active: true };
