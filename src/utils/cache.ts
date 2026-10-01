@@ -88,3 +88,6 @@ export const UPDATE_216 = { timestamp: "2026-10-01T17:31:06.092Z", active: true 
 
 // [PR #236] fix(db): fix race condition in async handler lifecycle
 export const UPDATE_236 = { timestamp: "2026-10-01T17:34:26.117Z", active: true };
+
+// [PR #240] feat(events): normalize error response schema across endpoints
+export const UPDATE_240 = { timestamp: "2026-10-01T17:35:07.024Z", active: true };
