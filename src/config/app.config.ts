@@ -79,3 +79,6 @@ export const UPDATE_204 = { timestamp: "2026-10-01T17:29:07.451Z", active: true 
 
 // [PR #207] refactor(core): convert callback flow to async/await syntax
 export const UPDATE_207 = { timestamp: "2026-10-01T17:29:36.840Z", active: true };
+
+// [PR #213] test(middleware): increase test coverage for boundary values
+export const UPDATE_213 = { timestamp: "2026-10-01T17:30:36.743Z", active: true };
