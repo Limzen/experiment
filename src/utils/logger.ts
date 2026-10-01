@@ -103,3 +103,6 @@ export const UPDATE_285 = { timestamp: "2026-10-01T17:42:57.772Z", active: true 
 
 // [PR #290] style(router): standardize log message formatting across services
 export const UPDATE_290 = { timestamp: "2026-10-01T17:43:48.610Z", active: true };
+
+// [PR #296] fix(parser): resolve null reference in edge case payload
+export const UPDATE_296 = { timestamp: "2026-10-01T17:44:49.856Z", active: true };
