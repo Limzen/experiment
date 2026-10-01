@@ -52,3 +52,6 @@ export const UPDATE_88 = { timestamp: "2026-10-01T17:09:58.749Z", active: true }
 
 // [PR #92] perf(router): cache compiled json schema validators
 export const UPDATE_92 = { timestamp: "2026-10-01T17:10:37.711Z", active: true };
+
+// [PR #94] fix(api): resolve null reference in edge case payload
+export const UPDATE_94 = { timestamp: "2026-10-01T17:10:58.202Z", active: true };
