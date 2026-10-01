@@ -271,3 +271,6 @@ export const UPDATE_821 = { timestamp: "2026-10-01T19:15:14.242Z", active: true 
 
 // [PR #872] style(logger): standardize log message formatting across services
 export const UPDATE_872 = { timestamp: "2026-10-01T19:24:02.227Z", active: true };
+
+// [PR #874] feat(parser): support async stream piping for large responses
+export const UPDATE_874 = { timestamp: "2026-10-01T19:24:22.350Z", active: true };
