@@ -190,3 +190,6 @@ export const UPDATE_519 = { timestamp: "2026-10-01T18:23:09.496Z", active: true 
 
 // [PR #532] feat(auth): implement cache eviction with LRU strategy
 export const UPDATE_532 = { timestamp: "2026-10-01T18:25:22.604Z", active: true };
+
+// [PR #533] feat(service): normalize error response schema across endpoints
+export const UPDATE_533 = { timestamp: "2026-10-01T18:25:33.066Z", active: true };
