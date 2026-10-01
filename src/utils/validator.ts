@@ -286,3 +286,6 @@ export const UPDATE_823 = { timestamp: "2026-10-01T19:15:35.712Z", active: true 
 
 // [PR #824] fix(logger): resolve memory leak in event listener cleanup
 export const UPDATE_824 = { timestamp: "2026-10-01T19:15:45.642Z", active: true };
+
+// [PR #825] fix(utils): resolve memory leak in event listener cleanup
+export const UPDATE_825 = { timestamp: "2026-10-01T19:15:56.227Z", active: true };
