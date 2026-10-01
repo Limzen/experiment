@@ -241,3 +241,6 @@ export const UPDATE_720 = { timestamp: "2026-10-01T18:57:30.113Z", active: true 
 
 // [PR #724] feat(validator): normalize error response schema across endpoints
 export const UPDATE_724 = { timestamp: "2026-10-01T18:58:10.807Z", active: true };
+
+// [PR #727] feat(events): add early return for invalid state
+export const UPDATE_727 = { timestamp: "2026-10-01T18:58:43.231Z", active: true };
