@@ -85,3 +85,6 @@ export const UPDATE_272 = { timestamp: "2026-10-01T17:40:40.710Z", active: true 
 
 // [PR #279] feat(validator): add structured audit logging for security events
 export const UPDATE_279 = { timestamp: "2026-10-01T17:41:55.394Z", active: true };
+
+// [PR #304] refactor(events): decouple transport layer from business logic
+export const UPDATE_304 = { timestamp: "2026-10-01T17:46:10.662Z", active: true };
