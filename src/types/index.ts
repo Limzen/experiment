@@ -304,3 +304,6 @@ export const UPDATE_945 = { timestamp: "2026-10-01T19:36:46.008Z", active: true 
 
 // [PR #946] refactor(router): extract reusable helper function into utils
 export const UPDATE_946 = { timestamp: "2026-10-01T19:36:56.081Z", active: true };
+
+// [PR #950] fix(middleware): correct status code on validation failure
+export const UPDATE_950 = { timestamp: "2026-10-01T19:37:39.018Z", active: true };
