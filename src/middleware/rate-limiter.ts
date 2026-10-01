@@ -193,3 +193,6 @@ export const UPDATE_637 = { timestamp: "2026-10-01T18:43:21.874Z", active: true 
 
 // [PR #640] test(middleware): increase test coverage for boundary values
 export const UPDATE_640 = { timestamp: "2026-10-01T18:43:53.659Z", active: true };
+
+// [PR #642] fix(db): correct status code on validation failure
+export const UPDATE_642 = { timestamp: "2026-10-01T18:44:14.784Z", active: true };
