@@ -127,3 +127,6 @@ export const UPDATE_389 = { timestamp: "2026-10-01T18:00:48.660Z", active: true 
 
 // [PR #399] feat(core): add early return for invalid state
 export const UPDATE_399 = { timestamp: "2026-10-01T18:02:36.565Z", active: true };
+
+// [PR #412] test(api): increase test coverage for boundary values
+export const UPDATE_412 = { timestamp: "2026-10-01T18:04:54.247Z", active: true };
