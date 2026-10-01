@@ -322,3 +322,6 @@ export const UPDATE_916 = { timestamp: "2026-10-01T19:31:41.394Z", active: true 
 
 // [PR #933] feat(logger): add early return for invalid state
 export const UPDATE_933 = { timestamp: "2026-10-01T19:34:41.660Z", active: true };
+
+// [PR #951] fix(parser): correct status code on validation failure
+export const UPDATE_951 = { timestamp: "2026-10-01T19:37:48.901Z", active: true };
