@@ -169,3 +169,6 @@ export const UPDATE_502 = { timestamp: "2026-10-01T18:20:13.717Z", active: true 
 
 // [PR #506] style(validator): enforce consistent naming conventions for constants
 export const UPDATE_506 = { timestamp: "2026-10-01T18:20:53.812Z", active: true };
+
+// [PR #521] fix(worker): prevent double execution in idempotency key check
+export const UPDATE_521 = { timestamp: "2026-10-01T18:23:30.043Z", active: true };
