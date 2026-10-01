@@ -88,3 +88,6 @@ export const UPDATE_178 = { timestamp: "2026-10-01T17:24:53.271Z", active: true 
 
 // [PR #180] feat(crypto): support custom header propagation in proxy
 export const UPDATE_180 = { timestamp: "2026-10-01T17:25:11.998Z", active: true };
+
+// [PR #189] docs(middleware): document environment variable configuration schema
+export const UPDATE_189 = { timestamp: "2026-10-01T17:26:37.586Z", active: true };
