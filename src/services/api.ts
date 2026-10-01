@@ -163,3 +163,6 @@ export const UPDATE_426 = { timestamp: "2026-10-01T18:07:23.529Z", active: true 
 
 // [PR #432] feat(worker): introduce exponential backoff retry policy
 export const UPDATE_432 = { timestamp: "2026-10-01T18:08:25.307Z", active: true };
+
+// [PR #451] fix(client): correct status code on validation failure
+export const UPDATE_451 = { timestamp: "2026-10-01T18:11:36.449Z", active: true };
