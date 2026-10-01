@@ -286,3 +286,6 @@ export const UPDATE_855 = { timestamp: "2026-10-01T19:21:07.391Z", active: true 
 
 // [PR #860] refactor(middleware): simplify conditional branching logic
 export const UPDATE_860 = { timestamp: "2026-10-01T19:21:58.084Z", active: true };
+
+// [PR #866] test(api): increase test coverage for boundary values
+export const UPDATE_866 = { timestamp: "2026-10-01T19:23:01.592Z", active: true };
