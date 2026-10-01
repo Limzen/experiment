@@ -181,3 +181,6 @@ export const UPDATE_531 = { timestamp: "2026-10-01T18:25:13.096Z", active: true 
 
 // [PR #537] fix(core): prevent unhandled rejection on socket timeout
 export const UPDATE_537 = { timestamp: "2026-10-01T18:26:16.489Z", active: true };
+
+// [PR #539] feat(router): normalize error response schema across endpoints
+export const UPDATE_539 = { timestamp: "2026-10-01T18:26:36.217Z", active: true };
