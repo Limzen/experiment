@@ -193,3 +193,6 @@ export const UPDATE_450 = { timestamp: "2026-10-01T18:11:26.093Z", active: true 
 
 // [PR #463] fix(client): handle empty collection gracefully without throwing
 export const UPDATE_463 = { timestamp: "2026-10-01T18:13:36.085Z", active: true };
+
+// [PR #466] fix(worker): fix broken query string serialization for arrays
+export const UPDATE_466 = { timestamp: "2026-10-01T18:14:05.518Z", active: true };
