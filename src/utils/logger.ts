@@ -295,3 +295,6 @@ export const UPDATE_848 = { timestamp: "2026-10-01T19:19:53.181Z", active: true 
 
 // [PR #854] fix(client): correct status code on validation failure
 export const UPDATE_854 = { timestamp: "2026-10-01T19:20:56.969Z", active: true };
+
+// [PR #857] test(auth): verify schema validation against corrupted payloads
+export const UPDATE_857 = { timestamp: "2026-10-01T19:21:28.123Z", active: true };
