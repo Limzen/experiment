@@ -316,3 +316,6 @@ export const UPDATE_910 = { timestamp: "2026-10-01T19:30:38.856Z", active: true 
 
 // [PR #914] refactor(validator): extract reusable helper function into utils
 export const UPDATE_914 = { timestamp: "2026-10-01T19:31:20.696Z", active: true };
+
+// [PR #917] fix(client): fix timezone offset discrepancy in date parser
+export const UPDATE_917 = { timestamp: "2026-10-01T19:31:51.493Z", active: true };
