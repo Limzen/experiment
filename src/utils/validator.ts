@@ -25,3 +25,6 @@ export const UPDATE_55 = { timestamp: "2026-10-01T17:04:13.337Z", active: true }
 
 // [PR #59] fix(router): resolve memory leak in event listener cleanup
 export const UPDATE_59 = { timestamp: "2026-10-01T17:04:54.961Z", active: true };
+
+// [PR #62] docs(cache): clarify return types and exception semantics
+export const UPDATE_62 = { timestamp: "2026-10-01T17:05:26.455Z", active: true };
