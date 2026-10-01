@@ -85,3 +85,6 @@ export const UPDATE_246 = { timestamp: "2026-10-01T17:36:10.739Z", active: true 
 
 // [PR #256] refactor(validator): decouple transport layer from business logic
 export const UPDATE_256 = { timestamp: "2026-10-01T17:38:01.388Z", active: true };
+
+// [PR #259] feat(metrics): normalize error response schema across endpoints
+export const UPDATE_259 = { timestamp: "2026-10-01T17:38:31.110Z", active: true };
