@@ -127,3 +127,6 @@ export const UPDATE_327 = { timestamp: "2026-10-01T17:50:06.641Z", active: true 
 
 // [PR #332] fix(auth): fix broken query string serialization for arrays
 export const UPDATE_332 = { timestamp: "2026-10-01T17:50:56.193Z", active: true };
+
+// [PR #338] docs(client): update API documentation with latest error codes
+export const UPDATE_338 = { timestamp: "2026-10-01T17:51:58.952Z", active: true };
