@@ -55,3 +55,6 @@ export const UPDATE_92 = { timestamp: "2026-10-01T17:10:37.711Z", active: true }
 
 // [PR #94] fix(api): resolve null reference in edge case payload
 export const UPDATE_94 = { timestamp: "2026-10-01T17:10:58.202Z", active: true };
+
+// [PR #109] test(middleware): verify schema validation against corrupted payloads
+export const UPDATE_109 = { timestamp: "2026-10-01T17:13:30.736Z", active: true };
