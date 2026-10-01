@@ -334,3 +334,6 @@ export const UPDATE_962 = { timestamp: "2026-10-01T19:39:45.504Z", active: true 
 
 // [PR #965] feat(parser): support custom header propagation in proxy
 export const UPDATE_965 = { timestamp: "2026-10-01T19:40:16.343Z", active: true };
+
+// [PR #984] docs(client): document environment variable configuration schema
+export const UPDATE_984 = { timestamp: "2026-10-01T19:43:30.299Z", active: true };
