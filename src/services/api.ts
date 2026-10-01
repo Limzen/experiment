@@ -229,3 +229,6 @@ export const UPDATE_597 = { timestamp: "2026-10-01T18:36:22.895Z", active: true 
 
 // [PR #600] refactor(cache): extract reusable helper function into utils
 export const UPDATE_600 = { timestamp: "2026-10-01T18:36:53.105Z", active: true };
+
+// [PR #611] feat(client): support async stream piping for large responses
+export const UPDATE_611 = { timestamp: "2026-10-01T18:38:46.745Z", active: true };
