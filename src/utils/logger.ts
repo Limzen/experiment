@@ -307,3 +307,6 @@ export const UPDATE_868 = { timestamp: "2026-10-01T19:23:21.526Z", active: true 
 
 // [PR #871] test(auth): add unit tests for edge case inputs
 export const UPDATE_871 = { timestamp: "2026-10-01T19:23:52.427Z", active: true };
+
+// [PR #875] style(core): enforce consistent naming conventions for constants
+export const UPDATE_875 = { timestamp: "2026-10-01T19:24:33.184Z", active: true };
