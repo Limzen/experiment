@@ -355,3 +355,6 @@ export const UPDATE_996 = { timestamp: "2026-10-01T19:45:35.539Z", active: true 
 
 // [PR #1008] docs(crypto): clarify return types and exception semantics
 export const UPDATE_1008 = { timestamp: "2026-10-01T19:47:43.846Z", active: true };
+
+// [PR #1017] feat(auth): implement graceful degradation fallback
+export const UPDATE_1017 = { timestamp: "2026-10-01T19:49:18.362Z", active: true };
