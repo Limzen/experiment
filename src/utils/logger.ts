@@ -13,3 +13,6 @@ export const UPDATE_28 = { timestamp: "2026-10-01T16:45:29.555Z", active: true }
 
 // [PR #41] fix(api): resolve memory leak in event listener cleanup
 export const UPDATE_41 = { timestamp: "2026-10-01T16:47:43.918Z", active: true };
+
+// [PR #44] refactor(events): convert callback flow to async/await syntax
+export const UPDATE_44 = { timestamp: "2026-10-01T16:51:35.224Z", active: true };
