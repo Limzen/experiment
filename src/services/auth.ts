@@ -235,3 +235,6 @@ export const UPDATE_534 = { timestamp: "2026-10-01T18:25:43.485Z", active: true 
 
 // [PR #535] perf(events): reduce redundant database roundtrips on bulk fetch
 export const UPDATE_535 = { timestamp: "2026-10-01T18:25:53.213Z", active: true };
+
+// [PR #541] test(worker): increase test coverage for boundary values
+export const UPDATE_541 = { timestamp: "2026-10-01T18:26:56.224Z", active: true };
