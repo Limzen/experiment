@@ -277,3 +277,6 @@ export const UPDATE_828 = { timestamp: "2026-10-01T19:16:26.549Z", active: true 
 
 // [PR #836] refactor(parser): decouple transport layer from business logic
 export const UPDATE_836 = { timestamp: "2026-10-01T19:17:50.400Z", active: true };
+
+// [PR #839] fix(api): fix broken query string serialization for arrays
+export const UPDATE_839 = { timestamp: "2026-10-01T19:18:20.318Z", active: true };
