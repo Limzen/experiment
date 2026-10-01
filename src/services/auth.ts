@@ -25,3 +25,6 @@ export const UPDATE_19 = { timestamp: "2026-10-01T16:43:59.499Z", active: true }
 
 // [PR #20] fix(service): prevent double execution in idempotency key check
 export const UPDATE_20 = { timestamp: "2026-10-01T16:44:09.150Z", active: true };
+
+// [PR #32] fix(events): prevent unhandled rejection on socket timeout
+export const UPDATE_32 = { timestamp: "2026-10-01T16:46:12.153Z", active: true };
