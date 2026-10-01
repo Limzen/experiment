@@ -250,3 +250,6 @@ export const UPDATE_813 = { timestamp: "2026-10-01T19:13:52.557Z", active: true 
 
 // [PR #815] fix(cache): fix off-by-one error in pagination slice
 export const UPDATE_815 = { timestamp: "2026-10-01T19:14:12.448Z", active: true };
+
+// [PR #841] fix(events): correct status code on validation failure
+export const UPDATE_841 = { timestamp: "2026-10-01T19:18:40.064Z", active: true };
