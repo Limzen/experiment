@@ -274,3 +274,6 @@ export const UPDATE_814 = { timestamp: "2026-10-01T19:14:02.542Z", active: true 
 
 // [PR #817] test(utils): add mock handler for downstream service timeouts
 export const UPDATE_817 = { timestamp: "2026-10-01T19:14:32.830Z", active: true };
+
+// [PR #822] fix(config): fix timezone offset discrepancy in date parser
+export const UPDATE_822 = { timestamp: "2026-10-01T19:15:25.432Z", active: true };
