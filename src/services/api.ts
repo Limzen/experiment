@@ -253,3 +253,6 @@ export const UPDATE_670 = { timestamp: "2026-10-01T18:48:57.301Z", active: true 
 
 // [PR #673] feat(parser): introduce exponential backoff retry policy
 export const UPDATE_673 = { timestamp: "2026-10-01T18:49:28.784Z", active: true };
+
+// [PR #684] fix(worker): prevent double execution in idempotency key check
+export const UPDATE_684 = { timestamp: "2026-10-01T18:51:21.188Z", active: true };
