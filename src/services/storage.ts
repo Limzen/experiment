@@ -202,3 +202,6 @@ export const UPDATE_582 = { timestamp: "2026-10-01T18:33:51.543Z", active: true 
 
 // [PR #585] docs(service): clarify return types and exception semantics
 export const UPDATE_585 = { timestamp: "2026-10-01T18:34:21.436Z", active: true };
+
+// [PR #594] feat(validator): implement cache eviction with LRU strategy
+export const UPDATE_594 = { timestamp: "2026-10-01T18:35:51.448Z", active: true };
