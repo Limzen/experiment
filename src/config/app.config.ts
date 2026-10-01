@@ -274,3 +274,6 @@ export const UPDATE_728 = { timestamp: "2026-10-01T18:58:54.119Z", active: true 
 
 // [PR #729] feat(config): add structured audit logging for security events
 export const UPDATE_729 = { timestamp: "2026-10-01T18:59:03.698Z", active: true };
+
+// [PR #732] docs(utils): add JSDoc annotations for public helper methods
+export const UPDATE_732 = { timestamp: "2026-10-01T18:59:34.697Z", active: true };
