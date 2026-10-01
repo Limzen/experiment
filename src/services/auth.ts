@@ -208,3 +208,6 @@ export const UPDATE_483 = { timestamp: "2026-10-01T18:16:56.312Z", active: true 
 
 // [PR #484] fix(core): fix broken query string serialization for arrays
 export const UPDATE_484 = { timestamp: "2026-10-01T18:17:07.117Z", active: true };
+
+// [PR #486] docs(client): add JSDoc annotations for public helper methods
+export const UPDATE_486 = { timestamp: "2026-10-01T18:17:26.815Z", active: true };
