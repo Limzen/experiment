@@ -187,3 +187,6 @@ export const UPDATE_442 = { timestamp: "2026-10-01T18:10:05.733Z", active: true 
 
 // [PR #444] docs(worker): clarify return types and exception semantics
 export const UPDATE_444 = { timestamp: "2026-10-01T18:10:26.985Z", active: true };
+
+// [PR #450] fix(storage): prevent unhandled rejection on socket timeout
+export const UPDATE_450 = { timestamp: "2026-10-01T18:11:26.093Z", active: true };
