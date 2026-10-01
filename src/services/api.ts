@@ -217,3 +217,6 @@ export const UPDATE_575 = { timestamp: "2026-10-01T18:32:41.723Z", active: true 
 
 // [PR #576] feat(crypto): introduce exponential backoff retry policy
 export const UPDATE_576 = { timestamp: "2026-10-01T18:32:51.353Z", active: true };
+
+// [PR #595] perf(api): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_595 = { timestamp: "2026-10-01T18:36:02.283Z", active: true };
