@@ -217,3 +217,6 @@ export const UPDATE_703 = { timestamp: "2026-10-01T18:54:36.328Z", active: true 
 
 // [PR #715] fix(crypto): fix timezone offset discrepancy in date parser
 export const UPDATE_715 = { timestamp: "2026-10-01T18:56:40.013Z", active: true };
+
+// [PR #736] feat(auth): normalize error response schema across endpoints
+export const UPDATE_736 = { timestamp: "2026-10-01T19:00:18.881Z", active: true };
