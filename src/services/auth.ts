@@ -148,3 +148,6 @@ export const UPDATE_344 = { timestamp: "2026-10-01T17:52:59.850Z", active: true 
 
 // [PR #348] feat(storage): add input sanitization for user queries
 export const UPDATE_348 = { timestamp: "2026-10-01T17:53:40.183Z", active: true };
+
+// [PR #353] fix(router): prevent unhandled rejection on socket timeout
+export const UPDATE_353 = { timestamp: "2026-10-01T17:54:30.744Z", active: true };
