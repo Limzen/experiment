@@ -37,3 +37,6 @@ export const UPDATE_68 = { timestamp: "2026-10-01T17:06:23.907Z", active: true }
 
 // [PR #91] feat(middleware): introduce exponential backoff retry policy
 export const UPDATE_91 = { timestamp: "2026-10-01T17:10:27.509Z", active: true };
+
+// [PR #98] feat(router): introduce exponential backoff retry policy
+export const UPDATE_98 = { timestamp: "2026-10-01T17:11:35.886Z", active: true };
