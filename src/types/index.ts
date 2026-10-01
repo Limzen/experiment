@@ -310,3 +310,6 @@ export const UPDATE_950 = { timestamp: "2026-10-01T19:37:39.018Z", active: true 
 
 // [PR #1000] fix(logger): correct status code on validation failure
 export const UPDATE_1000 = { timestamp: "2026-10-01T19:46:20.152Z", active: true };
+
+// [PR #1003] fix(core): prevent double execution in idempotency key check
+export const UPDATE_1003 = { timestamp: "2026-10-01T19:46:51.684Z", active: true };
