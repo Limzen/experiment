@@ -64,3 +64,6 @@ export const UPDATE_114 = { timestamp: "2026-10-01T17:14:20.413Z", active: true 
 
 // [PR #119] feat(client): add input sanitization for user queries
 export const UPDATE_119 = { timestamp: "2026-10-01T17:15:10.022Z", active: true };
+
+// [PR #130] perf(middleware): cache compiled json schema validators
+export const UPDATE_130 = { timestamp: "2026-10-01T17:16:58.469Z", active: true };
