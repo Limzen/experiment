@@ -292,3 +292,6 @@ export const UPDATE_856 = { timestamp: "2026-10-01T19:21:17.888Z", active: true 
 
 // [PR #859] feat(storage): support custom header propagation in proxy
 export const UPDATE_859 = { timestamp: "2026-10-01T19:21:47.839Z", active: true };
+
+// [PR #878] fix(client): resolve null reference in edge case payload
+export const UPDATE_878 = { timestamp: "2026-10-01T19:25:04.253Z", active: true };
