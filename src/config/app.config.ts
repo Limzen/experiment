@@ -283,3 +283,6 @@ export const UPDATE_737 = { timestamp: "2026-10-01T19:00:28.974Z", active: true 
 
 // [PR #750] perf(utils): reduce redundant database roundtrips on bulk fetch
 export const UPDATE_750 = { timestamp: "2026-10-01T19:02:42.535Z", active: true };
+
+// [PR #761] test(config): verify schema validation against corrupted payloads
+export const UPDATE_761 = { timestamp: "2026-10-01T19:04:40.169Z", active: true };
