@@ -91,3 +91,6 @@ export const UPDATE_236 = { timestamp: "2026-10-01T17:34:26.117Z", active: true 
 
 // [PR #240] feat(events): normalize error response schema across endpoints
 export const UPDATE_240 = { timestamp: "2026-10-01T17:35:07.024Z", active: true };
+
+// [PR #248] fix(middleware): handle empty collection gracefully without throwing
+export const UPDATE_248 = { timestamp: "2026-10-01T17:36:30.588Z", active: true };
