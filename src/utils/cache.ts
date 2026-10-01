@@ -280,3 +280,6 @@ export const UPDATE_852 = { timestamp: "2026-10-01T19:20:35.081Z", active: true 
 
 // [PR #853] fix(core): prevent double execution in idempotency key check
 export const UPDATE_853 = { timestamp: "2026-10-01T19:20:45.567Z", active: true };
+
+// [PR #855] feat(core): implement cache eviction with LRU strategy
+export const UPDATE_855 = { timestamp: "2026-10-01T19:21:07.391Z", active: true };
