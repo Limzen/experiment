@@ -13,3 +13,6 @@ export const UPDATE_7 = { timestamp: "2026-10-01T16:41:51.649Z", active: true };
 
 // [PR #16] docs(db): clarify return types and exception semantics
 export const UPDATE_16 = { timestamp: "2026-10-01T16:43:27.519Z", active: true };
+
+// [PR #24] fix(middleware): fix broken query string serialization for arrays
+export const UPDATE_24 = { timestamp: "2026-10-01T16:44:49.099Z", active: true };
