@@ -58,3 +58,6 @@ export const UPDATE_94 = { timestamp: "2026-10-01T17:10:58.202Z", active: true }
 
 // [PR #109] test(middleware): verify schema validation against corrupted payloads
 export const UPDATE_109 = { timestamp: "2026-10-01T17:13:30.736Z", active: true };
+
+// [PR #114] feat(router): add input sanitization for user queries
+export const UPDATE_114 = { timestamp: "2026-10-01T17:14:20.413Z", active: true };
