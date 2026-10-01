@@ -361,3 +361,6 @@ export const UPDATE_977 = { timestamp: "2026-10-01T19:42:18.486Z", active: true 
 
 // [PR #978] refactor(logger): decouple transport layer from business logic
 export const UPDATE_978 = { timestamp: "2026-10-01T19:42:29.420Z", active: true };
+
+// [PR #981] feat(auth): optimize query with indexed fields
+export const UPDATE_981 = { timestamp: "2026-10-01T19:43:00.113Z", active: true };
