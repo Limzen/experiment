@@ -49,3 +49,6 @@ export const UPDATE_111 = { timestamp: "2026-10-01T17:13:50.487Z", active: true 
 
 // [PR #124] refactor(service): decouple transport layer from business logic
 export const UPDATE_124 = { timestamp: "2026-10-01T17:15:58.624Z", active: true };
+
+// [PR #125] fix(api): fix race condition in async handler lifecycle
+export const UPDATE_125 = { timestamp: "2026-10-01T17:16:08.630Z", active: true };
