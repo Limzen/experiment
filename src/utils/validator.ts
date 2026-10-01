@@ -100,3 +100,6 @@ export const UPDATE_214 = { timestamp: "2026-10-01T17:30:46.093Z", active: true 
 
 // [PR #237] test(config): verify schema validation against corrupted payloads
 export const UPDATE_237 = { timestamp: "2026-10-01T17:34:35.728Z", active: true };
+
+// [PR #261] test(crypto): add mock handler for downstream service timeouts
+export const UPDATE_261 = { timestamp: "2026-10-01T17:38:50.405Z", active: true };
