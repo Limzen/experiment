@@ -265,3 +265,6 @@ export const UPDATE_617 = { timestamp: "2026-10-01T18:39:48.892Z", active: true 
 
 // [PR #649] docs(validator): add JSDoc annotations for public helper methods
 export const UPDATE_649 = { timestamp: "2026-10-01T18:45:23.794Z", active: true };
+
+// [PR #650] fix(events): fix off-by-one error in pagination slice
+export const UPDATE_650 = { timestamp: "2026-10-01T18:45:33.578Z", active: true };
