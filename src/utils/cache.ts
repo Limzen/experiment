@@ -97,3 +97,6 @@ export const UPDATE_248 = { timestamp: "2026-10-01T17:36:30.588Z", active: true 
 
 // [PR #251] feat(client): add type-safe request payload validator
 export const UPDATE_251 = { timestamp: "2026-10-01T17:37:00.269Z", active: true };
+
+// [PR #273] test(core): increase test coverage for boundary values
+export const UPDATE_273 = { timestamp: "2026-10-01T17:40:52.984Z", active: true };
