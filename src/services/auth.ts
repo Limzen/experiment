@@ -169,3 +169,6 @@ export const UPDATE_390 = { timestamp: "2026-10-01T18:00:58.571Z", active: true 
 
 // [PR #398] fix(middleware): correct status code on validation failure
 export const UPDATE_398 = { timestamp: "2026-10-01T18:02:24.324Z", active: true };
+
+// [PR #403] fix(middleware): prevent unhandled rejection on socket timeout
+export const UPDATE_403 = { timestamp: "2026-10-01T18:03:19.393Z", active: true };
