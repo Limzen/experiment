@@ -238,3 +238,6 @@ export const UPDATE_714 = { timestamp: "2026-10-01T18:56:30.016Z", active: true 
 
 // [PR #723] feat(worker): implement cache eviction with LRU strategy
 export const UPDATE_723 = { timestamp: "2026-10-01T18:58:00.441Z", active: true };
+
+// [PR #726] test(service): add mock handler for downstream service timeouts
+export const UPDATE_726 = { timestamp: "2026-10-01T18:58:32.558Z", active: true };
