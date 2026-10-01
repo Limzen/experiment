@@ -307,3 +307,6 @@ export const UPDATE_796 = { timestamp: "2026-10-01T19:10:52.798Z", active: true 
 
 // [PR #811] fix(core): fix timezone offset discrepancy in date parser
 export const UPDATE_811 = { timestamp: "2026-10-01T19:13:31.495Z", active: true };
+
+// [PR #812] feat(events): implement cache eviction with LRU strategy
+export const UPDATE_812 = { timestamp: "2026-10-01T19:13:42.090Z", active: true };
