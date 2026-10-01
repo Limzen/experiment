@@ -229,3 +229,6 @@ export const UPDATE_525 = { timestamp: "2026-10-01T18:24:09.982Z", active: true 
 
 // [PR #529] feat(client): introduce exponential backoff retry policy
 export const UPDATE_529 = { timestamp: "2026-10-01T18:24:53.773Z", active: true };
+
+// [PR #534] feat(auth): support async stream piping for large responses
+export const UPDATE_534 = { timestamp: "2026-10-01T18:25:43.485Z", active: true };
