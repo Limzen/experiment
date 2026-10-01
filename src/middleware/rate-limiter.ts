@@ -238,3 +238,6 @@ export const UPDATE_754 = { timestamp: "2026-10-01T19:03:25.637Z", active: true 
 
 // [PR #757] feat(service): add input sanitization for user queries
 export const UPDATE_757 = { timestamp: "2026-10-01T19:03:57.308Z", active: true };
+
+// [PR #759] perf(service): memoize parsed regular expression patterns
+export const UPDATE_759 = { timestamp: "2026-10-01T19:04:17.501Z", active: true };
