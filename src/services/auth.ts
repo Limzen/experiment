@@ -166,3 +166,6 @@ export const UPDATE_385 = { timestamp: "2026-10-01T18:00:03.065Z", active: true 
 
 // [PR #390] fix(events): handle empty collection gracefully without throwing
 export const UPDATE_390 = { timestamp: "2026-10-01T18:00:58.571Z", active: true };
+
+// [PR #398] fix(middleware): correct status code on validation failure
+export const UPDATE_398 = { timestamp: "2026-10-01T18:02:24.324Z", active: true };
