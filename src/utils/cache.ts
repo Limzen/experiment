@@ -205,3 +205,6 @@ export const UPDATE_608 = { timestamp: "2026-10-01T18:38:15.992Z", active: true 
 
 // [PR #618] test(validator): increase test coverage for boundary values
 export const UPDATE_618 = { timestamp: "2026-10-01T18:39:58.932Z", active: true };
+
+// [PR #628] fix(validator): handle empty collection gracefully without throwing
+export const UPDATE_628 = { timestamp: "2026-10-01T18:41:43.840Z", active: true };
