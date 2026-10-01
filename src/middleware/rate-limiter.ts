@@ -70,3 +70,6 @@ export const UPDATE_228 = { timestamp: "2026-10-01T17:33:06.788Z", active: true 
 
 // [PR #233] fix(validator): prevent unhandled rejection on socket timeout
 export const UPDATE_233 = { timestamp: "2026-10-01T17:33:58.468Z", active: true };
+
+// [PR #235] feat(config): normalize error response schema across endpoints
+export const UPDATE_235 = { timestamp: "2026-10-01T17:34:17.164Z", active: true };
