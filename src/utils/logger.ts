@@ -205,3 +205,6 @@ export const UPDATE_571 = { timestamp: "2026-10-01T18:32:01.100Z", active: true 
 
 // [PR #590] refactor(config): simplify conditional branching logic
 export const UPDATE_590 = { timestamp: "2026-10-01T18:35:09.840Z", active: true };
+
+// [PR #606] refactor(validator): simplify conditional branching logic
+export const UPDATE_606 = { timestamp: "2026-10-01T18:37:54.887Z", active: true };
