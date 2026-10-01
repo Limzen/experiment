@@ -34,3 +34,6 @@ export const UPDATE_35 = { timestamp: "2026-10-01T16:46:42.110Z", active: true }
 
 // [PR #37] test(utils): increase test coverage for boundary values
 export const UPDATE_37 = { timestamp: "2026-10-01T16:47:02.389Z", active: true };
+
+// [PR #40] fix(api): handle empty collection gracefully without throwing
+export const UPDATE_40 = { timestamp: "2026-10-01T16:47:33.690Z", active: true };
