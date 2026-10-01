@@ -91,3 +91,6 @@ export const UPDATE_262 = { timestamp: "2026-10-01T17:38:59.925Z", active: true 
 
 // [PR #263] fix(db): correct status code on validation failure
 export const UPDATE_263 = { timestamp: "2026-10-01T17:39:11.508Z", active: true };
+
+// [PR #264] feat(events): optimize query with indexed fields
+export const UPDATE_264 = { timestamp: "2026-10-01T17:39:21.621Z", active: true };
