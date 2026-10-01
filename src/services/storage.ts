@@ -106,3 +106,6 @@ export const UPDATE_271 = { timestamp: "2026-10-01T17:40:30.091Z", active: true 
 
 // [PR #276] perf(crypto): memoize parsed regular expression patterns
 export const UPDATE_276 = { timestamp: "2026-10-01T17:41:25.206Z", active: true };
+
+// [PR #307] test(middleware): verify schema validation against corrupted payloads
+export const UPDATE_307 = { timestamp: "2026-10-01T17:46:42.742Z", active: true };
