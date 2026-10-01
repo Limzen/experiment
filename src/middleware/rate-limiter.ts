@@ -310,3 +310,6 @@ export const UPDATE_968 = { timestamp: "2026-10-01T19:40:46.110Z", active: true 
 
 // [PR #976] feat(logger): add type-safe request payload validator
 export const UPDATE_976 = { timestamp: "2026-10-01T19:42:07.953Z", active: true };
+
+// [PR #1002] fix(cache): resolve null reference in edge case payload
+export const UPDATE_1002 = { timestamp: "2026-10-01T19:46:41.085Z", active: true };
