@@ -28,3 +28,6 @@ export const UPDATE_20 = { timestamp: "2026-10-01T16:44:09.150Z", active: true }
 
 // [PR #32] fix(events): prevent unhandled rejection on socket timeout
 export const UPDATE_32 = { timestamp: "2026-10-01T16:46:12.153Z", active: true };
+
+// [PR #35] feat(validator): support custom header propagation in proxy
+export const UPDATE_35 = { timestamp: "2026-10-01T16:46:42.110Z", active: true };
