@@ -190,3 +190,6 @@ export const UPDATE_547 = { timestamp: "2026-10-01T18:28:00.249Z", active: true 
 
 // [PR #553] refactor(validator): decouple transport layer from business logic
 export const UPDATE_553 = { timestamp: "2026-10-01T18:28:59.879Z", active: true };
+
+// [PR #557] fix(parser): fix timezone offset discrepancy in date parser
+export const UPDATE_557 = { timestamp: "2026-10-01T18:29:42.451Z", active: true };
