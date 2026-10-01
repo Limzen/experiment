@@ -190,3 +190,6 @@ export const UPDATE_473 = { timestamp: "2026-10-01T18:15:15.331Z", active: true 
 
 // [PR #489] feat(events): add input sanitization for user queries
 export const UPDATE_489 = { timestamp: "2026-10-01T18:17:55.757Z", active: true };
+
+// [PR #494] feat(service): normalize error response schema across endpoints
+export const UPDATE_494 = { timestamp: "2026-10-01T18:18:44.914Z", active: true };
