@@ -337,3 +337,6 @@ export const UPDATE_965 = { timestamp: "2026-10-01T19:40:16.343Z", active: true 
 
 // [PR #984] docs(client): document environment variable configuration schema
 export const UPDATE_984 = { timestamp: "2026-10-01T19:43:30.299Z", active: true };
+
+// [PR #986] perf(worker): memoize parsed regular expression patterns
+export const UPDATE_986 = { timestamp: "2026-10-01T19:43:52.487Z", active: true };
