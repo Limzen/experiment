@@ -289,3 +289,6 @@ export const UPDATE_845 = { timestamp: "2026-10-01T19:19:22.185Z", active: true 
 
 // [PR #856] docs(middleware): add JSDoc annotations for public helper methods
 export const UPDATE_856 = { timestamp: "2026-10-01T19:21:17.888Z", active: true };
+
+// [PR #859] feat(storage): support custom header propagation in proxy
+export const UPDATE_859 = { timestamp: "2026-10-01T19:21:47.839Z", active: true };
