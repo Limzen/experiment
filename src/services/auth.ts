@@ -163,3 +163,6 @@ export const UPDATE_375 = { timestamp: "2026-10-01T17:58:20.240Z", active: true 
 
 // [PR #385] test(metrics): increase test coverage for boundary values
 export const UPDATE_385 = { timestamp: "2026-10-01T18:00:03.065Z", active: true };
+
+// [PR #390] fix(events): handle empty collection gracefully without throwing
+export const UPDATE_390 = { timestamp: "2026-10-01T18:00:58.571Z", active: true };
