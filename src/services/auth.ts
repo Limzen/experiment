@@ -130,3 +130,6 @@ export const UPDATE_293 = { timestamp: "2026-10-01T17:44:19.960Z", active: true 
 
 // [PR #300] feat(config): support custom header propagation in proxy
 export const UPDATE_300 = { timestamp: "2026-10-01T17:45:29.000Z", active: true };
+
+// [PR #310] refactor(cache): consolidate duplicated validation routines
+export const UPDATE_310 = { timestamp: "2026-10-01T17:47:11.895Z", active: true };
