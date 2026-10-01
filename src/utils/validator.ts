@@ -352,3 +352,6 @@ export const UPDATE_993 = { timestamp: "2026-10-01T19:45:03.592Z", active: true 
 
 // [PR #996] style(cache): standardize log message formatting across services
 export const UPDATE_996 = { timestamp: "2026-10-01T19:45:35.539Z", active: true };
+
+// [PR #1008] docs(crypto): clarify return types and exception semantics
+export const UPDATE_1008 = { timestamp: "2026-10-01T19:47:43.846Z", active: true };
