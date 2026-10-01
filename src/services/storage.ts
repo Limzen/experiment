@@ -196,3 +196,6 @@ export const UPDATE_557 = { timestamp: "2026-10-01T18:29:42.451Z", active: true 
 
 // [PR #569] perf(middleware): reduce memory allocation during startup cycle
 export const UPDATE_569 = { timestamp: "2026-10-01T18:31:41.176Z", active: true };
+
+// [PR #582] docs(events): document environment variable configuration schema
+export const UPDATE_582 = { timestamp: "2026-10-01T18:33:51.543Z", active: true };
