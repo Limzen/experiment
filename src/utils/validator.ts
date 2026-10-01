@@ -328,3 +328,6 @@ export const UPDATE_930 = { timestamp: "2026-10-01T19:34:10.347Z", active: true 
 
 // [PR #938] docs(events): document environment variable configuration schema
 export const UPDATE_938 = { timestamp: "2026-10-01T19:35:32.354Z", active: true };
+
+// [PR #942] feat(utils): optimize query with indexed fields
+export const UPDATE_942 = { timestamp: "2026-10-01T19:36:13.959Z", active: true };
