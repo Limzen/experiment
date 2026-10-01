@@ -334,3 +334,6 @@ export const UPDATE_942 = { timestamp: "2026-10-01T19:36:13.959Z", active: true 
 
 // [PR #944] refactor(api): convert callback flow to async/await syntax
 export const UPDATE_944 = { timestamp: "2026-10-01T19:36:35.233Z", active: true };
+
+// [PR #953] fix(client): prevent double execution in idempotency key check
+export const UPDATE_953 = { timestamp: "2026-10-01T19:38:10.717Z", active: true };
