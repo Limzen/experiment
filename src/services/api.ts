@@ -49,3 +49,6 @@ export const UPDATE_116 = { timestamp: "2026-10-01T17:14:40.483Z", active: true 
 
 // [PR #122] refactor(parser): decouple transport layer from business logic
 export const UPDATE_122 = { timestamp: "2026-10-01T17:15:39.117Z", active: true };
+
+// [PR #128] fix(cache): prevent unhandled rejection on socket timeout
+export const UPDATE_128 = { timestamp: "2026-10-01T17:16:38.223Z", active: true };
