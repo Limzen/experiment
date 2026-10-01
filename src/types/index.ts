@@ -292,3 +292,6 @@ export const UPDATE_919 = { timestamp: "2026-10-01T19:32:14.427Z", active: true 
 
 // [PR #929] feat(client): add type-safe request payload validator
 export const UPDATE_929 = { timestamp: "2026-10-01T19:34:00.019Z", active: true };
+
+// [PR #934] refactor(worker): consolidate duplicated validation routines
+export const UPDATE_934 = { timestamp: "2026-10-01T19:34:51.381Z", active: true };
