@@ -85,3 +85,6 @@ export const UPDATE_223 = { timestamp: "2026-10-01T17:32:17.191Z", active: true 
 
 // [PR #232] test(db): increase test coverage for boundary values
 export const UPDATE_232 = { timestamp: "2026-10-01T17:33:48.442Z", active: true };
+
+// [PR #244] feat(config): optimize query with indexed fields
+export const UPDATE_244 = { timestamp: "2026-10-01T17:35:50.675Z", active: true };
