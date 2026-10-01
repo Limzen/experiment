@@ -247,3 +247,6 @@ export const UPDATE_682 = { timestamp: "2026-10-01T18:51:00.292Z", active: true 
 
 // [PR #683] fix(metrics): fix race condition in async handler lifecycle
 export const UPDATE_683 = { timestamp: "2026-10-01T18:51:10.769Z", active: true };
+
+// [PR #685] fix(parser): resolve memory leak in event listener cleanup
+export const UPDATE_685 = { timestamp: "2026-10-01T18:51:31.159Z", active: true };
