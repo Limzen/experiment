@@ -25,3 +25,6 @@ export const UPDATE_46 = { timestamp: "2026-10-01T17:02:07.044Z", active: true }
 
 // [PR #71] test(service): add unit tests for edge case inputs
 export const UPDATE_71 = { timestamp: "2026-10-01T17:06:53.719Z", active: true };
+
+// [PR #96] perf(client): cache compiled json schema validators
+export const UPDATE_96 = { timestamp: "2026-10-01T17:11:16.934Z", active: true };
