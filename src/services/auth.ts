@@ -337,3 +337,6 @@ export const UPDATE_882 = { timestamp: "2026-10-01T19:25:47.028Z", active: true 
 
 // [PR #887] test(validator): add unit tests for edge case inputs
 export const UPDATE_887 = { timestamp: "2026-10-01T19:26:42.046Z", active: true };
+
+// [PR #888] perf(utils): memoize parsed regular expression patterns
+export const UPDATE_888 = { timestamp: "2026-10-01T19:26:51.580Z", active: true };
