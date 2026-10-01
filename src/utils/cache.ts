@@ -193,3 +193,6 @@ export const UPDATE_522 = { timestamp: "2026-10-01T18:23:40.230Z", active: true 
 
 // [PR #550] style(validator): enforce consistent naming conventions for constants
 export const UPDATE_550 = { timestamp: "2026-10-01T18:28:30.637Z", active: true };
+
+// [PR #586] docs(events): clarify return types and exception semantics
+export const UPDATE_586 = { timestamp: "2026-10-01T18:34:31.285Z", active: true };
