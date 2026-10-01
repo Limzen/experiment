@@ -94,3 +94,6 @@ export const UPDATE_240 = { timestamp: "2026-10-01T17:35:07.024Z", active: true 
 
 // [PR #248] fix(middleware): handle empty collection gracefully without throwing
 export const UPDATE_248 = { timestamp: "2026-10-01T17:36:30.588Z", active: true };
+
+// [PR #251] feat(client): add type-safe request payload validator
+export const UPDATE_251 = { timestamp: "2026-10-01T17:37:00.269Z", active: true };

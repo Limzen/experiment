@@ -73,3 +73,6 @@ export const UPDATE_243 = { timestamp: "2026-10-01T17:35:40.329Z", active: true 
 
 // [PR #250] fix(cache): fix race condition in async handler lifecycle
 export const UPDATE_250 = { timestamp: "2026-10-01T17:36:49.993Z", active: true };
+
+// [PR #251] refactor(router): decouple transport layer from business logic
+export const UPDATE_251 = { timestamp: "2026-10-01T17:37:10.898Z", active: true };
