@@ -118,3 +118,6 @@ export const UPDATE_306 = { timestamp: "2026-10-01T17:46:33.450Z", active: true 
 
 // [PR #316] perf(service): cache compiled json schema validators
 export const UPDATE_316 = { timestamp: "2026-10-01T17:48:14.431Z", active: true };
+
+// [PR #317] fix(utils): prevent unhandled rejection on socket timeout
+export const UPDATE_317 = { timestamp: "2026-10-01T17:48:24.185Z", active: true };
