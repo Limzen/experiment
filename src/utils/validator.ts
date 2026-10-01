@@ -304,3 +304,6 @@ export const UPDATE_861 = { timestamp: "2026-10-01T19:22:08.087Z", active: true 
 
 // [PR #863] feat(core): normalize error response schema across endpoints
 export const UPDATE_863 = { timestamp: "2026-10-01T19:22:29.018Z", active: true };
+
+// [PR #873] fix(client): prevent unhandled rejection on socket timeout
+export const UPDATE_873 = { timestamp: "2026-10-01T19:24:11.943Z", active: true };
