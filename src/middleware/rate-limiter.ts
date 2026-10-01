@@ -178,3 +178,6 @@ export const UPDATE_588 = { timestamp: "2026-10-01T18:34:50.092Z", active: true 
 
 // [PR #593] feat(service): support async stream piping for large responses
 export const UPDATE_593 = { timestamp: "2026-10-01T18:35:41.114Z", active: true };
+
+// [PR #605] fix(storage): fix broken query string serialization for arrays
+export const UPDATE_605 = { timestamp: "2026-10-01T18:37:44.685Z", active: true };
