@@ -241,3 +241,6 @@ export const UPDATE_541 = { timestamp: "2026-10-01T18:26:56.224Z", active: true 
 
 // [PR #545] test(db): add mock handler for downstream service timeouts
 export const UPDATE_545 = { timestamp: "2026-10-01T18:27:37.711Z", active: true };
+
+// [PR #551] fix(parser): fix broken query string serialization for arrays
+export const UPDATE_551 = { timestamp: "2026-10-01T18:28:40.377Z", active: true };
