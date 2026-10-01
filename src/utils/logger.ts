@@ -199,3 +199,6 @@ export const UPDATE_564 = { timestamp: "2026-10-01T18:30:51.580Z", active: true 
 
 // [PR #566] docs(worker): clarify return types and exception semantics
 export const UPDATE_566 = { timestamp: "2026-10-01T18:31:11.026Z", active: true };
+
+// [PR #571] test(utils): add mock handler for downstream service timeouts
+export const UPDATE_571 = { timestamp: "2026-10-01T18:32:01.100Z", active: true };
