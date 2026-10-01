@@ -52,3 +52,6 @@ export const UPDATE_176 = { timestamp: "2026-10-01T17:24:32.536Z", active: true 
 
 // [PR #186] fix(events): resolve memory leak in event listener cleanup
 export const UPDATE_186 = { timestamp: "2026-10-01T17:26:07.653Z", active: true };
+
+// [PR #205] test(api): add mock handler for downstream service timeouts
+export const UPDATE_205 = { timestamp: "2026-10-01T17:29:16.710Z", active: true };
