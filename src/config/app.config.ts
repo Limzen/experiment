@@ -265,3 +265,6 @@ export const UPDATE_700 = { timestamp: "2026-10-01T18:54:06.008Z", active: true 
 
 // [PR #716] fix(events): fix race condition in async handler lifecycle
 export const UPDATE_716 = { timestamp: "2026-10-01T18:56:50.234Z", active: true };
+
+// [PR #718] fix(auth): fix broken query string serialization for arrays
+export const UPDATE_718 = { timestamp: "2026-10-01T18:57:10.286Z", active: true };
