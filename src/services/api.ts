@@ -208,3 +208,6 @@ export const UPDATE_561 = { timestamp: "2026-10-01T18:30:21.963Z", active: true 
 
 // [PR #563] feat(metrics): add input sanitization for user queries
 export const UPDATE_563 = { timestamp: "2026-10-01T18:30:42.024Z", active: true };
+
+// [PR #567] docs(auth): add JSDoc annotations for public helper methods
+export const UPDATE_567 = { timestamp: "2026-10-01T18:31:20.888Z", active: true };
