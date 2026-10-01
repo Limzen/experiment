@@ -106,3 +106,6 @@ export const UPDATE_278 = { timestamp: "2026-10-01T17:41:45.652Z", active: true 
 
 // [PR #280] feat(utils): add type-safe request payload validator
 export const UPDATE_280 = { timestamp: "2026-10-01T17:42:04.966Z", active: true };
+
+// [PR #282] feat(client): introduce exponential backoff retry policy
+export const UPDATE_282 = { timestamp: "2026-10-01T17:42:25.815Z", active: true };
