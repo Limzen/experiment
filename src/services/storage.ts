@@ -16,3 +16,6 @@ export const UPDATE_16 = { timestamp: "2026-10-01T16:43:27.519Z", active: true }
 
 // [PR #24] fix(middleware): fix broken query string serialization for arrays
 export const UPDATE_24 = { timestamp: "2026-10-01T16:44:49.099Z", active: true };
+
+// [PR #25] feat(middleware): support custom header propagation in proxy
+export const UPDATE_25 = { timestamp: "2026-10-01T16:44:59.034Z", active: true };
