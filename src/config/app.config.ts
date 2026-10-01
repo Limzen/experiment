@@ -340,3 +340,6 @@ export const UPDATE_920 = { timestamp: "2026-10-01T19:32:25.322Z", active: true 
 
 // [PR #923] docs(validator): clarify return types and exception semantics
 export const UPDATE_923 = { timestamp: "2026-10-01T19:32:56.076Z", active: true };
+
+// [PR #926] feat(crypto): add type-safe request payload validator
+export const UPDATE_926 = { timestamp: "2026-10-01T19:33:28.407Z", active: true };
