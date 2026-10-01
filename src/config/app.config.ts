@@ -349,3 +349,6 @@ export const UPDATE_935 = { timestamp: "2026-10-01T19:35:01.832Z", active: true 
 
 // [PR #954] fix(core): fix broken query string serialization for arrays
 export const UPDATE_954 = { timestamp: "2026-10-01T19:38:21.214Z", active: true };
+
+// [PR #955] refactor(events): convert callback flow to async/await syntax
+export const UPDATE_955 = { timestamp: "2026-10-01T19:38:32.592Z", active: true };
