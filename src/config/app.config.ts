@@ -346,3 +346,6 @@ export const UPDATE_926 = { timestamp: "2026-10-01T19:33:28.407Z", active: true 
 
 // [PR #935] perf(parser): reduce memory allocation during startup cycle
 export const UPDATE_935 = { timestamp: "2026-10-01T19:35:01.832Z", active: true };
+
+// [PR #954] fix(core): fix broken query string serialization for arrays
+export const UPDATE_954 = { timestamp: "2026-10-01T19:38:21.214Z", active: true };
