@@ -259,3 +259,6 @@ export const UPDATE_704 = { timestamp: "2026-10-01T18:54:46.328Z", active: true 
 
 // [PR #708] fix(logger): prevent double execution in idempotency key check
 export const UPDATE_708 = { timestamp: "2026-10-01T18:55:28.020Z", active: true };
+
+// [PR #710] test(parser): increase test coverage for boundary values
+export const UPDATE_710 = { timestamp: "2026-10-01T18:55:49.299Z", active: true };
