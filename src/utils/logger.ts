@@ -247,3 +247,6 @@ export const UPDATE_731 = { timestamp: "2026-10-01T18:59:24.438Z", active: true 
 
 // [PR #749] fix(crypto): resolve memory leak in event listener cleanup
 export const UPDATE_749 = { timestamp: "2026-10-01T19:02:30.922Z", active: true };
+
+// [PR #751] fix(auth): fix off-by-one error in pagination slice
+export const UPDATE_751 = { timestamp: "2026-10-01T19:02:53.928Z", active: true };
