@@ -196,3 +196,6 @@ export const UPDATE_494 = { timestamp: "2026-10-01T18:18:44.914Z", active: true 
 
 // [PR #499] docs(events): add JSDoc annotations for public helper methods
 export const UPDATE_499 = { timestamp: "2026-10-01T18:19:43.792Z", active: true };
+
+// [PR #507] fix(storage): resolve memory leak in event listener cleanup
+export const UPDATE_507 = { timestamp: "2026-10-01T18:21:05.690Z", active: true };
