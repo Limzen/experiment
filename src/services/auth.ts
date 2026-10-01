@@ -178,3 +178,6 @@ export const UPDATE_406 = { timestamp: "2026-10-01T18:03:51.166Z", active: true 
 
 // [PR #408] fix(events): prevent double execution in idempotency key check
 export const UPDATE_408 = { timestamp: "2026-10-01T18:04:11.924Z", active: true };
+
+// [PR #419] fix(parser): resolve null reference in edge case payload
+export const UPDATE_419 = { timestamp: "2026-10-01T18:06:09.903Z", active: true };
