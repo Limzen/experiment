@@ -88,3 +88,6 @@ export const UPDATE_256 = { timestamp: "2026-10-01T17:38:01.388Z", active: true 
 
 // [PR #259] feat(metrics): normalize error response schema across endpoints
 export const UPDATE_259 = { timestamp: "2026-10-01T17:38:31.110Z", active: true };
+
+// [PR #294] fix(worker): resolve null reference in edge case payload
+export const UPDATE_294 = { timestamp: "2026-10-01T17:44:30.106Z", active: true };
