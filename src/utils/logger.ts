@@ -121,3 +121,6 @@ export const UPDATE_315 = { timestamp: "2026-10-01T17:48:04.968Z", active: true 
 
 // [PR #355] refactor(utils): convert callback flow to async/await syntax
 export const UPDATE_355 = { timestamp: "2026-10-01T17:54:51.728Z", active: true };
+
+// [PR #371] fix(auth): fix off-by-one error in pagination slice
+export const UPDATE_371 = { timestamp: "2026-10-01T17:57:37.166Z", active: true };
