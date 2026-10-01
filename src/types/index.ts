@@ -211,3 +211,6 @@ export const UPDATE_699 = { timestamp: "2026-10-01T18:53:56.184Z", active: true 
 
 // [PR #722] fix(worker): resolve memory leak in event listener cleanup
 export const UPDATE_722 = { timestamp: "2026-10-01T18:57:50.891Z", active: true };
+
+// [PR #738] feat(events): normalize error response schema across endpoints
+export const UPDATE_738 = { timestamp: "2026-10-01T19:00:38.705Z", active: true };
