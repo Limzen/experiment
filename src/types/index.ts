@@ -61,3 +61,6 @@ export const UPDATE_211 = { timestamp: "2026-10-01T17:30:16.582Z", active: true 
 
 // [PR #227] refactor(parser): simplify conditional branching logic
 export const UPDATE_227 = { timestamp: "2026-10-01T17:32:57.418Z", active: true };
+
+// [PR #234] feat(validator): normalize error response schema across endpoints
+export const UPDATE_234 = { timestamp: "2026-10-01T17:34:07.584Z", active: true };
