@@ -298,3 +298,6 @@ export const UPDATE_833 = { timestamp: "2026-10-01T19:17:18.885Z", active: true 
 
 // [PR #851] fix(core): fix timezone offset discrepancy in date parser
 export const UPDATE_851 = { timestamp: "2026-10-01T19:20:24.444Z", active: true };
+
+// [PR #861] fix(router): resolve null reference in edge case payload
+export const UPDATE_861 = { timestamp: "2026-10-01T19:22:08.087Z", active: true };
