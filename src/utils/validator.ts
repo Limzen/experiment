@@ -313,3 +313,6 @@ export const UPDATE_891 = { timestamp: "2026-10-01T19:27:22.557Z", active: true 
 
 // [PR #910] docs(service): document environment variable configuration schema
 export const UPDATE_910 = { timestamp: "2026-10-01T19:30:38.856Z", active: true };
+
+// [PR #914] refactor(validator): extract reusable helper function into utils
+export const UPDATE_914 = { timestamp: "2026-10-01T19:31:20.696Z", active: true };
