@@ -193,3 +193,6 @@ export const UPDATE_544 = { timestamp: "2026-10-01T18:27:25.759Z", active: true 
 
 // [PR #552] fix(config): correct status code on validation failure
 export const UPDATE_552 = { timestamp: "2026-10-01T18:28:50.162Z", active: true };
+
+// [PR #562] fix(cache): fix broken query string serialization for arrays
+export const UPDATE_562 = { timestamp: "2026-10-01T18:30:31.716Z", active: true };
