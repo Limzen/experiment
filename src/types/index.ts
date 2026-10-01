@@ -244,3 +244,6 @@ export const UPDATE_800 = { timestamp: "2026-10-01T19:11:34.513Z", active: true 
 
 // [PR #802] perf(logger): memoize parsed regular expression patterns
 export const UPDATE_802 = { timestamp: "2026-10-01T19:11:56.266Z", active: true };
+
+// [PR #813] feat(auth): support custom header propagation in proxy
+export const UPDATE_813 = { timestamp: "2026-10-01T19:13:52.557Z", active: true };
