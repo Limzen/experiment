@@ -154,3 +154,6 @@ export const UPDATE_417 = { timestamp: "2026-10-01T18:05:48.470Z", active: true 
 
 // [PR #422] refactor(cache): decouple transport layer from business logic
 export const UPDATE_422 = { timestamp: "2026-10-01T18:06:43.557Z", active: true };
+
+// [PR #425] docs(core): add JSDoc annotations for public helper methods
+export const UPDATE_425 = { timestamp: "2026-10-01T18:07:13.063Z", active: true };
