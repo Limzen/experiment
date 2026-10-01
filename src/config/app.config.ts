@@ -304,3 +304,6 @@ export const UPDATE_793 = { timestamp: "2026-10-01T19:10:19.634Z", active: true 
 
 // [PR #796] feat(utils): add structured audit logging for security events
 export const UPDATE_796 = { timestamp: "2026-10-01T19:10:52.798Z", active: true };
+
+// [PR #811] fix(core): fix timezone offset discrepancy in date parser
+export const UPDATE_811 = { timestamp: "2026-10-01T19:13:31.495Z", active: true };
