@@ -277,3 +277,6 @@ export const UPDATE_741 = { timestamp: "2026-10-01T19:01:10.832Z", active: true 
 
 // [PR #787] feat(db): add batch processing for background tasks
 export const UPDATE_787 = { timestamp: "2026-10-01T19:09:13.833Z", active: true };
+
+// [PR #810] feat(config): normalize error response schema across endpoints
+export const UPDATE_810 = { timestamp: "2026-10-01T19:13:21.534Z", active: true };
