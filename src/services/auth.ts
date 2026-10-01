@@ -136,3 +136,6 @@ export const UPDATE_310 = { timestamp: "2026-10-01T17:47:11.895Z", active: true 
 
 // [PR #324] test(logger): add mock handler for downstream service timeouts
 export const UPDATE_324 = { timestamp: "2026-10-01T17:49:34.706Z", active: true };
+
+// [PR #330] perf(service): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_330 = { timestamp: "2026-10-01T17:50:36.581Z", active: true };
