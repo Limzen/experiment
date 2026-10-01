@@ -262,3 +262,6 @@ export const UPDATE_805 = { timestamp: "2026-10-01T19:12:29.665Z", active: true 
 
 // [PR #808] fix(storage): fix timezone offset discrepancy in date parser
 export const UPDATE_808 = { timestamp: "2026-10-01T19:13:00.716Z", active: true };
+
+// [PR #809] feat(core): support async stream piping for large responses
+export const UPDATE_809 = { timestamp: "2026-10-01T19:13:11.278Z", active: true };
