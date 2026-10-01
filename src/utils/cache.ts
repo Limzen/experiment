@@ -64,3 +64,6 @@ export const UPDATE_136 = { timestamp: "2026-10-01T17:17:58.438Z", active: true 
 
 // [PR #138] fix(metrics): fix race condition in async handler lifecycle
 export const UPDATE_138 = { timestamp: "2026-10-01T17:18:19.834Z", active: true };
+
+// [PR #151] perf(worker): memoize parsed regular expression patterns
+export const UPDATE_151 = { timestamp: "2026-10-01T17:20:25.840Z", active: true };
