@@ -61,3 +61,6 @@ export const UPDATE_159 = { timestamp: "2026-10-01T17:21:48.633Z", active: true 
 
 // [PR #169] refactor(api): extract reusable helper function into utils
 export const UPDATE_169 = { timestamp: "2026-10-01T17:23:24.924Z", active: true };
+
+// [PR #171] fix(cache): handle empty collection gracefully without throwing
+export const UPDATE_171 = { timestamp: "2026-10-01T17:23:43.824Z", active: true };
