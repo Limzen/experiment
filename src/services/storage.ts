@@ -73,3 +73,6 @@ export const UPDATE_212 = { timestamp: "2026-10-01T17:30:26.639Z", active: true 
 
 // [PR #215] fix(crypto): prevent double execution in idempotency key check
 export const UPDATE_215 = { timestamp: "2026-10-01T17:30:56.364Z", active: true };
+
+// [PR #225] perf(storage): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_225 = { timestamp: "2026-10-01T17:32:36.961Z", active: true };
