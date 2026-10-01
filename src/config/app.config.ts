@@ -103,3 +103,6 @@ export const UPDATE_260 = { timestamp: "2026-10-01T17:38:40.647Z", active: true 
 
 // [PR #274] perf(parser): reduce memory allocation during startup cycle
 export const UPDATE_274 = { timestamp: "2026-10-01T17:41:05.013Z", active: true };
+
+// [PR #277] feat(storage): support async stream piping for large responses
+export const UPDATE_277 = { timestamp: "2026-10-01T17:41:35.560Z", active: true };
