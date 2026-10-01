@@ -244,3 +244,6 @@ export const UPDATE_663 = { timestamp: "2026-10-01T18:47:44.798Z", active: true 
 
 // [PR #682] feat(parser): support async stream piping for large responses
 export const UPDATE_682 = { timestamp: "2026-10-01T18:51:00.292Z", active: true };
+
+// [PR #683] fix(metrics): fix race condition in async handler lifecycle
+export const UPDATE_683 = { timestamp: "2026-10-01T18:51:10.769Z", active: true };
