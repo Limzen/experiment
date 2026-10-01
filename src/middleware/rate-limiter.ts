@@ -151,3 +151,6 @@ export const UPDATE_452 = { timestamp: "2026-10-01T18:11:46.114Z", active: true 
 
 // [PR #467] refactor(events): extract reusable helper function into utils
 export const UPDATE_467 = { timestamp: "2026-10-01T18:14:15.661Z", active: true };
+
+// [PR #487] fix(db): correct status code on validation failure
+export const UPDATE_487 = { timestamp: "2026-10-01T18:17:36.190Z", active: true };
