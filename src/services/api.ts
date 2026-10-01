@@ -220,3 +220,6 @@ export const UPDATE_576 = { timestamp: "2026-10-01T18:32:51.353Z", active: true 
 
 // [PR #595] perf(api): reduce redundant database roundtrips on bulk fetch
 export const UPDATE_595 = { timestamp: "2026-10-01T18:36:02.283Z", active: true };
+
+// [PR #596] perf(service): cache compiled json schema validators
+export const UPDATE_596 = { timestamp: "2026-10-01T18:36:12.681Z", active: true };
