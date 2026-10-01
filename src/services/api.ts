@@ -271,3 +271,6 @@ export const UPDATE_773 = { timestamp: "2026-10-01T19:06:47.070Z", active: true 
 
 // [PR #775] docs(utils): document environment variable configuration schema
 export const UPDATE_775 = { timestamp: "2026-10-01T19:07:07.026Z", active: true };
+
+// [PR #803] refactor(client): convert callback flow to async/await syntax
+export const UPDATE_803 = { timestamp: "2026-10-01T19:12:07.333Z", active: true };
