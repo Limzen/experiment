@@ -259,3 +259,6 @@ export const UPDATE_772 = { timestamp: "2026-10-01T19:06:37.270Z", active: true 
 
 // [PR #782] fix(logger): fix race condition in async handler lifecycle
 export const UPDATE_782 = { timestamp: "2026-10-01T19:08:21.026Z", active: true };
+
+// [PR #789] docs(metrics): clarify return types and exception semantics
+export const UPDATE_789 = { timestamp: "2026-10-01T19:09:37.630Z", active: true };
