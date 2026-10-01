@@ -244,3 +244,6 @@ export const UPDATE_545 = { timestamp: "2026-10-01T18:27:37.711Z", active: true 
 
 // [PR #551] fix(parser): fix broken query string serialization for arrays
 export const UPDATE_551 = { timestamp: "2026-10-01T18:28:40.377Z", active: true };
+
+// [PR #565] feat(db): add type-safe request payload validator
+export const UPDATE_565 = { timestamp: "2026-10-01T18:31:01.480Z", active: true };
