@@ -184,3 +184,6 @@ export const UPDATE_419 = { timestamp: "2026-10-01T18:06:09.903Z", active: true 
 
 // [PR #442] feat(config): optimize query with indexed fields
 export const UPDATE_442 = { timestamp: "2026-10-01T18:10:05.733Z", active: true };
+
+// [PR #444] docs(worker): clarify return types and exception semantics
+export const UPDATE_444 = { timestamp: "2026-10-01T18:10:26.985Z", active: true };
