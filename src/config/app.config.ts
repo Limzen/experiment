@@ -46,3 +46,6 @@ export const UPDATE_123 = { timestamp: "2026-10-01T17:15:48.876Z", active: true 
 
 // [PR #129] docs(client): document environment variable configuration schema
 export const UPDATE_129 = { timestamp: "2026-10-01T17:16:48.122Z", active: true };
+
+// [PR #146] perf(cache): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_146 = { timestamp: "2026-10-01T17:19:38.225Z", active: true };
