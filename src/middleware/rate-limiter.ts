@@ -175,3 +175,6 @@ export const UPDATE_581 = { timestamp: "2026-10-01T18:33:41.316Z", active: true 
 
 // [PR #588] refactor(worker): convert callback flow to async/await syntax
 export const UPDATE_588 = { timestamp: "2026-10-01T18:34:50.092Z", active: true };
+
+// [PR #593] feat(service): support async stream piping for large responses
+export const UPDATE_593 = { timestamp: "2026-10-01T18:35:41.114Z", active: true };
