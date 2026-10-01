@@ -250,3 +250,6 @@ export const UPDATE_681 = { timestamp: "2026-10-01T18:50:50.292Z", active: true 
 
 // [PR #686] feat(core): add type-safe request payload validator
 export const UPDATE_686 = { timestamp: "2026-10-01T18:51:42.498Z", active: true };
+
+// [PR #692] fix(crypto): correct status code on validation failure
+export const UPDATE_692 = { timestamp: "2026-10-01T18:52:44.477Z", active: true };
