@@ -310,3 +310,6 @@ export const UPDATE_961 = { timestamp: "2026-10-01T19:39:35.193Z", active: true 
 
 // [PR #964] fix(middleware): resolve memory leak in event listener cleanup
 export const UPDATE_964 = { timestamp: "2026-10-01T19:40:06.309Z", active: true };
+
+// [PR #967] refactor(router): simplify conditional branching logic
+export const UPDATE_967 = { timestamp: "2026-10-01T19:40:36.398Z", active: true };
