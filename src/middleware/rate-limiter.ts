@@ -223,3 +223,6 @@ export const UPDATE_736 = { timestamp: "2026-10-01T19:00:18.881Z", active: true 
 
 // [PR #744] test(crypto): verify schema validation against corrupted payloads
 export const UPDATE_744 = { timestamp: "2026-10-01T19:01:40.918Z", active: true };
+
+// [PR #745] fix(validator): resolve memory leak in event listener cleanup
+export const UPDATE_745 = { timestamp: "2026-10-01T19:01:50.498Z", active: true };
