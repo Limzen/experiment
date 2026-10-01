@@ -301,3 +301,6 @@ export const UPDATE_857 = { timestamp: "2026-10-01T19:21:28.123Z", active: true 
 
 // [PR #862] perf(api): reduce memory allocation during startup cycle
 export const UPDATE_862 = { timestamp: "2026-10-01T19:22:18.333Z", active: true };
+
+// [PR #868] docs(client): clarify return types and exception semantics
+export const UPDATE_868 = { timestamp: "2026-10-01T19:23:21.526Z", active: true };
