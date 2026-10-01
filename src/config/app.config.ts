@@ -268,3 +268,6 @@ export const UPDATE_716 = { timestamp: "2026-10-01T18:56:50.234Z", active: true 
 
 // [PR #718] fix(auth): fix broken query string serialization for arrays
 export const UPDATE_718 = { timestamp: "2026-10-01T18:57:10.286Z", active: true };
+
+// [PR #728] feat(router): normalize error response schema across endpoints
+export const UPDATE_728 = { timestamp: "2026-10-01T18:58:54.119Z", active: true };
