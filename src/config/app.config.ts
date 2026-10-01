@@ -136,3 +136,6 @@ export const UPDATE_308 = { timestamp: "2026-10-01T17:46:52.163Z", active: true 
 
 // [PR #311] feat(worker): implement graceful degradation fallback
 export const UPDATE_311 = { timestamp: "2026-10-01T17:47:22.551Z", active: true };
+
+// [PR #321] fix(worker): fix broken query string serialization for arrays
+export const UPDATE_321 = { timestamp: "2026-10-01T17:49:03.825Z", active: true };
