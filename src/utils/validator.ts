@@ -280,3 +280,6 @@ export const UPDATE_787 = { timestamp: "2026-10-01T19:09:13.833Z", active: true 
 
 // [PR #810] feat(config): normalize error response schema across endpoints
 export const UPDATE_810 = { timestamp: "2026-10-01T19:13:21.534Z", active: true };
+
+// [PR #823] perf(api): cache compiled json schema validators
+export const UPDATE_823 = { timestamp: "2026-10-01T19:15:35.712Z", active: true };
