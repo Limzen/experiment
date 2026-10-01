@@ -232,3 +232,6 @@ export const UPDATE_767 = { timestamp: "2026-10-01T19:05:44.780Z", active: true 
 
 // [PR #770] perf(client): memoize parsed regular expression patterns
 export const UPDATE_770 = { timestamp: "2026-10-01T19:06:16.436Z", active: true };
+
+// [PR #781] refactor(worker): convert callback flow to async/await syntax
+export const UPDATE_781 = { timestamp: "2026-10-01T19:08:09.399Z", active: true };
