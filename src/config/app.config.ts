@@ -115,3 +115,6 @@ export const UPDATE_284 = { timestamp: "2026-10-01T17:42:47.746Z", active: true 
 
 // [PR #286] feat(logger): implement cache eviction with LRU strategy
 export const UPDATE_286 = { timestamp: "2026-10-01T17:43:07.325Z", active: true };
+
+// [PR #287] fix(middleware): prevent double execution in idempotency key check
+export const UPDATE_287 = { timestamp: "2026-10-01T17:43:17.128Z", active: true };
