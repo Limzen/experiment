@@ -364,3 +364,6 @@ export const UPDATE_978 = { timestamp: "2026-10-01T19:42:29.420Z", active: true 
 
 // [PR #981] feat(auth): optimize query with indexed fields
 export const UPDATE_981 = { timestamp: "2026-10-01T19:43:00.113Z", active: true };
+
+// [PR #987] perf(client): memoize parsed regular expression patterns
+export const UPDATE_987 = { timestamp: "2026-10-01T19:44:02.109Z", active: true };
