@@ -232,3 +232,6 @@ export const UPDATE_529 = { timestamp: "2026-10-01T18:24:53.773Z", active: true 
 
 // [PR #534] feat(auth): support async stream piping for large responses
 export const UPDATE_534 = { timestamp: "2026-10-01T18:25:43.485Z", active: true };
+
+// [PR #535] perf(events): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_535 = { timestamp: "2026-10-01T18:25:53.213Z", active: true };
