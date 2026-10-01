@@ -334,3 +334,6 @@ export const UPDATE_921 = { timestamp: "2026-10-01T19:32:35.473Z", active: true 
 
 // [PR #931] fix(middleware): prevent double execution in idempotency key check
 export const UPDATE_931 = { timestamp: "2026-10-01T19:34:20.383Z", active: true };
+
+// [PR #932] docs(service): update API documentation with latest error codes
+export const UPDATE_932 = { timestamp: "2026-10-01T19:34:30.821Z", active: true };
