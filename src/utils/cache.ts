@@ -250,3 +250,6 @@ export const UPDATE_740 = { timestamp: "2026-10-01T19:00:59.648Z", active: true 
 
 // [PR #758] feat(parser): add batch processing for background tasks
 export const UPDATE_758 = { timestamp: "2026-10-01T19:04:07.155Z", active: true };
+
+// [PR #765] docs(utils): update API documentation with latest error codes
+export const UPDATE_765 = { timestamp: "2026-10-01T19:05:22.870Z", active: true };
