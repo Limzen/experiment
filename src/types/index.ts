@@ -130,3 +130,6 @@ export const UPDATE_456 = { timestamp: "2026-10-01T18:12:26.261Z", active: true 
 
 // [PR #460] feat(db): add type-safe request payload validator
 export const UPDATE_460 = { timestamp: "2026-10-01T18:13:05.178Z", active: true };
+
+// [PR #493] perf(cache): reduce memory allocation during startup cycle
+export const UPDATE_493 = { timestamp: "2026-10-01T18:18:34.832Z", active: true };
