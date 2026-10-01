@@ -103,3 +103,6 @@ export const UPDATE_314 = { timestamp: "2026-10-01T17:47:53.004Z", active: true 
 
 // [PR #318] refactor(parser): simplify conditional branching logic
 export const UPDATE_318 = { timestamp: "2026-10-01T17:48:33.689Z", active: true };
+
+// [PR #320] feat(core): implement cache eviction with LRU strategy
+export const UPDATE_320 = { timestamp: "2026-10-01T17:48:53.971Z", active: true };
