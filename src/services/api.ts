@@ -343,3 +343,6 @@ export const UPDATE_986 = { timestamp: "2026-10-01T19:43:52.487Z", active: true 
 
 // [PR #998] fix(metrics): prevent unhandled rejection on socket timeout
 export const UPDATE_998 = { timestamp: "2026-10-01T19:45:56.902Z", active: true };
+
+// [PR #999] fix(storage): fix timezone offset discrepancy in date parser
+export const UPDATE_999 = { timestamp: "2026-10-01T19:46:09.517Z", active: true };
