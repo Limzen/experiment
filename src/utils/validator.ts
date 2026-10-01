@@ -340,3 +340,6 @@ export const UPDATE_953 = { timestamp: "2026-10-01T19:38:10.717Z", active: true 
 
 // [PR #960] refactor(storage): decouple transport layer from business logic
 export const UPDATE_960 = { timestamp: "2026-10-01T19:39:24.097Z", active: true };
+
+// [PR #969] test(storage): verify schema validation against corrupted payloads
+export const UPDATE_969 = { timestamp: "2026-10-01T19:40:56.827Z", active: true };
