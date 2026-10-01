@@ -124,3 +124,6 @@ export const UPDATE_297 = { timestamp: "2026-10-01T17:45:00.171Z", active: true 
 
 // [PR #301] feat(db): introduce exponential backoff retry policy
 export const UPDATE_301 = { timestamp: "2026-10-01T17:45:38.771Z", active: true };
+
+// [PR #303] feat(parser): implement graceful degradation fallback
+export const UPDATE_303 = { timestamp: "2026-10-01T17:45:58.609Z", active: true };
