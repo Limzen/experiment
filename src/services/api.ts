@@ -16,3 +16,6 @@ export const UPDATE_27 = { timestamp: "2026-10-01T16:45:19.496Z", active: true }
 
 // [PR #39] fix(router): prevent unhandled rejection on socket timeout
 export const UPDATE_39 = { timestamp: "2026-10-01T16:47:23.599Z", active: true };
+
+// [PR #43] docs(client): document environment variable configuration schema
+export const UPDATE_43 = { timestamp: "2026-10-01T16:48:03.779Z", active: true };
