@@ -145,3 +145,6 @@ export const UPDATE_351 = { timestamp: "2026-10-01T17:54:10.074Z", active: true 
 
 // [PR #370] docs(worker): update API documentation with latest error codes
 export const UPDATE_370 = { timestamp: "2026-10-01T17:57:26.944Z", active: true };
+
+// [PR #394] fix(db): correct status code on validation failure
+export const UPDATE_394 = { timestamp: "2026-10-01T18:01:42.076Z", active: true };
