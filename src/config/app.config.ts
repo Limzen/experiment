@@ -373,3 +373,6 @@ export const UPDATE_1004 = { timestamp: "2026-10-01T19:47:01.882Z", active: true
 
 // [PR #1006] docs(service): document environment variable configuration schema
 export const UPDATE_1006 = { timestamp: "2026-10-01T19:47:22.634Z", active: true };
+
+// [PR #1010] fix(config): correct status code on validation failure
+export const UPDATE_1010 = { timestamp: "2026-10-01T19:48:04.193Z", active: true };
