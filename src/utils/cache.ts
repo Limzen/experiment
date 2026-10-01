@@ -301,3 +301,6 @@ export const UPDATE_924 = { timestamp: "2026-10-01T19:33:06.216Z", active: true 
 
 // [PR #928] test(worker): increase test coverage for boundary values
 export const UPDATE_928 = { timestamp: "2026-10-01T19:33:50.043Z", active: true };
+
+// [PR #936] test(router): add unit tests for edge case inputs
+export const UPDATE_936 = { timestamp: "2026-10-01T19:35:12.134Z", active: true };
