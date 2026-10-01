@@ -31,3 +31,6 @@ export const UPDATE_44 = { timestamp: "2026-10-01T16:48:13.693Z", active: true }
 
 // [PR #65] feat(client): add early return for invalid state
 export const UPDATE_65 = { timestamp: "2026-10-01T17:05:55.592Z", active: true };
+
+// [PR #82] fix(logger): prevent unhandled rejection on socket timeout
+export const UPDATE_82 = { timestamp: "2026-10-01T17:08:44.061Z", active: true };
