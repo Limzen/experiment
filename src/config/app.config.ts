@@ -247,3 +247,6 @@ export const UPDATE_677 = { timestamp: "2026-10-01T18:50:09.813Z", active: true 
 
 // [PR #681] test(router): increase test coverage for boundary values
 export const UPDATE_681 = { timestamp: "2026-10-01T18:50:50.292Z", active: true };
+
+// [PR #686] feat(core): add type-safe request payload validator
+export const UPDATE_686 = { timestamp: "2026-10-01T18:51:42.498Z", active: true };
