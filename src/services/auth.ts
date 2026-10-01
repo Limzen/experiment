@@ -259,3 +259,6 @@ export const UPDATE_592 = { timestamp: "2026-10-01T18:35:30.608Z", active: true 
 
 // [PR #604] test(config): increase test coverage for boundary values
 export const UPDATE_604 = { timestamp: "2026-10-01T18:37:34.396Z", active: true };
+
+// [PR #617] test(router): add mock handler for downstream service timeouts
+export const UPDATE_617 = { timestamp: "2026-10-01T18:39:48.892Z", active: true };
