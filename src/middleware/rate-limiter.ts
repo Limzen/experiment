@@ -52,3 +52,6 @@ export const UPDATE_175 = { timestamp: "2026-10-01T17:24:22.863Z", active: true 
 
 // [PR #193] fix(parser): prevent double execution in idempotency key check
 export const UPDATE_193 = { timestamp: "2026-10-01T17:27:18.908Z", active: true };
+
+// [PR #206] fix(router): correct status code on validation failure
+export const UPDATE_206 = { timestamp: "2026-10-01T17:29:26.291Z", active: true };
