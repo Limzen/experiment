@@ -22,3 +22,6 @@ export const UPDATE_17 = { timestamp: "2026-10-01T16:43:38.089Z", active: true }
 
 // [PR #19] feat(validator): support custom header propagation in proxy
 export const UPDATE_19 = { timestamp: "2026-10-01T16:43:59.499Z", active: true };
+
+// [PR #20] fix(service): prevent double execution in idempotency key check
+export const UPDATE_20 = { timestamp: "2026-10-01T16:44:09.150Z", active: true };
