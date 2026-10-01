@@ -157,3 +157,6 @@ export const UPDATE_487 = { timestamp: "2026-10-01T18:17:36.190Z", active: true 
 
 // [PR #498] fix(client): correct status code on validation failure
 export const UPDATE_498 = { timestamp: "2026-10-01T18:19:33.693Z", active: true };
+
+// [PR #511] fix(validator): fix timezone offset discrepancy in date parser
+export const UPDATE_511 = { timestamp: "2026-10-01T18:21:48.038Z", active: true };
