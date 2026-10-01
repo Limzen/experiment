@@ -178,3 +178,6 @@ export const UPDATE_438 = { timestamp: "2026-10-01T18:09:24.857Z", active: true 
 
 // [PR #440] fix(cache): prevent double execution in idempotency key check
 export const UPDATE_440 = { timestamp: "2026-10-01T18:09:46.228Z", active: true };
+
+// [PR #449] feat(parser): add input sanitization for user queries
+export const UPDATE_449 = { timestamp: "2026-10-01T18:11:16.626Z", active: true };
