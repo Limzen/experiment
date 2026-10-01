@@ -196,3 +196,6 @@ export const UPDATE_559 = { timestamp: "2026-10-01T18:30:01.978Z", active: true 
 
 // [PR #564] feat(service): add type-safe request payload validator
 export const UPDATE_564 = { timestamp: "2026-10-01T18:30:51.580Z", active: true };
+
+// [PR #566] docs(worker): clarify return types and exception semantics
+export const UPDATE_566 = { timestamp: "2026-10-01T18:31:11.026Z", active: true };
