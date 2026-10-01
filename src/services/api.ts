@@ -244,3 +244,6 @@ export const UPDATE_646 = { timestamp: "2026-10-01T18:44:54.195Z", active: true 
 
 // [PR #654] style(cache): standardize log message formatting across services
 export const UPDATE_654 = { timestamp: "2026-10-01T18:46:16.343Z", active: true };
+
+// [PR #657] refactor(parser): extract reusable helper function into utils
+export const UPDATE_657 = { timestamp: "2026-10-01T18:46:46.046Z", active: true };
