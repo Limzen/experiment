@@ -139,3 +139,6 @@ export const UPDATE_384 = { timestamp: "2026-10-01T17:59:52.720Z", active: true 
 
 // [PR #387] test(api): verify schema validation against corrupted payloads
 export const UPDATE_387 = { timestamp: "2026-10-01T18:00:27.122Z", active: true };
+
+// [PR #402] docs(parser): add JSDoc annotations for public helper methods
+export const UPDATE_402 = { timestamp: "2026-10-01T18:03:08.599Z", active: true };
