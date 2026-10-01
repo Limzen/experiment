@@ -28,3 +28,6 @@ export const UPDATE_59 = { timestamp: "2026-10-01T17:04:54.961Z", active: true }
 
 // [PR #62] docs(cache): clarify return types and exception semantics
 export const UPDATE_62 = { timestamp: "2026-10-01T17:05:26.455Z", active: true };
+
+// [PR #64] docs(parser): update API documentation with latest error codes
+export const UPDATE_64 = { timestamp: "2026-10-01T17:05:45.579Z", active: true };
