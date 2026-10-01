@@ -115,3 +115,6 @@ export const UPDATE_231 = { timestamp: "2026-10-01T17:33:38.105Z", active: true 
 
 // [PR #255] fix(storage): resolve null reference in edge case payload
 export const UPDATE_255 = { timestamp: "2026-10-01T17:37:52.013Z", active: true };
+
+// [PR #275] fix(metrics): prevent double execution in idempotency key check
+export const UPDATE_275 = { timestamp: "2026-10-01T17:41:14.933Z", active: true };
