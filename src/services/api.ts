@@ -52,3 +52,6 @@ export const UPDATE_122 = { timestamp: "2026-10-01T17:15:39.117Z", active: true 
 
 // [PR #128] fix(cache): prevent unhandled rejection on socket timeout
 export const UPDATE_128 = { timestamp: "2026-10-01T17:16:38.223Z", active: true };
+
+// [PR #150] fix(auth): handle empty collection gracefully without throwing
+export const UPDATE_150 = { timestamp: "2026-10-01T17:20:16.114Z", active: true };
