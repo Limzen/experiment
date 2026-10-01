@@ -205,3 +205,6 @@ export const UPDATE_558 = { timestamp: "2026-10-01T18:29:52.862Z", active: true 
 
 // [PR #572] refactor(client): extract reusable helper function into utils
 export const UPDATE_572 = { timestamp: "2026-10-01T18:32:11.449Z", active: true };
+
+// [PR #577] docs(client): add JSDoc annotations for public helper methods
+export const UPDATE_577 = { timestamp: "2026-10-01T18:33:01.667Z", active: true };
