@@ -199,3 +199,6 @@ export const UPDATE_586 = { timestamp: "2026-10-01T18:34:31.285Z", active: true 
 
 // [PR #601] fix(middleware): resolve memory leak in event listener cleanup
 export const UPDATE_601 = { timestamp: "2026-10-01T18:37:03.418Z", active: true };
+
+// [PR #608] test(validator): verify schema validation against corrupted payloads
+export const UPDATE_608 = { timestamp: "2026-10-01T18:38:15.992Z", active: true };
