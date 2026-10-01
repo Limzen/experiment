@@ -199,3 +199,6 @@ export const UPDATE_569 = { timestamp: "2026-10-01T18:31:41.176Z", active: true 
 
 // [PR #582] docs(events): document environment variable configuration schema
 export const UPDATE_582 = { timestamp: "2026-10-01T18:33:51.543Z", active: true };
+
+// [PR #585] docs(service): clarify return types and exception semantics
+export const UPDATE_585 = { timestamp: "2026-10-01T18:34:21.436Z", active: true };
