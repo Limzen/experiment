@@ -325,3 +325,6 @@ export const UPDATE_864 = { timestamp: "2026-10-01T19:22:41.185Z", active: true 
 
 // [PR #867] perf(router): cache compiled json schema validators
 export const UPDATE_867 = { timestamp: "2026-10-01T19:23:11.493Z", active: true };
+
+// [PR #870] test(core): verify schema validation against corrupted payloads
+export const UPDATE_870 = { timestamp: "2026-10-01T19:23:41.577Z", active: true };
