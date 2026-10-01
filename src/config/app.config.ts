@@ -127,3 +127,6 @@ export const UPDATE_301 = { timestamp: "2026-10-01T17:45:38.771Z", active: true 
 
 // [PR #303] feat(parser): implement graceful degradation fallback
 export const UPDATE_303 = { timestamp: "2026-10-01T17:45:58.609Z", active: true };
+
+// [PR #305] feat(worker): implement cache eviction with LRU strategy
+export const UPDATE_305 = { timestamp: "2026-10-01T17:46:22.257Z", active: true };
