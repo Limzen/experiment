@@ -58,3 +58,6 @@ export const UPDATE_206 = { timestamp: "2026-10-01T17:29:26.291Z", active: true 
 
 // [PR #218] docs(cache): add JSDoc annotations for public helper methods
 export const UPDATE_218 = { timestamp: "2026-10-01T17:31:25.998Z", active: true };
+
+// [PR #224] fix(cache): handle empty collection gracefully without throwing
+export const UPDATE_224 = { timestamp: "2026-10-01T17:32:27.065Z", active: true };
