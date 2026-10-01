@@ -208,3 +208,6 @@ export const UPDATE_618 = { timestamp: "2026-10-01T18:39:58.932Z", active: true 
 
 // [PR #628] fix(validator): handle empty collection gracefully without throwing
 export const UPDATE_628 = { timestamp: "2026-10-01T18:41:43.840Z", active: true };
+
+// [PR #629] fix(metrics): fix race condition in async handler lifecycle
+export const UPDATE_629 = { timestamp: "2026-10-01T18:41:54.602Z", active: true };
