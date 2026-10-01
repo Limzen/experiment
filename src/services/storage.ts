@@ -52,3 +52,6 @@ export const UPDATE_141 = { timestamp: "2026-10-01T17:18:49.501Z", active: true 
 
 // [PR #144] fix(service): prevent unhandled rejection on socket timeout
 export const UPDATE_144 = { timestamp: "2026-10-01T17:19:18.453Z", active: true };
+
+// [PR #152] fix(crypto): correct status code on validation failure
+export const UPDATE_152 = { timestamp: "2026-10-01T17:20:36.184Z", active: true };
