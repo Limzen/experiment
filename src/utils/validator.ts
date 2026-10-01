@@ -253,3 +253,6 @@ export const UPDATE_685 = { timestamp: "2026-10-01T18:51:31.159Z", active: true 
 
 // [PR #690] feat(parser): optimize query with indexed fields
 export const UPDATE_690 = { timestamp: "2026-10-01T18:52:23.960Z", active: true };
+
+// [PR #704] feat(db): normalize error response schema across endpoints
+export const UPDATE_704 = { timestamp: "2026-10-01T18:54:46.328Z", active: true };
