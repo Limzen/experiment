@@ -43,3 +43,6 @@ export const UPDATE_120 = { timestamp: "2026-10-01T17:15:20.104Z", active: true 
 
 // [PR #123] feat(crypto): add early return for invalid state
 export const UPDATE_123 = { timestamp: "2026-10-01T17:15:48.876Z", active: true };
+
+// [PR #129] docs(client): document environment variable configuration schema
+export const UPDATE_129 = { timestamp: "2026-10-01T17:16:48.122Z", active: true };
