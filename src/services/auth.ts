@@ -109,3 +109,6 @@ export const UPDATE_221 = { timestamp: "2026-10-01T17:31:58.258Z", active: true 
 
 // [PR #229] perf(config): reduce redundant database roundtrips on bulk fetch
 export const UPDATE_229 = { timestamp: "2026-10-01T17:33:15.959Z", active: true };
+
+// [PR #231] fix(crypto): correct status code on validation failure
+export const UPDATE_231 = { timestamp: "2026-10-01T17:33:38.105Z", active: true };
