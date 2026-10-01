@@ -190,3 +190,6 @@ export const UPDATE_444 = { timestamp: "2026-10-01T18:10:26.985Z", active: true 
 
 // [PR #450] fix(storage): prevent unhandled rejection on socket timeout
 export const UPDATE_450 = { timestamp: "2026-10-01T18:11:26.093Z", active: true };
+
+// [PR #463] fix(client): handle empty collection gracefully without throwing
+export const UPDATE_463 = { timestamp: "2026-10-01T18:13:36.085Z", active: true };
