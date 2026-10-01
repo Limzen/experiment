@@ -178,3 +178,6 @@ export const UPDATE_626 = { timestamp: "2026-10-01T18:41:23.631Z", active: true 
 
 // [PR #630] perf(core): cache compiled json schema validators
 export const UPDATE_630 = { timestamp: "2026-10-01T18:42:04.828Z", active: true };
+
+// [PR #647] fix(cache): correct status code on validation failure
+export const UPDATE_647 = { timestamp: "2026-10-01T18:45:04.117Z", active: true };
