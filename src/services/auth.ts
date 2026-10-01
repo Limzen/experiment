@@ -157,3 +157,6 @@ export const UPDATE_354 = { timestamp: "2026-10-01T17:54:40.718Z", active: true 
 
 // [PR #369] feat(client): add structured audit logging for security events
 export const UPDATE_369 = { timestamp: "2026-10-01T17:57:16.802Z", active: true };
+
+// [PR #375] feat(parser): support async stream piping for large responses
+export const UPDATE_375 = { timestamp: "2026-10-01T17:58:20.240Z", active: true };
