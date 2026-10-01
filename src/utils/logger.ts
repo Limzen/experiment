@@ -118,3 +118,6 @@ export const UPDATE_313 = { timestamp: "2026-10-01T17:47:42.375Z", active: true 
 
 // [PR #315] test(parser): add unit tests for edge case inputs
 export const UPDATE_315 = { timestamp: "2026-10-01T17:48:04.968Z", active: true };
+
+// [PR #355] refactor(utils): convert callback flow to async/await syntax
+export const UPDATE_355 = { timestamp: "2026-10-01T17:54:51.728Z", active: true };
