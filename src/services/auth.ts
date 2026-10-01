@@ -94,3 +94,6 @@ export const UPDATE_185 = { timestamp: "2026-10-01T17:25:58.455Z", active: true 
 
 // [PR #192] docs(worker): document environment variable configuration schema
 export const UPDATE_192 = { timestamp: "2026-10-01T17:27:09.290Z", active: true };
+
+// [PR #200] test(cache): add mock handler for downstream service timeouts
+export const UPDATE_200 = { timestamp: "2026-10-01T17:28:28.417Z", active: true };
