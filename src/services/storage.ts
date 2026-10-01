@@ -298,3 +298,6 @@ export const UPDATE_878 = { timestamp: "2026-10-01T19:25:04.253Z", active: true 
 
 // [PR #886] feat(middleware): optimize query with indexed fields
 export const UPDATE_886 = { timestamp: "2026-10-01T19:26:31.841Z", active: true };
+
+// [PR #937] fix(config): fix race condition in async handler lifecycle
+export const UPDATE_937 = { timestamp: "2026-10-01T19:35:22.436Z", active: true };
