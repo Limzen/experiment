@@ -205,3 +205,6 @@ export const UPDATE_560 = { timestamp: "2026-10-01T18:30:12.119Z", active: true 
 
 // [PR #561] fix(router): fix timezone offset discrepancy in date parser
 export const UPDATE_561 = { timestamp: "2026-10-01T18:30:21.963Z", active: true };
+
+// [PR #563] feat(metrics): add input sanitization for user queries
+export const UPDATE_563 = { timestamp: "2026-10-01T18:30:42.024Z", active: true };
