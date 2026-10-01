@@ -316,3 +316,6 @@ export const UPDATE_967 = { timestamp: "2026-10-01T19:40:36.398Z", active: true 
 
 // [PR #974] fix(crypto): fix race condition in async handler lifecycle
 export const UPDATE_974 = { timestamp: "2026-10-01T19:41:48.089Z", active: true };
+
+// [PR #975] docs(api): update API documentation with latest error codes
+export const UPDATE_975 = { timestamp: "2026-10-01T19:41:58.023Z", active: true };
