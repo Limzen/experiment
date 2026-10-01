@@ -184,3 +184,6 @@ export const UPDATE_449 = { timestamp: "2026-10-01T18:11:16.626Z", active: true 
 
 // [PR #465] feat(worker): support async stream piping for large responses
 export const UPDATE_465 = { timestamp: "2026-10-01T18:13:55.148Z", active: true };
+
+// [PR #473] perf(cache): reduce memory allocation during startup cycle
+export const UPDATE_473 = { timestamp: "2026-10-01T18:15:15.331Z", active: true };
