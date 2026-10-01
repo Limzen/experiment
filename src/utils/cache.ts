@@ -262,3 +262,6 @@ export const UPDATE_777 = { timestamp: "2026-10-01T19:07:28.358Z", active: true 
 
 // [PR #778] fix(auth): fix race condition in async handler lifecycle
 export const UPDATE_778 = { timestamp: "2026-10-01T19:07:39.227Z", active: true };
+
+// [PR #791] docs(events): add JSDoc annotations for public helper methods
+export const UPDATE_791 = { timestamp: "2026-10-01T19:09:57.207Z", active: true };
