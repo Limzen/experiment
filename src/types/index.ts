@@ -202,3 +202,6 @@ export const UPDATE_691 = { timestamp: "2026-10-01T18:52:34.427Z", active: true 
 
 // [PR #693] perf(core): memoize parsed regular expression patterns
 export const UPDATE_693 = { timestamp: "2026-10-01T18:52:54.728Z", active: true };
+
+// [PR #696] fix(events): correct status code on validation failure
+export const UPDATE_696 = { timestamp: "2026-10-01T18:53:25.865Z", active: true };
