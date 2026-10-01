@@ -235,3 +235,6 @@ export const UPDATE_770 = { timestamp: "2026-10-01T19:06:16.436Z", active: true 
 
 // [PR #781] refactor(worker): convert callback flow to async/await syntax
 export const UPDATE_781 = { timestamp: "2026-10-01T19:08:09.399Z", active: true };
+
+// [PR #785] fix(router): handle empty collection gracefully without throwing
+export const UPDATE_785 = { timestamp: "2026-10-01T19:08:53.310Z", active: true };
