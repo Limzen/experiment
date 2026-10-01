@@ -289,3 +289,6 @@ export const UPDATE_701 = { timestamp: "2026-10-01T18:54:16.798Z", active: true 
 
 // [PR #702] refactor(parser): consolidate duplicated validation routines
 export const UPDATE_702 = { timestamp: "2026-10-01T18:54:26.624Z", active: true };
+
+// [PR #707] feat(core): add early return for invalid state
+export const UPDATE_707 = { timestamp: "2026-10-01T18:55:17.937Z", active: true };
