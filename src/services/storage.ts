@@ -205,3 +205,6 @@ export const UPDATE_585 = { timestamp: "2026-10-01T18:34:21.436Z", active: true 
 
 // [PR #594] feat(validator): implement cache eviction with LRU strategy
 export const UPDATE_594 = { timestamp: "2026-10-01T18:35:51.448Z", active: true };
+
+// [PR #609] test(events): verify schema validation against corrupted payloads
+export const UPDATE_609 = { timestamp: "2026-10-01T18:38:26.075Z", active: true };
