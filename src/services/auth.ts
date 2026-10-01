@@ -16,3 +16,6 @@ export const UPDATE_5 = { timestamp: "2026-10-01T16:41:31.267Z", active: true };
 
 // [PR #15] feat(auth): add type-safe request payload validator
 export const UPDATE_15 = { timestamp: "2026-10-01T16:43:17.027Z", active: true };
+
+// [PR #17] refactor(client): extract reusable helper function into utils
+export const UPDATE_17 = { timestamp: "2026-10-01T16:43:38.089Z", active: true };
