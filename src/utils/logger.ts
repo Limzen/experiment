@@ -346,3 +346,6 @@ export const UPDATE_949 = { timestamp: "2026-10-01T19:37:27.652Z", active: true 
 
 // [PR #972] feat(utils): support custom header propagation in proxy
 export const UPDATE_972 = { timestamp: "2026-10-01T19:41:27.151Z", active: true };
+
+// [PR #979] docs(db): add JSDoc annotations for public helper methods
+export const UPDATE_979 = { timestamp: "2026-10-01T19:42:39.712Z", active: true };
