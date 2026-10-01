@@ -268,3 +268,6 @@ export const UPDATE_746 = { timestamp: "2026-10-01T19:02:00.179Z", active: true 
 
 // [PR #773] docs(cache): add JSDoc annotations for public helper methods
 export const UPDATE_773 = { timestamp: "2026-10-01T19:06:47.070Z", active: true };
+
+// [PR #775] docs(utils): document environment variable configuration schema
+export const UPDATE_775 = { timestamp: "2026-10-01T19:07:07.026Z", active: true };
