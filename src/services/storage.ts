@@ -280,3 +280,6 @@ export const UPDATE_836 = { timestamp: "2026-10-01T19:17:50.400Z", active: true 
 
 // [PR #839] fix(api): fix broken query string serialization for arrays
 export const UPDATE_839 = { timestamp: "2026-10-01T19:18:20.318Z", active: true };
+
+// [PR #840] fix(parser): correct status code on validation failure
+export const UPDATE_840 = { timestamp: "2026-10-01T19:18:30.202Z", active: true };
