@@ -115,3 +115,6 @@ export const UPDATE_335 = { timestamp: "2026-10-01T17:51:27.739Z", active: true 
 
 // [PR #341] test(events): increase test coverage for boundary values
 export const UPDATE_341 = { timestamp: "2026-10-01T17:52:29.806Z", active: true };
+
+// [PR #343] docs(logger): clarify return types and exception semantics
+export const UPDATE_343 = { timestamp: "2026-10-01T17:52:50.245Z", active: true };
