@@ -118,3 +118,6 @@ export const UPDATE_341 = { timestamp: "2026-10-01T17:52:29.806Z", active: true 
 
 // [PR #343] docs(logger): clarify return types and exception semantics
 export const UPDATE_343 = { timestamp: "2026-10-01T17:52:50.245Z", active: true };
+
+// [PR #352] feat(middleware): support custom header propagation in proxy
+export const UPDATE_352 = { timestamp: "2026-10-01T17:54:20.549Z", active: true };
