@@ -217,3 +217,6 @@ export const UPDATE_621 = { timestamp: "2026-10-01T18:40:31.421Z", active: true 
 
 // [PR #664] docs(router): clarify return types and exception semantics
 export const UPDATE_664 = { timestamp: "2026-10-01T18:47:56.098Z", active: true };
+
+// [PR #665] fix(worker): prevent double execution in idempotency key check
+export const UPDATE_665 = { timestamp: "2026-10-01T18:48:06.781Z", active: true };
