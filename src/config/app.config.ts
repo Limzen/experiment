@@ -91,3 +91,6 @@ export const UPDATE_219 = { timestamp: "2026-10-01T17:31:36.923Z", active: true 
 
 // [PR #242] test(parser): verify schema validation against corrupted payloads
 export const UPDATE_242 = { timestamp: "2026-10-01T17:35:30.657Z", active: true };
+
+// [PR #253] fix(config): correct status code on validation failure
+export const UPDATE_253 = { timestamp: "2026-10-01T17:37:32.845Z", active: true };
