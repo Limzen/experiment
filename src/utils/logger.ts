@@ -262,3 +262,6 @@ export const UPDATE_782 = { timestamp: "2026-10-01T19:08:21.026Z", active: true 
 
 // [PR #789] docs(metrics): clarify return types and exception semantics
 export const UPDATE_789 = { timestamp: "2026-10-01T19:09:37.630Z", active: true };
+
+// [PR #797] fix(validator): resolve memory leak in event listener cleanup
+export const UPDATE_797 = { timestamp: "2026-10-01T19:11:03.464Z", active: true };
