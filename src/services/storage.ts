@@ -286,3 +286,6 @@ export const UPDATE_840 = { timestamp: "2026-10-01T19:18:30.202Z", active: true 
 
 // [PR #845] fix(auth): resolve null reference in edge case payload
 export const UPDATE_845 = { timestamp: "2026-10-01T19:19:22.185Z", active: true };
+
+// [PR #856] docs(middleware): add JSDoc annotations for public helper methods
+export const UPDATE_856 = { timestamp: "2026-10-01T19:21:17.888Z", active: true };
