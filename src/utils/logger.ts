@@ -52,3 +52,6 @@ export const UPDATE_124 = { timestamp: "2026-10-01T17:15:58.624Z", active: true 
 
 // [PR #125] fix(api): fix race condition in async handler lifecycle
 export const UPDATE_125 = { timestamp: "2026-10-01T17:16:08.630Z", active: true };
+
+// [PR #132] perf(parser): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_132 = { timestamp: "2026-10-01T17:17:20.066Z", active: true };
