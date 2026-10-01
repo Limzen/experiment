@@ -178,3 +178,6 @@ export const UPDATE_528 = { timestamp: "2026-10-01T18:24:41.481Z", active: true 
 
 // [PR #531] feat(metrics): add type-safe request payload validator
 export const UPDATE_531 = { timestamp: "2026-10-01T18:25:13.096Z", active: true };
+
+// [PR #537] fix(core): prevent unhandled rejection on socket timeout
+export const UPDATE_537 = { timestamp: "2026-10-01T18:26:16.489Z", active: true };
