@@ -265,3 +265,6 @@ export const UPDATE_807 = { timestamp: "2026-10-01T19:12:50.590Z", active: true 
 
 // [PR #820] test(core): verify schema validation against corrupted payloads
 export const UPDATE_820 = { timestamp: "2026-10-01T19:15:03.648Z", active: true };
+
+// [PR #821] feat(cache): introduce exponential backoff retry policy
+export const UPDATE_821 = { timestamp: "2026-10-01T19:15:14.242Z", active: true };
