@@ -151,3 +151,6 @@ export const UPDATE_474 = { timestamp: "2026-10-01T18:15:25.147Z", active: true 
 
 // [PR #475] test(service): add mock handler for downstream service timeouts
 export const UPDATE_475 = { timestamp: "2026-10-01T18:15:35.354Z", active: true };
+
+// [PR #479] refactor(worker): extract reusable helper function into utils
+export const UPDATE_479 = { timestamp: "2026-10-01T18:16:13.113Z", active: true };
