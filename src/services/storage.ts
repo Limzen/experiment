@@ -322,3 +322,6 @@ export const UPDATE_975 = { timestamp: "2026-10-01T19:41:58.023Z", active: true 
 
 // [PR #991] test(events): add unit tests for edge case inputs
 export const UPDATE_991 = { timestamp: "2026-10-01T19:44:43.506Z", active: true };
+
+// [PR #1007] fix(worker): fix broken query string serialization for arrays
+export const UPDATE_1007 = { timestamp: "2026-10-01T19:47:33.326Z", active: true };
