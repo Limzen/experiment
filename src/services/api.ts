@@ -118,3 +118,6 @@ export const UPDATE_329 = { timestamp: "2026-10-01T17:50:26.550Z", active: true 
 
 // [PR #331] perf(storage): memoize parsed regular expression patterns
 export const UPDATE_331 = { timestamp: "2026-10-01T17:50:46.439Z", active: true };
+
+// [PR #347] fix(router): prevent unhandled rejection on socket timeout
+export const UPDATE_347 = { timestamp: "2026-10-01T17:53:29.854Z", active: true };
