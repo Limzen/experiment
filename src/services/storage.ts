@@ -49,3 +49,6 @@ export const UPDATE_126 = { timestamp: "2026-10-01T17:16:18.348Z", active: true 
 
 // [PR #141] docs(parser): add JSDoc annotations for public helper methods
 export const UPDATE_141 = { timestamp: "2026-10-01T17:18:49.501Z", active: true };
+
+// [PR #144] fix(service): prevent unhandled rejection on socket timeout
+export const UPDATE_144 = { timestamp: "2026-10-01T17:19:18.453Z", active: true };
