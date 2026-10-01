@@ -232,3 +232,6 @@ export const UPDATE_676 = { timestamp: "2026-10-01T18:49:59.342Z", active: true 
 
 // [PR #709] fix(core): prevent double execution in idempotency key check
 export const UPDATE_709 = { timestamp: "2026-10-01T18:55:38.714Z", active: true };
+
+// [PR #717] fix(cache): handle empty collection gracefully without throwing
+export const UPDATE_717 = { timestamp: "2026-10-01T18:56:59.838Z", active: true };
