@@ -358,3 +358,6 @@ export const UPDATE_989 = { timestamp: "2026-10-01T19:44:23.231Z", active: true 
 
 // [PR #992] feat(auth): support async stream piping for large responses
 export const UPDATE_992 = { timestamp: "2026-10-01T19:44:53.523Z", active: true };
+
+// [PR #994] fix(core): fix off-by-one error in pagination slice
+export const UPDATE_994 = { timestamp: "2026-10-01T19:45:14.688Z", active: true };
