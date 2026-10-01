@@ -334,3 +334,6 @@ export const UPDATE_905 = { timestamp: "2026-10-01T19:29:47.558Z", active: true 
 
 // [PR #906] feat(crypto): introduce exponential backoff retry policy
 export const UPDATE_906 = { timestamp: "2026-10-01T19:29:57.769Z", active: true };
+
+// [PR #920] test(api): add mock handler for downstream service timeouts
+export const UPDATE_920 = { timestamp: "2026-10-01T19:32:25.322Z", active: true };
