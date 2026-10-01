@@ -148,3 +148,6 @@ export const UPDATE_462 = { timestamp: "2026-10-01T18:13:26.426Z", active: true 
 
 // [PR #474] docs(auth): document environment variable configuration schema
 export const UPDATE_474 = { timestamp: "2026-10-01T18:15:25.147Z", active: true };
+
+// [PR #475] test(service): add mock handler for downstream service timeouts
+export const UPDATE_475 = { timestamp: "2026-10-01T18:15:35.354Z", active: true };
