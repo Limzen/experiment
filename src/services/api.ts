@@ -256,3 +256,6 @@ export const UPDATE_673 = { timestamp: "2026-10-01T18:49:28.784Z", active: true 
 
 // [PR #684] fix(worker): prevent double execution in idempotency key check
 export const UPDATE_684 = { timestamp: "2026-10-01T18:51:21.188Z", active: true };
+
+// [PR #730] fix(validator): fix race condition in async handler lifecycle
+export const UPDATE_730 = { timestamp: "2026-10-01T18:59:13.826Z", active: true };
