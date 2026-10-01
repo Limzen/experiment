@@ -73,3 +73,6 @@ export const UPDATE_197 = { timestamp: "2026-10-01T17:27:57.902Z", active: true 
 
 // [PR #202] feat(router): add type-safe request payload validator
 export const UPDATE_202 = { timestamp: "2026-10-01T17:28:47.715Z", active: true };
+
+// [PR #204] docs(logger): clarify return types and exception semantics
+export const UPDATE_204 = { timestamp: "2026-10-01T17:29:07.451Z", active: true };
