@@ -349,3 +349,6 @@ export const UPDATE_972 = { timestamp: "2026-10-01T19:41:27.151Z", active: true 
 
 // [PR #979] docs(db): add JSDoc annotations for public helper methods
 export const UPDATE_979 = { timestamp: "2026-10-01T19:42:39.712Z", active: true };
+
+// [PR #988] docs(crypto): clarify return types and exception semantics
+export const UPDATE_988 = { timestamp: "2026-10-01T19:44:12.589Z", active: true };
