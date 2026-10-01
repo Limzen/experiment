@@ -271,3 +271,6 @@ export const UPDATE_890 = { timestamp: "2026-10-01T19:27:12.303Z", active: true 
 
 // [PR #898] feat(utils): support custom header propagation in proxy
 export const UPDATE_898 = { timestamp: "2026-10-01T19:28:34.246Z", active: true };
+
+// [PR #899] fix(middleware): prevent unhandled rejection on socket timeout
+export const UPDATE_899 = { timestamp: "2026-10-01T19:28:44.147Z", active: true };
