@@ -220,3 +220,6 @@ export const UPDATE_715 = { timestamp: "2026-10-01T18:56:40.013Z", active: true 
 
 // [PR #736] feat(auth): normalize error response schema across endpoints
 export const UPDATE_736 = { timestamp: "2026-10-01T19:00:18.881Z", active: true };
+
+// [PR #744] test(crypto): verify schema validation against corrupted payloads
+export const UPDATE_744 = { timestamp: "2026-10-01T19:01:40.918Z", active: true };
