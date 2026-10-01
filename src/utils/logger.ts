@@ -112,3 +112,6 @@ export const UPDATE_298 = { timestamp: "2026-10-01T17:45:09.932Z", active: true 
 
 // [PR #299] style(logger): enforce consistent naming conventions for constants
 export const UPDATE_299 = { timestamp: "2026-10-01T17:45:19.335Z", active: true };
+
+// [PR #313] docs(parser): document environment variable configuration schema
+export const UPDATE_313 = { timestamp: "2026-10-01T17:47:42.375Z", active: true };
