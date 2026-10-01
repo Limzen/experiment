@@ -76,3 +76,6 @@ export const UPDATE_250 = { timestamp: "2026-10-01T17:36:49.993Z", active: true 
 
 // [PR #251] refactor(router): decouple transport layer from business logic
 export const UPDATE_251 = { timestamp: "2026-10-01T17:37:10.898Z", active: true };
+
+// [PR #258] test(cache): verify schema validation against corrupted payloads
+export const UPDATE_258 = { timestamp: "2026-10-01T17:38:20.934Z", active: true };
