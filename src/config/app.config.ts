@@ -199,3 +199,6 @@ export const UPDATE_499 = { timestamp: "2026-10-01T18:19:43.792Z", active: true 
 
 // [PR #507] fix(storage): resolve memory leak in event listener cleanup
 export const UPDATE_507 = { timestamp: "2026-10-01T18:21:05.690Z", active: true };
+
+// [PR #558] fix(storage): handle empty collection gracefully without throwing
+export const UPDATE_558 = { timestamp: "2026-10-01T18:29:52.862Z", active: true };
