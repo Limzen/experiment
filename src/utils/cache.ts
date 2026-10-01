@@ -253,3 +253,6 @@ export const UPDATE_758 = { timestamp: "2026-10-01T19:04:07.155Z", active: true 
 
 // [PR #765] docs(utils): update API documentation with latest error codes
 export const UPDATE_765 = { timestamp: "2026-10-01T19:05:22.870Z", active: true };
+
+// [PR #774] docs(middleware): add JSDoc annotations for public helper methods
+export const UPDATE_774 = { timestamp: "2026-10-01T19:06:57.100Z", active: true };
