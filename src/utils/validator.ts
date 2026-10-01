@@ -271,3 +271,6 @@ export const UPDATE_734 = { timestamp: "2026-10-01T18:59:56.208Z", active: true 
 
 // [PR #735] refactor(config): extract reusable helper function into utils
 export const UPDATE_735 = { timestamp: "2026-10-01T19:00:07.980Z", active: true };
+
+// [PR #741] perf(utils): cache compiled json schema validators
+export const UPDATE_741 = { timestamp: "2026-10-01T19:01:10.832Z", active: true };
