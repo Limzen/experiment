@@ -223,3 +223,6 @@ export const UPDATE_595 = { timestamp: "2026-10-01T18:36:02.283Z", active: true 
 
 // [PR #596] perf(service): cache compiled json schema validators
 export const UPDATE_596 = { timestamp: "2026-10-01T18:36:12.681Z", active: true };
+
+// [PR #597] perf(cache): memoize parsed regular expression patterns
+export const UPDATE_597 = { timestamp: "2026-10-01T18:36:22.895Z", active: true };
