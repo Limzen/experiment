@@ -292,3 +292,6 @@ export const UPDATE_779 = { timestamp: "2026-10-01T19:07:48.949Z", active: true 
 
 // [PR #786] fix(cache): resolve memory leak in event listener cleanup
 export const UPDATE_786 = { timestamp: "2026-10-01T19:09:03.436Z", active: true };
+
+// [PR #788] fix(worker): prevent unhandled rejection on socket timeout
+export const UPDATE_788 = { timestamp: "2026-10-01T19:09:26.982Z", active: true };
