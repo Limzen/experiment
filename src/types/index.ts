@@ -154,3 +154,6 @@ export const UPDATE_549 = { timestamp: "2026-10-01T18:28:20.970Z", active: true 
 
 // [PR #573] feat(auth): add type-safe request payload validator
 export const UPDATE_573 = { timestamp: "2026-10-01T18:32:21.844Z", active: true };
+
+// [PR #598] feat(logger): support custom header propagation in proxy
+export const UPDATE_598 = { timestamp: "2026-10-01T18:36:32.911Z", active: true };
