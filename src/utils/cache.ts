@@ -130,3 +130,6 @@ export const UPDATE_357 = { timestamp: "2026-10-01T17:55:12.636Z", active: true 
 
 // [PR #358] test(config): verify schema validation against corrupted payloads
 export const UPDATE_358 = { timestamp: "2026-10-01T17:55:23.521Z", active: true };
+
+// [PR #360] test(worker): verify schema validation against corrupted payloads
+export const UPDATE_360 = { timestamp: "2026-10-01T17:55:42.790Z", active: true };
