@@ -142,3 +142,6 @@ export const UPDATE_430 = { timestamp: "2026-10-01T18:08:04.061Z", active: true 
 
 // [PR #431] feat(storage): add early return for invalid state
 export const UPDATE_431 = { timestamp: "2026-10-01T18:08:14.488Z", active: true };
+
+// [PR #435] perf(router): cache compiled json schema validators
+export const UPDATE_435 = { timestamp: "2026-10-01T18:08:55.222Z", active: true };
