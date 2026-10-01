@@ -250,3 +250,6 @@ export const UPDATE_683 = { timestamp: "2026-10-01T18:51:10.769Z", active: true 
 
 // [PR #685] fix(parser): resolve memory leak in event listener cleanup
 export const UPDATE_685 = { timestamp: "2026-10-01T18:51:31.159Z", active: true };
+
+// [PR #690] feat(parser): optimize query with indexed fields
+export const UPDATE_690 = { timestamp: "2026-10-01T18:52:23.960Z", active: true };
