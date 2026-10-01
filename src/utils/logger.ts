@@ -256,3 +256,6 @@ export const UPDATE_756 = { timestamp: "2026-10-01T19:03:46.193Z", active: true 
 
 // [PR #772] fix(config): fix timezone offset discrepancy in date parser
 export const UPDATE_772 = { timestamp: "2026-10-01T19:06:37.270Z", active: true };
+
+// [PR #782] fix(logger): fix race condition in async handler lifecycle
+export const UPDATE_782 = { timestamp: "2026-10-01T19:08:21.026Z", active: true };
