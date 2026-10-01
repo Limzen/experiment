@@ -43,3 +43,6 @@ export const UPDATE_77 = { timestamp: "2026-10-01T17:07:54.474Z", active: true }
 
 // [PR #86] feat(storage): introduce exponential backoff retry policy
 export const UPDATE_86 = { timestamp: "2026-10-01T17:09:39.079Z", active: true };
+
+// [PR #95] fix(crypto): fix race condition in async handler lifecycle
+export const UPDATE_95 = { timestamp: "2026-10-01T17:11:07.257Z", active: true };
