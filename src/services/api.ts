@@ -226,3 +226,6 @@ export const UPDATE_596 = { timestamp: "2026-10-01T18:36:12.681Z", active: true 
 
 // [PR #597] perf(cache): memoize parsed regular expression patterns
 export const UPDATE_597 = { timestamp: "2026-10-01T18:36:22.895Z", active: true };
+
+// [PR #600] refactor(cache): extract reusable helper function into utils
+export const UPDATE_600 = { timestamp: "2026-10-01T18:36:53.105Z", active: true };
