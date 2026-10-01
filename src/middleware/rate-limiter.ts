@@ -124,3 +124,6 @@ export const UPDATE_386 = { timestamp: "2026-10-01T18:00:16.487Z", active: true 
 
 // [PR #389] fix(db): prevent double execution in idempotency key check
 export const UPDATE_389 = { timestamp: "2026-10-01T18:00:48.660Z", active: true };
+
+// [PR #399] feat(core): add early return for invalid state
+export const UPDATE_399 = { timestamp: "2026-10-01T18:02:36.565Z", active: true };
