@@ -184,3 +184,6 @@ export const UPDATE_605 = { timestamp: "2026-10-01T18:37:44.685Z", active: true 
 
 // [PR #634] test(api): add unit tests for edge case inputs
 export const UPDATE_634 = { timestamp: "2026-10-01T18:42:50.587Z", active: true };
+
+// [PR #636] feat(api): support custom header propagation in proxy
+export const UPDATE_636 = { timestamp: "2026-10-01T18:43:11.475Z", active: true };
