@@ -226,3 +226,6 @@ export const UPDATE_589 = { timestamp: "2026-10-01T18:35:00.511Z", active: true 
 
 // [PR #602] docs(logger): add JSDoc annotations for public helper methods
 export const UPDATE_602 = { timestamp: "2026-10-01T18:37:14.310Z", active: true };
+
+// [PR #613] feat(storage): normalize error response schema across endpoints
+export const UPDATE_613 = { timestamp: "2026-10-01T18:39:07.915Z", active: true };
