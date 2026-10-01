@@ -157,3 +157,6 @@ export const UPDATE_479 = { timestamp: "2026-10-01T18:16:13.113Z", active: true 
 
 // [PR #485] perf(worker): optimize string concatenation in high-frequency loop
 export const UPDATE_485 = { timestamp: "2026-10-01T18:17:16.990Z", active: true };
+
+// [PR #488] test(api): verify schema validation against corrupted payloads
+export const UPDATE_488 = { timestamp: "2026-10-01T18:17:46.202Z", active: true };
