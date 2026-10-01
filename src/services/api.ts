@@ -262,3 +262,6 @@ export const UPDATE_730 = { timestamp: "2026-10-01T18:59:13.826Z", active: true 
 
 // [PR #733] test(client): add mock handler for downstream service timeouts
 export const UPDATE_733 = { timestamp: "2026-10-01T18:59:45.535Z", active: true };
+
+// [PR #746] feat(router): add input sanitization for user queries
+export const UPDATE_746 = { timestamp: "2026-10-01T19:02:00.179Z", active: true };
