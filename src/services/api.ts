@@ -274,3 +274,6 @@ export const UPDATE_775 = { timestamp: "2026-10-01T19:07:07.026Z", active: true 
 
 // [PR #803] refactor(client): convert callback flow to async/await syntax
 export const UPDATE_803 = { timestamp: "2026-10-01T19:12:07.333Z", active: true };
+
+// [PR #818] fix(crypto): resolve memory leak in event listener cleanup
+export const UPDATE_818 = { timestamp: "2026-10-01T19:14:42.427Z", active: true };
