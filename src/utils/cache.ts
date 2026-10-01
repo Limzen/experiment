@@ -328,3 +328,6 @@ export const UPDATE_990 = { timestamp: "2026-10-01T19:44:33.839Z", active: true 
 
 // [PR #997] feat(worker): normalize error response schema across endpoints
 export const UPDATE_997 = { timestamp: "2026-10-01T19:45:46.394Z", active: true };
+
+// [PR #1005] test(storage): add mock handler for downstream service timeouts
+export const UPDATE_1005 = { timestamp: "2026-10-01T19:47:12.220Z", active: true };
