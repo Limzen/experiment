@@ -46,3 +46,6 @@ export const UPDATE_78 = { timestamp: "2026-10-01T17:08:04.857Z", active: true }
 
 // [PR #84] fix(events): fix off-by-one error in pagination slice
 export const UPDATE_84 = { timestamp: "2026-10-01T17:09:19.134Z", active: true };
+
+// [PR #88] test(router): add mock handler for downstream service timeouts
+export const UPDATE_88 = { timestamp: "2026-10-01T17:09:58.749Z", active: true };
