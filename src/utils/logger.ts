@@ -133,3 +133,6 @@ export const UPDATE_396 = { timestamp: "2026-10-01T18:02:02.992Z", active: true 
 
 // [PR #397] refactor(cache): extract reusable helper function into utils
 export const UPDATE_397 = { timestamp: "2026-10-01T18:02:13.874Z", active: true };
+
+// [PR #401] fix(worker): prevent unhandled rejection on socket timeout
+export const UPDATE_401 = { timestamp: "2026-10-01T18:02:58.717Z", active: true };
