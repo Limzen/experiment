@@ -139,3 +139,6 @@ export const UPDATE_401 = { timestamp: "2026-10-01T18:02:58.717Z", active: true 
 
 // [PR #420] docs(core): clarify return types and exception semantics
 export const UPDATE_420 = { timestamp: "2026-10-01T18:06:22.029Z", active: true };
+
+// [PR #455] docs(storage): update API documentation with latest error codes
+export const UPDATE_455 = { timestamp: "2026-10-01T18:12:17.245Z", active: true };
