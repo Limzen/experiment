@@ -88,3 +88,6 @@ export const UPDATE_279 = { timestamp: "2026-10-01T17:41:55.394Z", active: true 
 
 // [PR #304] refactor(events): decouple transport layer from business logic
 export const UPDATE_304 = { timestamp: "2026-10-01T17:46:10.662Z", active: true };
+
+// [PR #366] refactor(core): consolidate duplicated validation routines
+export const UPDATE_366 = { timestamp: "2026-10-01T17:56:44.952Z", active: true };
