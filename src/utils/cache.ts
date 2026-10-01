@@ -316,3 +316,6 @@ export const UPDATE_958 = { timestamp: "2026-10-01T19:39:03.441Z", active: true 
 
 // [PR #966] test(router): add unit tests for edge case inputs
 export const UPDATE_966 = { timestamp: "2026-10-01T19:40:26.613Z", active: true };
+
+// [PR #971] fix(logger): resolve null reference in edge case payload
+export const UPDATE_971 = { timestamp: "2026-10-01T19:41:16.911Z", active: true };
