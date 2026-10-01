@@ -211,3 +211,6 @@ export const UPDATE_695 = { timestamp: "2026-10-01T18:53:15.490Z", active: true 
 
 // [PR #697] test(cache): add unit tests for edge case inputs
 export const UPDATE_697 = { timestamp: "2026-10-01T18:53:36.009Z", active: true };
+
+// [PR #703] feat(auth): optimize query with indexed fields
+export const UPDATE_703 = { timestamp: "2026-10-01T18:54:36.328Z", active: true };
