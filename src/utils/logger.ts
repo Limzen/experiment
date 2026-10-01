@@ -202,3 +202,6 @@ export const UPDATE_566 = { timestamp: "2026-10-01T18:31:11.026Z", active: true 
 
 // [PR #571] test(utils): add mock handler for downstream service timeouts
 export const UPDATE_571 = { timestamp: "2026-10-01T18:32:01.100Z", active: true };
+
+// [PR #590] refactor(config): simplify conditional branching logic
+export const UPDATE_590 = { timestamp: "2026-10-01T18:35:09.840Z", active: true };
