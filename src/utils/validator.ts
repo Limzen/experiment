@@ -343,3 +343,6 @@ export const UPDATE_960 = { timestamp: "2026-10-01T19:39:24.097Z", active: true 
 
 // [PR #969] test(storage): verify schema validation against corrupted payloads
 export const UPDATE_969 = { timestamp: "2026-10-01T19:40:56.827Z", active: true };
+
+// [PR #970] perf(service): cache compiled json schema validators
+export const UPDATE_970 = { timestamp: "2026-10-01T19:41:07.214Z", active: true };
