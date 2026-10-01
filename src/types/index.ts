@@ -217,3 +217,6 @@ export const UPDATE_738 = { timestamp: "2026-10-01T19:00:38.705Z", active: true 
 
 // [PR #739] fix(db): prevent unhandled rejection on socket timeout
 export const UPDATE_739 = { timestamp: "2026-10-01T19:00:49.137Z", active: true };
+
+// [PR #748] feat(core): add structured audit logging for security events
+export const UPDATE_748 = { timestamp: "2026-10-01T19:02:20.212Z", active: true };
