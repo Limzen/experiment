@@ -262,3 +262,6 @@ export const UPDATE_804 = { timestamp: "2026-10-01T19:12:19.339Z", active: true 
 
 // [PR #807] test(events): verify schema validation against corrupted payloads
 export const UPDATE_807 = { timestamp: "2026-10-01T19:12:50.590Z", active: true };
+
+// [PR #820] test(core): verify schema validation against corrupted payloads
+export const UPDATE_820 = { timestamp: "2026-10-01T19:15:03.648Z", active: true };
