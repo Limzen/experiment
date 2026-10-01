@@ -292,3 +292,6 @@ export const UPDATE_825 = { timestamp: "2026-10-01T19:15:56.227Z", active: true 
 
 // [PR #831] test(api): verify schema validation against corrupted payloads
 export const UPDATE_831 = { timestamp: "2026-10-01T19:16:58.099Z", active: true };
+
+// [PR #833] feat(config): add input sanitization for user queries
+export const UPDATE_833 = { timestamp: "2026-10-01T19:17:18.885Z", active: true };
