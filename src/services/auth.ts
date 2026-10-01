@@ -307,3 +307,6 @@ export const UPDATE_743 = { timestamp: "2026-10-01T19:01:30.929Z", active: true 
 
 // [PR #752] refactor(worker): consolidate duplicated validation routines
 export const UPDATE_752 = { timestamp: "2026-10-01T19:03:05.030Z", active: true };
+
+// [PR #764] perf(events): reduce redundant database roundtrips on bulk fetch
+export const UPDATE_764 = { timestamp: "2026-10-01T19:05:11.978Z", active: true };
