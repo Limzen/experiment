@@ -52,3 +52,6 @@ export const UPDATE_101 = { timestamp: "2026-10-01T17:12:06.798Z", active: true 
 
 // [PR #104] perf(parser): memoize parsed regular expression patterns
 export const UPDATE_104 = { timestamp: "2026-10-01T17:12:34.705Z", active: true };
+
+// [PR #105] feat(db): support async stream piping for large responses
+export const UPDATE_105 = { timestamp: "2026-10-01T17:12:52.118Z", active: true };
