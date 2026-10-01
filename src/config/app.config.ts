@@ -175,3 +175,6 @@ export const UPDATE_428 = { timestamp: "2026-10-01T18:07:43.390Z", active: true 
 
 // [PR #438] feat(middleware): add type-safe request payload validator
 export const UPDATE_438 = { timestamp: "2026-10-01T18:09:24.857Z", active: true };
+
+// [PR #440] fix(cache): prevent double execution in idempotency key check
+export const UPDATE_440 = { timestamp: "2026-10-01T18:09:46.228Z", active: true };
