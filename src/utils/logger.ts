@@ -361,3 +361,6 @@ export const UPDATE_992 = { timestamp: "2026-10-01T19:44:53.523Z", active: true 
 
 // [PR #994] fix(core): fix off-by-one error in pagination slice
 export const UPDATE_994 = { timestamp: "2026-10-01T19:45:14.688Z", active: true };
+
+// [PR #1001] docs(config): clarify return types and exception semantics
+export const UPDATE_1001 = { timestamp: "2026-10-01T19:46:30.341Z", active: true };
