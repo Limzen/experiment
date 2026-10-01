@@ -301,3 +301,6 @@ export const UPDATE_865 = { timestamp: "2026-10-01T19:22:51.385Z", active: true 
 
 // [PR #869] fix(api): fix broken query string serialization for arrays
 export const UPDATE_869 = { timestamp: "2026-10-01T19:23:31.546Z", active: true };
+
+// [PR #884] feat(events): implement cache eviction with LRU strategy
+export const UPDATE_884 = { timestamp: "2026-10-01T19:26:10.576Z", active: true };
