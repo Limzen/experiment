@@ -118,3 +118,6 @@ export const UPDATE_378 = { timestamp: "2026-10-01T17:58:50.729Z", active: true 
 
 // [PR #381] refactor(storage): convert callback flow to async/await syntax
 export const UPDATE_381 = { timestamp: "2026-10-01T17:59:21.914Z", active: true };
+
+// [PR #386] feat(worker): support custom header propagation in proxy
+export const UPDATE_386 = { timestamp: "2026-10-01T18:00:16.487Z", active: true };
